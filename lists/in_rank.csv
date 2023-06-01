@@ -1,0 +1,725 @@
+url,category_code,category_description,date_added,source,notes,rank
+http://ethiomuslimsmedia.com/index.php/news-paper/132-burma/,COMM,E-commerce,2014-04-15,citizenlab,content changed but domain still blocked - monitor,81864496
+http://apniisp.com/,FILE,File-sharing,2014-04-15,citizenlab,"Music sharing website. Updated recently, seems active. No redirect to HTTPS either.",3442553
+http://bollyextreme.com/,FILE,File-sharing,2014-04-15,citizenlab,"Possibly old file sharing website, does not seem to be active in the last 2-3 years. Blocked on some ISPs - monitor",81756084
+http://cckerala.com/,FILE,File-sharing,2014-04-15,citizenlab,"Old Kerala news website, not updated since 2012. Still blocked - monitor",11614980
+http://downloadming.com/,FILE,File-sharing,2014-04-15,citizenlab,"Bollywood music sharing, appears blocked - monitor",16073741
+http://filmimusic.com/,FILE,File-sharing,2014-04-15,citizenlab,Possibly old file sharing website,26841753
+http://freefundoo.com/,FILE,File-sharing,2014-04-15,citizenlab,old file sharing website but still blocked - monitor,162430257
+http://mobidreamz.com/,FILE,File-sharing,2014-04-15,citizenlab,blocked (OONI explorer),-1
+http://muskurahat.com/,FILE,File-sharing,2014-04-15,citizenlab,,2138048
+http://mymaza.com/,FILE,File-sharing,2014-04-15,citizenlab,403 error. The resource is blocked - monitor,-1
+http://songs.pk/,FILE,File-sharing,2014-04-15,citizenlab,Music sharing website. Domain blocked - monitor,6407764
+http://songsinn.com/,FILE,File-sharing,2014-04-15,citizenlab,Music sharing website. Blocked  - monitor,17555801
+http://songslover.com/,FILE,File-sharing,2014-04-15,citizenlab,Music sharing website. Blocked  - monitor,9652238
+http://sunomusic.com/,FILE,File-sharing,2014-04-15,citizenlab,blocked sharing website - monitor,50547687
+http://wapindia.net/,FILE,File-sharing,2014-04-15,citizenlab,blocked resource,54107489
+http://waprocks.in/,FILE,File-sharing,2014-04-15,citizenlab,blocked resource,-1
+http://givemetheheadlines.wordpress.com/2012/07/29/hindus-kill-muslims-in-india-44-dead-170000-made-homeless/,MILX,Terrorism and Militants,2014-04-15,citizenlab,"News aggregation, blocked - monitor",-1
+http://pctvbill.blogspot.in/2012/08/hindu-women-in-india-found-raped-and.html/,MILX,Terrorism and Militants,2014-04-15,citizenlab,About communal violence,-1
+http://apunkabollywood.com/,MMED,Media sharing,2014-04-15,citizenlab,"Music sharing website. Almost FTP-like interface, could not determine when it was last updated. No redirect to HTTPS either.",14054794
+http://karachimag.com/,MMED,Media sharing,2014-04-15,citizenlab,,8931022
+http://mazafm.com/,MMED,Media sharing,2014-04-15,citizenlab,blocked (OONI explorer),14887133
+http://paktimes.com/,MMED,Media sharing,2014-04-15,citizenlab,outdated but still blocked - monitor,12592424
+http://topupmp3.com/,MMED,Media sharing,2014-04-15,citizenlab,"Now serves as Youtube to mp3 converter, can still keep",11783290
+http://bdcburma.wordpress.com/2012/07/27/photos-about-burmese-buddhists-killed-the-muslims-in-burma-2/,NEWS,News Media,2014-04-15,citizenlab,"A photo gallery, related to incidents in Burma. Outdated but still blocked - monitor",32287893
+http://drashukumar.files.wordpress.com/2011/10/ashokarorashivaniarticle.doc/,NEWS,News Media,2014-04-15,citizenlab,Accusation of corruption in the judiciary,-1
+http://drashukumar.files.wordpress.com/2011/10/who_got_shivani_killed.doc/,NEWS,News Media,2014-04-15,citizenlab,Accusation of corruption in the judiciary,-1
+http://farazahmed.com/wp-content/uploads/2012/07/602535_335682046513473_517563933_n.jpg/,NEWS,News Media,2014-04-15,citizenlab,Image related to Muslim genocide in Myanmar,10482144
+http://hinduhumanrights.org/,NEWS,News Media,2014-04-15,citizenlab,"Seems to be a generic news website, name implies human rights for the Hindu majority",1646503
+http://nndh.com/,NEWS,News Media,2014-04-15,citizenlab,Site blocked by the Indian government - monitor,84329651
+http://www.allvoices.com/contributed-news/12584536-world-silent-over-the-tragic-and-planted-genocide-of-muslims-in-burma/,NEWS,News Media,2014-04-15,citizenlab,Myanmar muslim genocide. Now 404 but still blocked - monitor,43907
+http://www.atjehcyber.net/,NEWS,News Media,2014-04-15,citizenlab,dead website but still blocked - monitor,636062
+http://www.imamali8.com/,NEWS,News Media,2014-04-15,citizenlab,dead wesbite but still blocked - monitor,12588889
+http://www.nndh.com/,NEWS,News Media,2014-04-15,citizenlab,"Domain is for sale, but still keeps information that the Indian government blocked it. Recommend still keeping in the list for this reason.",84329651
+http://www.rahulyadav.com/,NEWS,News Media,2014-04-15,citizenlab,"was blocked because of an order, blog probably has hindu nationalist content",55325422
+http://www.unipay2u.com/,NEWS,News Media,2014-04-15,citizenlab,Redirecting to parked page. But domain blocked soo keep in list for monitoring.,32759519
+http://www.visarev.com/,NEWS,News Media,2014-04-15,citizenlab,blocked domain - monitor,34502712
+https://www.firstpost.com/,NEWS,News Media,2014-04-15,citizenlab,,10387
+https://www.hindujagruti.org/,NEWS,News Media,2014-04-15,citizenlab,,128733
+http://ganduhotspot.blogspot.com/2012/07/intl-union-of-unified-ummah-condemns.html/,REL,Religion,2014-04-15,citizenlab,Advovacy around Muslim genocide in Myanmar,-1
+http://takbeeremusalsal.blogspot.com/2012/07/myanmar-muslims-massacre.html/,REL,Religion,2014-04-15,citizenlab,Myanmar muslim genocide,12897106
+http://twocircles.net/2012jun01/petty_dispute_leads_death_one_mathura.html/,REL,Religion,2014-04-15,citizenlab,Article about death in 2012,113349
+https://depositfiles.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,cloud service,91224
+https://funscrape.com/,CULTR,Culture,2014-04-15,citizenlab,"Hosting information about US universities now, but still blocked.",2204262
+https://defence.pk/,GOVT,Government,2014-04-15,citizenlab,,61614
+https://sheikyermami.com/2012/06/burma-tensions-between-buddhist-residents-and-illegal-muslims-kill-seven/,NEWS,News Media,2014-04-15,citizenlab,"Opinion pieces, but seem a bit anti-Islam",124400
+https://www.barandbench.com/,NEWS,News Media,2014-04-15,citizenlab,,55998
+https://caravanmagazine.in/,NEWS,News Media,2014-04-15,citizenlab,,27265
+https://www.careers360.com/,NEWS,News Media,2014-04-15,citizenlab,,27805
+https://indianexpress.com/,NEWS,News Media,2014-04-15,citizenlab,,5447
+https://jammag.com/,NEWS,News Media,2014-04-15,citizenlab,,6469080
+https://www.mensxp.com/,NEWS,News Media,2014-04-15,citizenlab,,48607
+https://www.moneycontrol.com/,NEWS,News Media,2014-04-15,citizenlab,,10914
+https://www.ugc.ac.in/,NEWS,News Media,2014-04-15,citizenlab,,119023
+https://epaper.anandabazar.com/,NEWS,News Media,2014-04-15,citizenlab,Telegraph India is a major newspaper in India,10547785
+https://hinduexistence.org/,POLR,Political Criticism,2014-04-15,citizenlab,,1271540
+https://islampeace1.wordpress.com/2012/07/13/muslims-situation-in-burma/,REL,Religion,2014-04-15,citizenlab,Coverage of pogroms in Myanmar,12821429
+https://desijammers.com/,CULTR,Culture,2014-04-15,citizenlab,"A website for a DJ now, but blocked on lots of ISPs.",11862824
+https://mediafire.com/,FILE,File-sharing,2014-04-15,citizenlab,,152
+https://musicindiaonline.com/,FILE,File-sharing,2014-04-15,citizenlab,,166613
+https://sendspace.com/,FILE,File-sharing,2014-04-15,citizenlab,File sharing website ,13092
+https://songzilla.com/,FILE,File-sharing,2014-04-15,citizenlab,Music sharing website ,71967940
+https://typepad.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,"Some ISPs in India may still be blocking perhaps, worth keeping for monitoring.",15416
+https://janamejayan.wordpress.com/2012/08/14/jihad-in-assam-2-parts-sandeep/,MILX,Terrorism and Militants,2014-04-15,citizenlab,,6897711
+https://ragalahari.com/,MMED,Media sharing,2014-04-15,citizenlab,,262207
+https://articles.economictimes.indiatimes.com/2012-07-19/news/32747422_1_iipm-award-degrees-ugc/,NEWS,News Media,2014-04-15,citizenlab,Relates to a popular censorship order by a court. Economic Times is a popular newspaper.,18469
+https://articles.timesofindia.indiatimes.com/2011-06-22/bangalore/29689648_1_iipm-counsel-tamil-nadu/,NEWS,News Media,2014-04-15,citizenlab,Relates to a popular censorship order by a court. Times of India is a popular newspaper.,19687
+https://thedailynewsegypt.com/2012/07/02/myanmars-minority-muslims-under-attack-2/,NEWS,News Media,2014-04-15,citizenlab,Myanmar muslim genocide,88155
+https://thepiratescove.us/,NEWS,News Media,2014-04-15,citizenlab,,1152779
+https://www.indybay.org/,NEWS,News Media,2014-04-15,citizenlab,,35262
+https://www.irrawaddy.com/news/burma/us-denies-ethnic-cleansing-in-burma.html/,REL,Religion,2014-04-15,citizenlab,,19304
+https://blog.hiddenharmonies.org/2012/08/riots-in-assam/,REL,Religion,2014-04-15,citizenlab,"Blogpost on Assam riots. Blog with pro-China views, still active.",2591746
+https://blogs.tribune.com.pk/story/12867/social-media-is-lying-to-you-about-burmas-muslim-cleansing/,REL,Religion,2014-04-15,citizenlab,Pakistani news media article about some images of Muslims being massacred in Burma.,124880
+https://merhrom.wordpress.com/2012/06/05/massacre-of-muslim-pilgrims-by-the-gang-of-rakhine-terrorists-in-taungup/,REL,Religion,2014-04-15,citizenlab,Coverage of pogroms in Myanmar,6910965
+https://issuu.com/myanmarfriend/docs/situation_in_rakhine_state?viewmode=singlepage/,POLR,Political Criticism,2014-04-15,citizenlab,Coverage of pogroms in Myanmar (slide show hosted on a file sharing website),116
+http://imagessearchyahoo.com/,MMED,Media sharing,2014-04-15,citizenlab,Seems like a phishing website - monitor,15159485
+https://manipurtimes.com/,NEWS,News Media,2016-04-15,OONI,,7747472
+https://www.outlookindia.com/,NEWS,News Media,2016-04-15,OONI,,6015
+http://www.amazon.in/,COMM,E-commerce,2016-06-14,OONI,Amazon India website,1082
+https://www.clickastro.com/,CULTR,Culture,2016-06-14,OONI,Astrology website,26649
+http://www.indian-heritage.org/,CULTR,Culture,2016-06-14,OONI,,426367
+http://www.scientificastrology.com/,CULTR,Culture,2016-06-14,OONI,,14222161
+http://www.thisismyindia.com/,CULTR,Culture,2016-06-14,OONI,,582041
+https://www.greenpeace.org/india/en/,ENV,Environment,2016-06-14,OONI,NGO ,210
+https://india.gov.in/,GOVT,Government,2016-06-14,OONI,Indian gov website,41328
+http://www.indianrail.gov.in/,GOVT,Government,2016-06-14,OONI,,106020
+http://www.aardip.org/,HUMR,Human Rights Issues,2016-06-14,OONI,,47528724
+http://www.deepalaya.org/,HUMR,Human Rights Issues,2016-06-14,OONI,NGO working on various issues,7570757
+http://www.pratham.org/,HUMR,Human Rights Issues,2016-06-14,OONI,,68898
+http://www.tehelka.com/,NEWS,News Media,2016-06-14,OONI,Tehelka is known for investigations & sting operations.,54832
+https://mic.com/articles/89441/11-photos-of-anti-muslim-violence-that-have-many-worried-about-india-s-future#.sdoXLQ911/,POLR,Political Criticism,2016-06-14,OONI,,10426
+https://www.inc.in/,POLR,Political Criticism,2016-06-14,OONI,Indian National Congress party,117367
+http://www.telugudesam.org/,POLR,Political Criticism,2016-06-14,OONI,,2052007
+http://www.thecsf.org/2016/01/21/india-not-safe-to-be-christian-catholic-forum-report-on-indian-persecution-2015-2/,REL,Religion,2016-06-14,OONI,,11515457
+http://www.thecsf.org/,REL,Religion,2016-06-14,OONI,,11515457
+https://www.bjp.org/,POLR,Political Criticism,2016-06-14,OONI,,67467
+https://sellglobal.ebay.in/seller-center/,COMM,E-commerce,2016-06-14,OONI,,2698768
+https://www.pmindia.gov.in/,GOVT,Government,2016-06-14,OONI,,12931
+https://cis-india.org/,HUMR,Human Rights Issues,2016-06-14,OONI,NGO working on digital rights ,34005
+https://www.vice.com/en/article/vbnxdj/narendra-modis-shame-muslim-survivors-of-the-gujarat-riots-are-still-suffering/,POLR,Political Criticism,2016-06-14,OONI,Article on muslim genocide of 2002 in Gujarat,202
+http://janataparty.org.in/,POLR,Political Criticism,2016-06-14,OONI,,109666955
+https://christianpersecutionindia.blogspot.com/,REL,Religion,2016-06-14,OONI,Website documenting persecution of Christians in India,33999051
+https://www.flipkart.com/,COMM,E-commerce,2016-06-14,OONI,,5284
+https://www.myntra.com/,COMM,E-commerce,2016-06-14,OONI,,22935
+https://www.shopclues.com/,COMM,E-commerce,2016-06-14,OONI,,103387
+https://www.snapdeal.com/,COMM,E-commerce,2016-06-14,OONI,,19980
+https://www.tradus.com/,COMM,E-commerce,2016-06-14,OONI,,2667915
+https://www.askganesha.com/,CULTR,Culture,2016-06-14,OONI,Astrology website,7191324
+https://www.astroyogi.com/,CULTR,Culture,2016-06-14,OONI,Astrology website,118253
+https://www.culturalindia.net/,CULTR,Culture,2016-06-14,OONI,,100951
+https://www.esamskriti.com/,CULTR,Culture,2016-06-14,OONI,,199750
+https://www.futurepointindia.com/,CULTR,Culture,2016-06-14,OONI,,3760503
+https://www.ganeshaspeaks.com/,CULTR,Culture,2016-06-14,OONI,,398744
+https://www.incredibleindia.org/content/incredible-india-v2/en.html,CULTR,Culture,2016-06-14,OONI,,91980
+https://www.indastro.com/,CULTR,Culture,2016-06-14,OONI,,2190191
+https://www.indianmirror.com/,CULTR,Culture,2016-06-14,OONI,,61659
+https://www.indiamatch.com/,DATE,Online Dating,2016-06-14,OONI,,28228596
+https://www.indiancupid.com/,DATE,Online Dating,2016-06-14,OONI,,289181
+https://www.indiandating.com/,DATE,Online Dating,2016-06-14,OONI,,5562292
+https://www.jodi365.com/,DATE,Online Dating,2016-06-14,OONI,,11250320
+https://www.metrodate.com/,DATE,Online Dating,2016-06-14,OONI,,9289820
+https://www.quackquack.in/,DATE,Online Dating,2016-06-14,OONI,,1669284
+https://www.shaadi.com/,DATE,Online Dating,2016-06-14,OONI,,63835
+https://www.afarm.org/,ENV,Environment,2016-06-14,OONI,Website of an NGO coordinating action on environmental issues. Not sure why/when it was blocked specifically.,7355096
+https://csa-india.org/,ENV,Environment,2016-06-14,OONI,"Website for Centre for Sustainable Agriculture, working for farmer welfare.",1711284
+https://thanal.co.in/,ENV,Environment,2016-06-14,OONI,,2656705
+https://www.drcsc.org/,ENV,Environment,2016-06-14,OONI,,4779305
+https://www.incometaxindia.gov.in/,GOVT,Government,2016-06-14,OONI,,30486
+https://www.ssc.nic.in/,GOVT,Government,2016-06-14,OONI,,188766
+https://www.aidindia.org/,HUMR,Human Rights Issues,2016-06-14,OONI,India focused NGO based in the US,124463
+https://www.cry.org/,HUMR,Human Rights Issues,2016-06-14,OONI,Child rights NGO,1267559
+https://www.giveindia.org/,HUMR,Human Rights Issues,2016-06-14,OONI,NGO ,121742
+https://www.goonj.org/,HUMR,Human Rights Issues,2016-06-14,OONI,Child rights NGO,1169589
+https://www.helpageindia.org/,HUMR,Human Rights Issues,2016-06-14,OONI,,2169428
+https://www.planindia.org/,HUMR,Human Rights Issues,2016-06-14,OONI,,1476872
+https://www.smilefoundationindia.org/,HUMR,Human Rights Issues,2016-06-14,OONI,,426132
+https://www.teachforindia.org/,HUMR,Human Rights Issues,2016-06-14,OONI,,1417616
+https://www.udayfoundationindia.org/,HUMR,Human Rights Issues,2016-06-14,OONI,,5633456
+https://www.hardnewsmedia.com/,NEWS,News Media,2016-06-14,OONI,,257670
+https://tribune.com.pk/story/511944/modi-and-the-2002-massacre/,POLR,Political Criticism,2016-06-14,OONI,Article about attacks on Muslims in 2002,15541
+https://www.cpim.org/,POLR,Political Criticism,2016-06-14,OONI,Political party,171069
+https://www.drbatras.com/,PUBH,Public Health,2016-06-14,OONI,,2733089
+https://www.medindia.net/,PUBH,Public Health,2016-06-14,OONI,,25907
+https://www.practo.com/,PUBH,Public Health,2016-06-14,OONI,,15019
+https://www.foxnews.com/world/christian-persecution-by-hindus-rises-in-india-say-humanitarian-groups/,REL,Religion,2016-06-14,OONI,Article on minority persecution in India,354
+https://zeenews.india.com/news/india/mob-violence-against-muslims-rising-ghulam-nabi-azad_1867800.html/,REL,Religion,2016-06-14,OONI,,11709
+https://www.christiantoday.com/article/india.600.violent.attacks.on.christians.and.muslims.since.may/50574.htm/,REL,Religion,2016-06-14,OONI,Attacks on minorities in India,25267
+https://www.islamawareness.net/Asia/India/muslims_in_india.html/,REL,Religion,2016-06-14,OONI,,107228
+https://www.onlymyhealth.com/,XED,Sex Education,2016-06-14,OONI,,1411441
+http://jammukashmirtimes.com/,NEWS,News Media,2016-06-15,OONI,,41604355
+http://www.kashmirtimes.com/,NEWS,News Media,2016-06-15,OONI,,164062
+http://kanglaonline.com/2016/02/corcom-questions-manipur-nationalist-party-presidents-statement/,POLR,Political Criticism,2016-06-15,OONI,This site talks about the separatist movement in Manipur.,177402
+http://www.e-pao.net/GP.asp?src=5..080714.jul14/,POLR,Political Criticism,2016-06-15,OONI,Site covering separatist movement in Manipur.,209126
+https://www.dnaindia.com/,NEWS,News Media,2016-06-15,OONI,,12443
+http://tehelka.com/,NEWS,News Media,2016-06-15,OONI,,54832
+https://www.navdanya.org/site/,ENV,Environment,2016-06-15,OONI,,266329
+http://www.achrweb.org/,HUMR,Human Rights Issues,2016-06-15,OONI,,157527
+https://www.ifp.co.in/,POLR,Political Criticism,2016-06-15,OONI,This news site talks about the separatist movement in Manipur.,514363
+https://www.ndtv.com/,NEWS,News Media,2016-06-15,OONI,,1687
+https://safegreen.in/,ENV,Environment,2016-06-15,OONI,,22472357
+https://dailykashmirtimes.com.pk/,NEWS,News Media,2016-06-15,OONI,"Kashmiri news, in Urdu. May have been blocked because of anti-state coverage.",55973889
+https://thenortheasttoday.com/,NEWS,News Media,2016-06-15,OONI,News focusing on North East India,295698
+https://www.assamtribune.com/,NEWS,News Media,2016-06-15,OONI,News website focusing on Assam,97451
+https://www.imphaltimes.com/,NEWS,News Media,2016-06-15,OONI,,1644522
+https://www.manipurtimes.com/,NEWS,News Media,2016-06-15,OONI,Site covering separatist movement in Manipur.,7747472
+https://www.dnaindia.com/india/report-confused-between-maoists-and-naxalities-read-on-to-know-the-difference-1949798/,POLR,Political Criticism,2016-06-15,OONI,,12443
+https://factsindia.wordpress.com/category/corcom/,POLR,Political Criticism,2016-06-15,OONI,Blog monitoring terrorism,-1
+https://www.ibtimes.co.uk/modi-uk-visit-who-are-groups-protesting-against-narendra-modi-what-do-they-want-1528406/,POLR,Political Criticism,2016-06-15,OONI,,4848
+https://www.bbc.com/bengali/,NEWS,News Media,2017-07-19,BBC,,96
+https://www.bbc.com/hindi/,NEWS,News Media,2017-07-19,BBC,,96
+https://www.bbc.com/urdu/,NEWS,News Media,2017-07-19,BBC,,96
+http://twocircles.net/,NEWS,News Media,2017-11-27,OONI,News of marginalized communities,113349
+https://qz.com/india/,NEWS,News Media,2017-11-27,citizenlab,,248
+https://www.channelnewsasia.com/,NEWS,News Media,2017-11-27,citizenlab,,4800
+https://www.aljazeera.com/news/2017/11/22/us-myanmar-attacks-on-rohingya-ethnic-cleansing/,NEWS,News Media,2017-11-27,citizenlab,,1556
+https://www.scmp.com/week-asia/geopolitics/article/2115839/why-do-china-india-back-myanmar-over-rohingya-crisis/,NEWS,News Media,2017-11-27,citizenlab,Myanmar muslim genocide,523
+https://hi.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,46787
+https://mr.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,131294
+https://ta.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,80999
+https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,5510
+https://meta.wikimedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,2782
+https://ml.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,31941
+https://hi.m.wikipedia.org/,CULTR,Culture,2019-02-17,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,910935
+http://questions.menstrupedia.com/questions/1188/what-is-the-maximum-time-one-can-take-contraceptive-pills-after-unprotected-sex-on-the-first-day-of-menstrual-cycle/,XED,Sex Education,2019-02-17,csk,,14309447
+https://www.tarshi.net/,XED,Sex Education,2019-02-17,csk,,1415730
+https://saathipads.com/,XED,Sex Education,2019-02-17,csk,Eco friendly mensturation products,84816
+https://www.hidden-pockets.com/,XED,Sex Education,2019-02-17,csk,,2350236
+https://freepresskashmir.com/,NEWS,News Media,2019-02-19,csk,,568637
+https://www.happn.com/en/,DATE,Online Dating,2019-02-21,csk,,20503
+https://trulymadly.com/,DATE,Online Dating,2019-02-21,csk,,67380
+http://queerala.org/be-you-a-gathering-on-coming-out-concerns-and-acceptance-from-families/,LGBT,LGBT,2019-02-21,csk,,2812462
+https://humsafar.org/,LGBT,LGBT,2019-02-21,csk,,1656081
+http://www.gaylaxymag.com/latest-news/transgender-rights-bill-and-surrogacy-bill-lapse-as-rajya-sabha-adjourns-sine-die/,LGBT,LGBT,2019-02-21,csk,,413528
+https://www.sentinelassam.com/,NEWS,News Media,2019-02-21,csk,,80396
+https://queer-ink.com/,LGBT,LGBT,2019-02-21,csk,,2412951
+https://www.medianama.com/,NEWS,News Media,2019-02-21,csk,,33834
+https://swarajyamag.com/,NEWS,News Media,2019-02-21,csk,,61283
+https://www.buzzfeed.com/tejasharad/dus-zero-cutoff-for-scst-students-shows-exactly-why/,POLR,Political Criticism,2019-02-21,csk,Dalit perspectives,131
+https://www.quikr.com/bazaar/,COMM,E-commerce,2019-02-22,csk,,41357
+http://loverollers.com/,COMM,E-commerce,2019-02-22,csk,,11258204
+https://goenchimati.org/,ENV,Environment,2019-02-22,csk,,11670375
+https://in.linkedin.com/,COMT,Communication Tools,2019-03-03,csk,Social Media,2557
+http://filefreak.com/,FILE,File-sharing,2019-03-03,csk,File sharing website ,1666954
+https://sandrp.in/,ENV,Environment,2019-03-20,csk,,428709
+http://hrimanipur.org/,HUMR,Human Rights Issues,2019-03-20,csk,,35352045
+https://humanrightsmanipur.wordpress.com/,HUMR,Human Rights Issues,2019-03-20,csk,,-1
+https://cramanipur.wordpress.com/,HUMR,Human Rights Issues,2019-03-20,csk,,13122541
+https://manipurallianceforchildrights.blogspot.com/,HUMR,Human Rights Issues,2019-03-20,csk,,39868539
+https://justpeacefoundation.blogspot.com/,HUMR,Human Rights Issues,2019-03-20,csk,,-1
+https://corenortheast.wordpress.com/,HUMR,Human Rights Issues,2019-03-20,csk,,40884108
+https://kukiblackday.com/,HUMR,Human Rights Issues,2019-03-20,csk,,-1
+http://www.womensurvivorsnetwork.org/,HUMR,Human Rights Issues,2019-03-20,csk,,8579158
+https://www.eenadu.net/,NEWS,News Media,2019-03-20,csk,,190609
+https://www.andhrajyothy.com/,NEWS,News Media,2019-03-20,csk,,263790
+http://mpaper.sakshi.com/,NEWS,News Media,2019-03-20,csk,,26091246
+http://lankeshpatrike.com/,NEWS,News Media,2019-03-20,csk,,99630818
+https://www.thekashmirmonitor.net/,NEWS,News Media,2019-03-20,csk,,248090
+https://kashmirobserver.net/,NEWS,News Media,2019-03-20,csk,,115430
+https://www.heraldgoa.in/,NEWS,News Media,2019-03-20,csk,,408026
+http://www.nagalandpost.com/,NEWS,News Media,2019-03-20,csk,,177520
+https://www.bhaskar.com/,NEWS,News Media,2019-03-20,csk,,60336
+https://www.mathrubhumi.com/,NEWS,News Media,2019-03-20,csk,,18892
+https://kashmirreader.com/,NEWS,News Media,2019-03-20,csk,,85714
+https://www.hindustantimes.com/,NEWS,News Media,2019-03-20,csk,,5151
+https://www.theshillongtimes.com/,NEWS,News Media,2019-03-20,csk,,124571
+https://indiankanoon.org/,SRCH,Search Engines,2019-03-27,OONI,Reportedly blocked on Jio,28427
+https://www.altnews.in/,NEWS,News Media,2019-04-09,OONI,Fact checking website,60621
+https://www.thehindu.com/,REL,Religion,2019-04-09,OONI,Popular english newspaper,1790
+https://www.newslaundry.com/,NEWS,News Media,2019-04-09,OONI,Media watchdog website,68978
+https://thewire.in/,NEWS,News Media,2019-04-09,OONI,Independent news media website,13304
+https://www.opindia.com/,NEWS,News Media,2019-04-09,OONI,News website,38516
+https://newsclick.in/,NEWS,News Media,2019-04-09,OONI,News website,56723
+https://www.communistparty.in/,POLR,Political Criticism,2019-04-09,OONI,Communist Party of India,411264
+https://ncp.org.in/,POLR,Political Criticism,2019-04-09,OONI,Nationalist Congress Party,528096
+https://www.bspindia.co.in/,POLR,Political Criticism,2019-04-09,OONI,Bahujan Samaj Party,196990830
+http://aitcofficial.org/,POLR,Political Criticism,2019-04-09,OONI,All India Trinamool Congress party,564581
+https://shivsena.org/,POLR,Political Criticism,2019-04-09,OONI,Party founded by political cartoonist Bal Thackeray,4799139
+https://www.aiadmk.website/,POLR,Political Criticism,2019-04-09,OONI,Tamil Nadu political party,20651078
+http://www.janatadalunited.online/,POLR,Political Criticism,2019-04-09,OONI,Political party,6631231
+http://ljp.org.in/,POLR,Political Criticism,2019-04-09,OONI,Political party,20089738
+http://dmdkparty.com/,POLR,Political Criticism,2019-04-09,OONI,Political party,10176450
+http://allindianrcongress.com/,POLR,Political Criticism,2019-04-09,OONI,Political party,24889002
+http://www.joinrlp.org/,POLR,Political Criticism,2019-04-09,OONI,Political party,28103793
+https://www.dmk.in/,POLR,Political Criticism,2019-04-09,OONI,Political party,613472
+https://rjd.co.in/,POLR,Political Criticism,2019-04-09,OONI,Political party,649723
+http://jds.ind.in/,POLR,Political Criticism,2019-04-09,OONI,Political party,536845
+https://jmmjharkhand.in/,POLR,Political Criticism,2019-04-09,OONI,Political party,8066594
+http://www.swabhimani.com/,POLR,Political Criticism,2019-04-09,OONI,Political party,3950786
+http://www.bahujanvikasaghadi.com/,POLR,Political Criticism,2019-04-09,OONI,Political party,32697738
+http://cpiml.net/,POLR,Political Criticism,2019-04-09,OONI,Political party,3970929
+https://www.samajwadiparty.in/,POLR,Political Criticism,2019-04-09,OONI,Political party,605332
+http://www.rashtriyalokdal.com/,POLR,Political Criticism,2019-04-09,OONI,Political party,696898
+https://www.janasenaparty.org/,POLR,Political Criticism,2019-04-09,OONI,Political party,13007159
+http://forwardbloc.org/,POLR,Political Criticism,2019-04-09,OONI,Political party,634951
+https://www.ysrcongress.com/,POLR,Political Criticism,2019-04-09,OONI,Political party,2860688
+https://www.maiam.com/,POLR,Political Criticism,2019-04-09,OONI,Political party,1733179
+https://www.trspartyonline.org/,POLR,Political Criticism,2019-04-09,OONI,Political party,4404998
+https://www.sdpi.in/,POLR,Political Criticism,2019-04-09,OONI,Political party,15973581
+https://www.naamtamilar.org/,POLR,Political Criticism,2019-04-09,OONI,Political party,15976211
+https://aamaadmiparty.org/,POLR,Political Criticism,2019-04-09,OONI,Political party,248078
+http://www.pragatisheelsamajwadiparty.org/,POLR,Political Criticism,2019-04-09,OONI,Political party,6315145
+https://jkpdp.in/,POLR,Political Criticism,2019-04-09,OONI,Jammu & Kashmir Peoples Democratic Party,796025
+http://www.elections.in/,POLR,Political Criticism,2019-04-09,OONI,Elections website,117095
+http://voicenet.in/,POLR,Political Criticism,2019-04-09,OONI,Voter Education site,14085870
+https://adrindia.org/,POLR,Political Criticism,2019-04-09,OONI,Election watchdog,70447
+https://eci.gov.in/,GOVT,Government,2019-04-09,OONI,Election Commission of India,31517
+https://www.nvsp.in/,GOVT,Government,2019-04-09,OONI,National Voters' Service Portal,1412026
+https://electoralsearch.in/,GOVT,Government,2019-04-09,OONI,Electoral Search in Voter List,2077573
+http://servicevoter.nic.in/,GOVT,Government,2019-04-09,OONI,Election Service Voters' Portal,14045840
+https://www.myneta.info/,POLR,Political Criticism,2019-04-09,OONI,National Election Watch - Sharing info about candidates & parties in 2019 elections,205155
+https://www.vck.in/,POLR,Political Criticism,2019-04-09,OONI,Political party,26971798
+https://ijkparty.org/,POLR,Political Criticism,2019-04-09,OONI,Political party,24201766
+https://www.bjdodisha.org.in/,POLR,Political Criticism,2019-04-09,OONI,Political party,621485
+http://msrrda.org/,GOVT,Government,2019-09-03,csk,,37674207
+https://ukhrul.nic.in/,GOVT,Government,2019-09-03,csk,,296235
+http://poknapham.in/,NEWS,News Media,2019-09-03,csk,,5084481
+http://sanaleibak.in/,NEWS,News Media,2019-09-03,csk,,30926783
+http://hueiyenlanpao.com/,NEWS,News Media,2019-09-03,csk,,650132
+http://naharolgithoudang.in/,NEWS,News Media,2019-09-03,csk,,13842898
+http://kanglaonline.com/,NEWS,News Media,2019-09-03,csk,,177402
+https://nenow.in/,NEWS,News Media,2019-09-03,csk,,246318
+http://eimitimes.in/,NEWS,News Media,2019-09-03,csk,,101311377
+http://nagalimvoice.com/,NEWS,News Media,2019-09-03,csk,,12692164
+https://phualvatimes.com/,NEWS,News Media,2019-09-03,csk,,13843067
+https://ssumanipur.wordpress.com/,POLR,Political Criticism,2019-09-03,csk,,-1
+http://ksog.faithweb.com/,POLR,Political Criticism,2019-09-03,csk,Student Union,-1
+http://zomiradio.org/,POLR,Political Criticism,2019-09-03,csk,,323574062
+https://manipur.gov.in/,GOVT,Government,2019-09-03,csk,Indian GOV site,167097
+https://imphaltimes.com/,NEWS,News Media,2019-09-03,csk,,1644522
+https://iromreport.com/,NEWS,News Media,2019-09-03,csk,,38540437
+https://theshillongtimes.com/,NEWS,News Media,2019-09-03,csk,,124571
+https://nagajournal.com/,NEWS,News Media,2019-09-03,csk,,21182566
+https://insidene.com/,NEWS,News Media,2019-09-03,csk,,583606
+https://northeastlivetv.com/,NEWS,News Media,2019-09-03,csk,,723902
+https://raiot.in/,NEWS,News Media,2019-09-03,csk,,386705
+https://thohepou.wordpress.com/,POLR,Political Criticism,2019-09-03,csk,,25685951
+https://ksogeneralheadquarters.weebly.com/,POLR,Political Criticism,2019-09-03,csk,,-1
+https://nazariyaqfrg.wordpress.com/,LGBT,LGBT,2020-01-29,Community member,,3962695
+https://www.dowrycalculator.com/,CULTR,Culture,2021-02-25,Netalitica,Satire website blocked in India,2604349
+https://www.filmibeat.com/,CULTR,Culture,2021-02-25,Netalitica,Bollywood related,102967
+http://www.jammu-kashmir.com/,CULTR,Culture,2021-02-25,Netalitica,Carries some articles on separatist movements too,251144
+https://www.replaymatches.net/,CULTR,Culture,2021-02-25,Netalitica,"Football site, reportedly blocked across multiple ISPs",35190012
+https://www.themoviedb.org/,CULTR,Culture,2021-02-25,Netalitica,"Movie database, reportedly blocked by some ISPs",10885
+https://www.jagranjosh.com/,CULTR,Culture,2021-02-25,Netalitica,Jobs and career advice,33225
+https://www.letindiabreathe.in/,ENV,Environment,2021-02-25,Netalitica,"Climate change advocacy, domain was held by Indian government earlier",2122025
+https://thereisnoearthb.com/,ENV,Environment,2021-02-25,Netalitica,"Climate change advocacy, domain was held by Indian government earlier",2064799
+https://www.fridaysforfutureindia.com/,ENV,Environment,2021-02-25,Netalitica,"Climate change advocacy, domain was held by Indian government earlier",2413501
+http://mio.to/,FILE,File-sharing,2021-02-25,Netalitica,Reportedly blocked in India,261391
+https://hidester.com/,FILE,File-sharing,2021-02-25,Netalitica,Reportedly blocked on Reliance Jio,1439798
+https://www.defence.pk/,GOVT,Government,2021-02-25,Netalitica,Pakistani government website,61614
+https://www.behance.net/,GRP,Social Networking,2021-02-25,Netalitica,Design and media sharing,75
+https://lawyerscollective.org/,HUMR,Human Rights Issues,2021-02-25,Netalitica,"Human rights NGO, bank accounts frozen by government",257747
+https://cs.utoronto.ca/,HUMR,Human Rights Issues,2021-02-25,Netalitica,Reportedly blocked in India (possibly because it hosted information about censorship),62435
+https://sikhsforjustice.org/,MILX,Terrorism and Militants,2021-02-25,Netalitica,"International pro-Khalistan NGO, banned in India",2612762
+http://www.deendar.org/,MILX,Terrorism and Militants,2021-02-25,Netalitica,"Islamic org engaged in terrorism, banned in India(not blocked when checked on 2021-10-15)",101888118
+https://www.tamilnet.com/,MILX,Terrorism and Militants,2021-02-25,Netalitica,Pro Liberation Tigers of Tamil Eelam news outlet,55068
+http://www.zogam.org/,MILX,Terrorism and Militants,2021-02-25,Netalitica,Separatist movement,3645116
+http://www.huriyatconference.com/,MILX,Terrorism and Militants,2021-02-25,Netalitica,Separatist movement,13046282
+http://naganationalcouncil.org/,MILX,Terrorism and Militants,2021-02-25,Netalitica,"Name of unsuccessful separatist movement, website content slightly different however",854986
+https://www.livelaw.in/,NEWS,News Media,2021-02-25,Netalitica,Legal news website,15576
+https://economictimes.indiatimes.com/,NEWS,News Media,2021-02-25,Netalitica,Financial news in India,1022
+https://telegraphindia.com/,NEWS,News Media,2021-02-25,Netalitica,Telegraph India is a major newspaper in India,17772
+https://tribune.com.pk/,NEWS,News Media,2021-02-25,Netalitica,Pakistan-based newspaper,15541
+https://www.indianexpress.com/,NEWS,News Media,2021-02-25,Netalitica,Popular english newspaper,5447
+https://www.cobrapost.com/,NEWS,News Media,2021-02-25,Netalitica,Investigative journalism and stings in India,1303537
+https://www.rediff.com/,NEWS,News Media,2021-02-25,Netalitica,Popular English news website,12344
+https://www.indiatoday.in/,NEWS,News Media,2021-02-25,Netalitica,Popular English news website,5974
+https://www.news18.com/,NEWS,News Media,2021-02-25,Netalitica,Popular English news website,13533
+https://www.livemint.com/,NEWS,News Media,2021-02-25,Netalitica,Financial news in India,5083
+https://www.newstracklive.com/,NEWS,News Media,2021-02-25,Netalitica,Popular Hindi news website,516598
+https://www.manoramaonline.com/,NEWS,News Media,2021-02-25,Netalitica,Popular Malayalam news channel,21672
+https://www.tv9marathi.com/,NEWS,News Media,2021-02-25,Netalitica,Marathi news channel,407333
+https://www.oneindia.com/,NEWS,News Media,2021-02-25,Netalitica,English news,53033
+https://www.abplive.com/,NEWS,News Media,2021-02-25,Netalitica,Hindi news channel,27855
+https://andhrajyothy.com/,NEWS,News Media,2021-02-25,Netalitica,Telugu news,263790
+https://www.behindwoods.com/,NEWS,News Media,2021-02-25,Netalitica,Tamil news,170785
+https://www.jagran.com/,NEWS,News Media,2021-02-25,Netalitica,Hindi news,45843
+https://scroll.in/,NEWS,News Media,2021-02-25,Netalitica,"English news, usually critical journalism",13776
+https://www.thequint.com/,NEWS,News Media,2021-02-25,Netalitica,English and Hindi news,20312
+https://tv9telugu.com/,NEWS,News Media,2021-02-25,Netalitica,Telugu news,625543
+https://www.amarujala.com/,NEWS,News Media,2021-02-25,Netalitica,Hindi news,31321
+https://www.livehindustan.com/,NEWS,News Media,2021-02-25,Netalitica,Hindi news,149268
+https://www.india.com/,NEWS,News Media,2021-02-25,Netalitica,English news,19691
+https://www.greatandhra.com/,NEWS,News Media,2021-02-25,Netalitica,Telugu news,453413
+https://teluguadda.co.in/,NEWS,News Media,2021-02-25,Netalitica,Telugu news,20707506
+https://www.patrika.com/,NEWS,News Media,2021-02-25,Netalitica,Hindi news,150432
+https://www.gulte.com/,NEWS,News Media,2021-02-25,Netalitica,Telugu news,403150
+https://bartamanpatrika.com/home/,NEWS,News Media,2021-02-25,Netalitica,Bengali news,297209
+https://www.ap7am.com/,NEWS,News Media,2021-02-25,Netalitica,Telugu news,145420
+https://www.republicworld.com/,NEWS,News Media,2021-02-25,Netalitica,English and Hindi Right wing news channels,15701
+https://www.jansatta.com/,NEWS,News Media,2021-02-25,Netalitica,Hindi news,392659
+https://www.deccanherald.com/,NEWS,News Media,2021-02-25,Netalitica,English news,15291
+https://www.thenewsminute.com/,NEWS,News Media,2021-02-25,Netalitica,English news,12999
+https://www.nationalheraldindia.com/,NEWS,News Media,2021-02-25,Netalitica,Congress party affiliated newspaper,48773
+https://www.organiser.org/,NEWS,News Media,2021-02-25,Netalitica,Hindu right wing magazine,404521
+http://bannedthought.net/India/index.htm/,POLR,Political Criticism,2021-02-25,Netalitica,Free speech website; they have been served notices that their content is blocked,121471
+http://www.bannedthought.net/SriLanka/Sanmugathasan/ItalianPartyCongress-1969.pdf/,POLR,Political Criticism,2021-02-25,Netalitica,Free speech website; this page is reportedly blocked,121471
+https://vhp.org/,POLR,Political Criticism,2021-02-25,Netalitica,Hindu right wing organisation,471113
+https://www.theleaflet.in/,POLR,Political Criticism,2021-02-25,Netalitica,Legal opinion website,346714
+https://indconlawphil.wordpress.com/,POLR,Political Criticism,2021-02-25,Netalitica,Legal opinion blog,1893364
+https://kafila.online/,POLR,Political Criticism,2021-02-25,Netalitica,State critical opinion and analysis,1416785
+https://poeticjustice.foundation/,POLR,Political Criticism,2021-02-25,Netalitica,"International NGO, facing run-in with government",2271661
+https://www.cpiml.in/,POLR,Political Criticism,2021-02-25,Netalitica,Communisty Party of India (Marxist-Leninist) Red Star,2519968
+https://mlpiredflag.org/,POLR,Political Criticism,2021-02-25,Netalitica,Communisty Party of India (Marxist-Leninist) Red Flag,310019945
+https://www.cpimlnd.org/,POLR,Political Criticism,2021-02-25,Netalitica,Communisty Party of India (Marxist-Leninist) New Democracy,16755683
+https://cpindiaml.wordpress.com/,POLR,Political Criticism,2021-02-25,Netalitica,Communisty Party of India (Marxist-Leninist),18261785
+https://www.ziggo.nl/,COMT,Communication Tools,2021-02-26,Netalitica,Blocked through temporary injunction by Madras High Court,28347
+http://watchcric.org/,CULTR,Culture,2021-02-26,Netalitica,"Blocked in India, cricket website",57151751
+https://streamplay.to/,FILE,File-sharing,2021-02-26,Netalitica,Users reported blocking ,23662548
+https://wetransfer.com/,FILE,File-sharing,2021-02-26,Netalitica,Blocked through a government order in 2020,1913
+https://www.limetorrents.info/,FILE,File-sharing,2021-02-26,Netalitica,Blocked through Delhi High Court order,3671562
+https://kikass.to/,FILE,File-sharing,2021-02-26,Netalitica,Blocked through Delhi High Court order,30411253
+https://thepiratebay.asia/,FILE,File-sharing,2021-02-26,Netalitica,Blocked through temporary injunction by Madras High Court,9236697
+https://zupload.me/,FILE,File-sharing,2021-02-26,Netalitica,Blocked through temporary injunction by Madras High Court,23739599
+https://zeefiles.download/,FILE,File-sharing,2021-02-26,Netalitica,Blocked through temporary injunction by Madras High Court,47400316
+https://www.intelligencecareers.gov/,GOVT,Government,2021-02-26,Netalitica,US Intelligence job postings,1079771
+https://adf.ly/,HOST,Hosting and Blogging Platforms,2021-02-26,Netalitica,"URL shortening service, reportedly blocked on Jio",22545
+http://arabhra.org/,HUMR,Human Rights Issues,2021-02-26,Netalitica,Indian Express article citing Citizen Lab work that this is blocked,545530
+https://www.avaaz.org/page/en/,MILX,Terrorism and Militants,2021-02-26,Netalitica,"International NGO, was blocked earlier (unblocked later through an order)",18507
+https://sadapind.org/,MILX,Terrorism and Militants,2021-02-26,Netalitica,"Related to Khalistani movement, blocked by Indian government",-1
+https://pb4u.org/,MILX,Terrorism and Militants,2021-02-26,Netalitica,"Related to Khalistani movement, blocked by Indian government",101767436
+https://pbteam.org/,MILX,Terrorism and Militants,2021-02-26,Netalitica,"Related to Khalistani movement, blocked by Indian government",-1
+https://www.referendum2020.org/,MILX,Terrorism and Militants,2021-02-26,Netalitica,"Related to Khalistani movement, blocked by Indian government",7692025
+https://yes2khalistan.org/,MILX,Terrorism and Militants,2021-02-26,Netalitica,"Related to Khalistani movement, leaked order suggests blocking in India",35477358
+https://www.azaadmic.com/,MILX,Terrorism and Militants,2021-02-26,Netalitica,"Pro-separatist advocacy, leaked order suggests blocking in India",-1
+https://lovelykashmir.wordpress.com/,MILX,Terrorism and Militants,2021-02-26,Netalitica,"Pro-Kashmiri separatist views, leaked order suggests blocking in India",57416791
+https://video.webcric.com/,MMED,Media sharing,2021-02-26,Netalitica,"Blocked in India, cricket website",77697205
+https://vshare.eu/,MMED,Media sharing,2021-02-26,Netalitica,Blocked through temporary injunction by Madras High Court,3742490
+https://vipmarathi.com/,MMED,Media sharing,2021-02-26,Netalitica,Blocked through temporary injunction by Madras High Court,108292715
+https://spankbang.com/,PORN,Pornography,2021-02-26,Netalitica,Porn websites blocked through court order,2148397
+https://yourlust.com/,PORN,Pornography,2021-02-26,Netalitica,Porn websites blocked through court order,12426394
+https://www.xnxx.com/,PORN,Pornography,2021-02-26,Netalitica,Porn websites blocked through court order,890164
+https://www.x-art.com/,PORN,Pornography,2021-02-26,Netalitica,Porn websites blocked through court order,2072363
+https://journals.lww.com/aidsonline/pages/default.aspx,PUBH,Public Health,2021-02-26,Netalitica,Indian Express article citing Citizen Lab work that this is blocked,4718
+https://sendit.cloud/,FILE,File-sharing,2021-03-18,Netalitica,"Reportedly blocked, sourced through Wikipedia page on Indian websites blocked",3440465
+https://cloud.mail.ru/,FILE,File-sharing,2021-03-18,Netalitica,"Reportedly blocked, sourced through Wikipedia page on Indian websites blocked",5855
+https://gogoanime.tv/,MMED,Media sharing,2021-03-18,Netalitica,"Reportedly blocked, sourced through Wikipedia page on Indian websites blocked",14024658
+https://newgrounds.com/,MMED,Media sharing,2021-03-18,Netalitica,"Reportedly blocked, sourced through Wikipedia page on Indian websites blocked",15066
+https://www.savitabhabhi.vip/,PORN,Pornography,2021-03-18,Netalitica,Indian Porn web comic,818369
+https://savitabhabhi.com/,PORN,Pornography,2021-03-18,Netalitica,"Porn web comic, domain ordered to be blocked",5244621
+https://www.onemillionbabes.net/,PROV,Provocative Attire,2021-03-18,Netalitica,"Offering sex work, blocked by the Indian government in 2016",8120162
+http://rawpoint.biz/,PROV,Provocative Attire,2021-03-18,Netalitica,"Offering sex work, blocked by the Indian government in 2016",57913224
+https://www.mhcescorts.com/,PROV,Provocative Attire,2021-03-18,Netalitica,"Offering sex work, blocked by the Indian government in 2016",8553723
+http://riya-kapoor.com/,PROV,Provocative Attire,2021-03-18,Netalitica,"Offering sex work, blocked by the Indian government in 2016",15297329
+https://m.indiamart.com/,COMM,E-commerce,2021-03-20,Netalitica,,2521319
+https://www.pucl.org/,HUMR,Human Rights Issues,2021-03-20,Netalitica,Human rights NGO in India,242729
+https://cjp.org.in/,HUMR,Human Rights Issues,2021-03-20,Netalitica,Human rights NGO in India,530144
+http://humanrightsforum.org/,HUMR,Human Rights Issues,2021-03-20,Netalitica,Human rights NGO in India focusing on Assam,11366704
+https://www.pudr.org/,HUMR,Human Rights Issues,2021-03-20,Netalitica,Human rights NGO in India,1423200
+http://civillibertiesindia.org/,HUMR,Human Rights Issues,2021-03-20,Netalitica,Human rights NGO in India,22071545
+https://www.nchro.org/,HUMR,Human Rights Issues,2021-03-20,Netalitica,Human rights NGO in India,537890
+http://www.pvchr.asia/,HUMR,Human Rights Issues,2021-03-20,Netalitica,People's Vigilance Committee on Human Rights,4228688
+http://janmitranyas.in/,HUMR,Human Rights Issues,2021-03-20,Netalitica,"Jan Mitra Nyas, working on basic rights to marginalised communities",29131645
+http://afdrpunjab.blogspot.com/,HUMR,Human Rights Issues,2021-03-20,Netalitica,Association For Democratic Rights (Punjab),50963250
+http://bondedlabour.org/,HUMR,Human Rights Issues,2021-03-20,Netalitica,"Bandi Mukti Morcha, against bonded labour, mostly focusing on Bengal",8214825
+https://apdpkashmir.com/,HUMR,Human Rights Issues,2021-03-20,Netalitica, Association of Parents of Disappeared Persons (Kashmir),2204500
+https://punjabdisappeared.org/,HUMR,Human Rights Issues,2021-03-20,Netalitica,Working on enforced disappearances in Punjab,7097613
+https://milaanfoundation.org/,HUMR,Human Rights Issues,2021-03-20,Netalitica,Women empowerment NGO,1896057
+https://www.assfindia.org/,HUMR,Human Rights Issues,2021-03-20,Netalitica,Acid Survivors Saahas Foundation,15320033
+http://majlislaw.com/,HUMR,Human Rights Issues,2021-03-20,Netalitica,Legal support for women,506709
+http://www.clapindia.org/,HUMR,Human Rights Issues,2021-03-20,Netalitica,Committee for Legal Aid to Poor,23513782
+https://www.project39a.com/,HUMR,Human Rights Issues,2021-03-20,Netalitica,Research and advocacy on prisoners facing a death penalty,4154198
+https://www.varhad.org/,HUMR,Human Rights Issues,2021-03-20,Netalitica,"Voluntary Action for Rehabilitation & Development, aid to undertrials",34741915
+http://streamsport365.com/,MMED,Media sharing,2021-03-20,Netalitica,"Sports streaming, information request revealed blocking",70121667
+http://cricfree.be/,MMED,Media sharing,2021-03-20,Netalitica,"Sports streaming, information request revealed blocking",10121560
+https://www.shein.in/,COMM,E-commerce,2021-03-22,Netalitica,Chinese app ban order in July 2020,1748192
+https://www.shein.com/,COMM,E-commerce,2021-03-22,Netalitica,Chinese app ban order in July 2020,17885
+https://romwe.com/,COMM,E-commerce,2021-03-22,Netalitica,Chinese app ban order in July 2020,51015
+https://romwe.co.in/,COMM,E-commerce,2021-03-22,Netalitica,Chinese app ban order in July 2020,9235281
+https://myshopprime.com/,COMM,E-commerce,2021-03-22,Netalitica,Chinese app ban order in July 2020,388038
+https://alipay.com/,COMM,E-commerce,2021-03-22,Netalitica,Chinese app ban order in November 2020,28748
+https://www.lalamove.com/,COMM,E-commerce,2021-03-22,Netalitica,Chinese app ban order in November 2020,15231
+https://adultwork.com/,COMM,E-commerce,2021-03-22,Netalitica,"Sex work and products, reportedly blocked on ACT",1496267
+https://brandonly.in/,COMM,E-commerce,2021-03-22,Netalitica,Reportedly blocked on ACT,128987315
+https://www.buydomains.com/,COMM,E-commerce,2021-03-22,Netalitica,Reportedly blocked on ACT,812390
+https://www.datsbrandstore.in/,COMM,E-commerce,2021-03-22,Netalitica,"Product copies, reportedly blocked on ACT",15540260
+https://fabulous.com/,COMM,E-commerce,2021-03-22,Netalitica,"Domain management service, reportedly blocked on ACT",2193011
+https://www.hypeshop.in/,COMM,E-commerce,2021-03-22,Netalitica,Reportedly blocked on ACT,64480117
+https://lockerdome.com/,COMM,E-commerce,2021-03-22,Netalitica,"Ad intelligence services, reportedly blocked on ACT",102786
+https://www.ucweb.com/,COMT,Communication Tools,2021-03-22,Netalitica,Web browser; chinese app ban order in July 2020,46016
+https://www.cmcm.com/,COMT,Communication Tools,2021-03-22,Netalitica,Web browser; chinese app ban order in July 2020,44040
+https://www.apusapps.com/,COMT,Communication Tools,2021-03-22,Netalitica,Web browser; chinese app ban order in July 2020,172003
+https://mail.qq.com/,COMT,Communication Tools,2021-03-22,Netalitica,Chinese app ban order in July 2020,191123
+https://www.mailmaster.co.th/,COMT,Communication Tools,2021-03-22,Netalitica,"Email service, Chines app ban order in July 2020",8395587
+https://c.mi.com/,COMT,Communication Tools,2021-03-22,Netalitica,Chinese app ban order in July 2020,88936
+http://www.parallel-app.com/,COMT,Communication Tools,2021-03-22,Netalitica,"Phone utility, Chinese app ban order in July 2020",6859375
+http://www.estrongs.com/,COMT,Communication Tools,2021-03-22,Netalitica,"Phone utility, Chinese app ban order in July 2020",904354
+https://www.camscanner.com/,COMT,Communication Tools,2021-03-22,Netalitica,"Phone utility, Chinese app ban order in July 2020",20817
+https://www.camcard.com/,COMT,Communication Tools,2021-03-22,Netalitica,Chinese app ban order in November 2020,95143
+https://www.apuslauncher.com/,COMT,Communication Tools,2021-03-22,Netalitica,"Phone utility, Chinese app ban order in September 2020",15698207
+http://www.domobile.com/,COMT,Communication Tools,2021-03-22,Netalitica,"Phone utility, Chinese app ban order in September 2020",148709
+http://www.andhravilas.net/,CULTR,Culture,2021-03-22,Netalitica,"Telegu film industry content, reportedly blocked on ACT",621822
+https://www.b4blaze.com/,CULTR,Culture,2021-03-22,Netalitica,"Entertainment news and updates, reportedly blocked on ACT",743925
+http://www.ceramopolis.com/,CULTR,Culture,2021-03-22,Netalitica,"Seems like a blog on ceramic objects, reportedly blocked on ACT",9444727
+http://collegehumor.com/,CULTR,Culture,2021-03-22,Netalitica,"American comedy website, blocked across multiple ISPs for unknown reasons",15641
+https://www.crickethighlights.cricket/,CULTR,Culture,2021-03-22,Netalitica,"Criicket commentary and predictions, reportedly blocked on ACT",18995267
+https://www.doffitt.com/,CULTR,Culture,2021-03-22,Netalitica,"Harmless news articles, reportedly blocked on ACT",5831137
+http://hellohyderabad.com/,CULTR,Culture,2021-03-22,Netalitica,"Information about Hyderabad tourism, reportedly blocked on ACT",5993684
+https://ctrlq.org/,COMT,Communication Tools,2021-03-22,Netalitica,"Seems to be a personal website, reportedly blocked on ACT",56016
+https://www.dateinasia.com/,DATE,Online Dating,2021-03-22,Netalitica,Chinese app ban order in November 2020,10344576
+https://www.singoldating.com/,DATE,Online Dating,2021-03-22,Netalitica,Chinese app ban order in November 2020,50779401
+https://www.trulychinese.com/,DATE,Online Dating,2021-03-22,Netalitica,Chinese app ban order in November 2020,9411799
+https://www.trulyasian.com/,DATE,Online Dating,2021-03-22,Netalitica,Chinese app ban order in November 2020,1724791
+https://www.chinalove.com/,DATE,Online Dating,2021-03-22,Netalitica,Chinese app ban order in November 2020,26436746
+https://www.datemyage.com/,DATE,Online Dating,2021-03-22,Netalitica,Chinese app ban order in November 2020,5595416
+https://www.asiandate.com/,DATE,Online Dating,2021-03-22,Netalitica,Chinese app ban order in November 2020,237397
+https://www.flirtwish.com/,DATE,Online Dating,2021-03-22,Netalitica,Chinese app ban order in November 2020,72995524
+https://www.flirthookup.com/,DATE,Online Dating,2021-03-22,Netalitica,Reportedly blocked on ACT,7824123
+https://shareit.one/,FILE,File-sharing,2021-03-22,Netalitica,Chinese app ban order in July 2020,2345228
+http://www.xender.com/,FILE,File-sharing,2021-03-22,Netalitica,Chinese app ban order in July 2020,113653
+https://www.weiyun.com/,FILE,File-sharing,2021-03-22,Netalitica,Chinese app ban order in September 2020,134190
+https://300mbfilms.org/,FILE,File-sharing,2021-03-22,Netalitica,"File and movie sharing, reportedly blocked on ACT",65296821
+https://www.300mbfilms.ws/,FILE,File-sharing,2021-03-22,Netalitica,"File and movie sharing, reportedly blocked on ACT",33492508
+https://acefile.co/,FILE,File-sharing,2021-03-22,Netalitica,Reportedly blocked on ACT,3019286
+https://alfafile.net/,FILE,File-sharing,2021-03-22,Netalitica,Reportedly blocked on ACT,4527102
+https://downace.com/,FILE,File-sharing,2021-03-22,Netalitica,Reportedly blocked on ACT,14496756
+https://mirrorace.com/,FILE,File-sharing,2021-03-22,Netalitica,Reportedly blocked on ACT,2587973
+https://nitroflare.com/,FILE,File-sharing,2021-03-22,Netalitica,Reportedly blocked on ACT,896211
+https://ihago.net/,GAME,Gaming,2021-03-22,Netalitica,"Game, Chinese app ban order in July 2020",185942
+https://www.mobilelegends.com/,GAME,Gaming,2021-03-22,Netalitica,"Game, Chinese app ban order in July 2020",4035071
+https://www.identityvgame.com/,GAME,Gaming,2021-03-22,Netalitica,Game; Chinese app ban order in November 2020,187716
+https://isoland2.lilithgames.com/,GAME,Gaming,2021-03-22,Netalitica,Game; Chinese app ban order in November 2020,1757186
+https://heroes.99.com/,GAME,Gaming,2021-03-22,Netalitica,Game; Chinese app ban order in November 2020,211291
+https://www.microfun.com/,GAME,Gaming,2021-03-22,Netalitica,Game; Chinese app ban order in November 2020,164944
+https://www.cyberhunter.game/,GAME,Gaming,2021-03-22,Netalitica,Game; Chinese app ban order in September 2020,1688351
+http://www.knivesout.jp/,GAME,Gaming,2021-03-22,Netalitica,Game; Chinese app ban order in September 2020,1655128
+http://www.supermechachampions.com/,GAME,Gaming,2021-03-22,Netalitica,Game; Chinese app ban order in September 2020,1670480
+https://www.lifeafter.game/,GAME,Gaming,2021-03-22,Netalitica,Game; Chinese app ban order in September 2020,184044
+https://www.dawn-of-isles.com/,GAME,Gaming,2021-03-22,Netalitica,Game; Chinese app ban order in September 2020,12108606
+https://www.chessrushgame.com/,GAME,Gaming,2021-03-22,Netalitica,Game; Chinese app ban order in September 2020,14135524
+http://gos.mechanist.co/,GAME,Gaming,2021-03-22,Netalitica,Game; Chinese app ban order in September 2020,20730179
+https://www.kwai.com/,GRP,Social Networking,2021-03-22,Netalitica,Chinese app ban order in July 2020,624033
+http://www.helo-app.com/,GRP,Social Networking,2021-03-22,Netalitica,Chinese app ban order in July 2020,1104617
+https://likee.video/,GRP,Social Networking,2021-03-22,Netalitica,Chinese app ban order in July 2020,41885
+https://www.vigovideo.net/,GRP,Social Networking,2021-03-22,Netalitica,Chinese app ban order in July 2020,1750052
+https://www.wemeet.net/,GRP,Social Networking,2021-03-22,Netalitica,Chinese app ban order in July 2020,40258785
+https://www.snackvideo.com/,GRP,Social Networking,2021-03-22,Netalitica,Chinese app ban order in November 2020,199096
+https://www.tubit.com/,GRP,Social Networking,2021-03-22,Netalitica,Chinese app ban order in November 2020,227272
+http://micous.com/,GRP,Social Networking,2021-03-22,Netalitica,Chinese app ban order in September 2020,1423086
+http://kitty.live/,GRP,Social Networking,2021-03-22,Netalitica,Chinese app ban order in September 2020,15972021
+https://9gag.tv/,GRP,Social Networking,2021-03-22,Netalitica,Reportedly blocked on ACT,895129
+https://ok.ru/,GRP,Social Networking,2021-03-22,Netalitica,Reportedly blocked on ACT,613
+https://aadharcardstatusdownload.com/,HACK,Hacking Tools,2021-03-22,Netalitica,"Unofficial website claiming to check govt ID, reportedly blocked on ACT",12894829
+https://myrailinfo.in/,HACK,Hacking Tools,2021-03-22,Netalitica,"Unofficial railways information database, reportedly blocked on ACT",46973445
+http://www.blogster.com/,HOST,Hosting and Blogging Platforms,2021-03-22,Netalitica,Reportedly blocked on ACT,397822
+https://www.americansforkashmir.org/,HUMR,Human Rights Issues,2021-03-22,Netalitica,"American-based organisation on Kashmiri rights, reportedly blocked on ACT",8317338
+https://2020sikhreferendum.org/,MILX,Terrorism and Militants,2021-03-22,Netalitica,"Related to Khalistani movement, reportedly blocked on ACT",323274917
+https://citizensinchargefoundation.org/,MILX,Terrorism and Militants,2021-03-22,Netalitica,"Related to Khalistani movement, reportedly blocked on ACT",1851436
+https://dubai2020.us/,MILX,Terrorism and Militants,2021-03-22,Netalitica,"Related to Khalistani movement, reportedly blocked on ACT",134894111
+https://pb13.org/,MILX,Terrorism and Militants,2021-03-22,Netalitica,"Related to Khalistani movement, reportedly blocked on ACT",-1
+https://www.beautyplus.com/,MMED,Media sharing,2021-03-22,Netalitica,"Camera and filters, Chinese app ban order in July 2020",180770
+http://selfiecity.net/,MMED,Media sharing,2021-03-22,Netalitica,"Camera and insights, Chinese app ban order in July 2020",112425
+https://vivavideo.tv/,MMED,Media sharing,2021-03-22,Netalitica,"Phone utility, Chinese app ban order in July 2020",102544
+https://www.meitu.com/,MMED,Media sharing,2021-03-22,Netalitica,"Camera and insights, Chinese app ban order in July 2020",970648
+https://www.du-recorder.com/,MMED,Media sharing,2021-03-22,Netalitica,"Phone utility, Chines app ban order in July 2020",4853575
+https://photo-wonder.com/,MMED,Media sharing,2021-03-22,Netalitica,"Phone utility, Chinese app ban order in July 2020",45790184
+https://qqplayer.net/,MMED,Media sharing,2021-03-22,Netalitica,"Phone utility, Chinese app ban order in July 2020",7092451
+http://appairbrush.com/,MMED,Media sharing,2021-03-22,Netalitica,"Camera and filters, reportedly blocked on ACT",34036
+https://y.qq.com/,MMED,Media sharing,2021-03-22,Netalitica,Music streaming site; in Chinese app ban order in July 2020,24666
+https://www.bigo.tv/,MMED,Media sharing,2021-03-22,Netalitica,Video streaming site; in Chinese app ban order in July 2020,73943
+https://newvideostatus.in/,MMED,Media sharing,2021-03-22,Netalitica,Chinese app ban order in July 2020,25474085
+https://www.mgtv.com/,MMED,Media sharing,2021-03-22,Netalitica,Chinese app ban order in November 2020,78313
+https://taobaolive.taobao.com/,MMED,Media sharing,2021-03-22,Netalitica,Chinese app ban order in November 2020,939244
+https://1tamilgun.com/,MMED,Media sharing,2021-03-22,Netalitica,Reportedly blocked on ACT,24105978
+https://9anime.live/,MMED,Media sharing,2021-03-22,Netalitica,Reportedly blocked on ACT,35335524
+https://www.actionbd.net/,MMED,Media sharing,2021-03-22,Netalitica,Reportedly blocked on ACT,47440196
+https://www.desitellybox.me/,MMED,Media sharing,2021-03-22,Netalitica,"TV shows streams, reportedly blocked on ACT",137909
+https://imgbox.com/,MMED,Media sharing,2021-03-22,Netalitica,Reportedly blocked on ACT,107210
+http://newsdog.co/,NEWS,News Media,2021-03-22,Netalitica,Chinese app ban order in July 2020,-1
+https://news.sina.com.cn/,NEWS,News Media,2021-03-22,Netalitica,Chinese app ban order in September 2020,22901
+https://www.ashams.com/,NEWS,News Media,2021-03-22,Netalitica,"Probably Israel and Palestine related news, reportedly blocked on ACT",58720
+https://currentaffairspk.com/,NEWS,News Media,2021-03-22,Netalitica,"Pakistani news website, reportedly blocked on ACT",5273396
+https://dunyanews.tv/,NEWS,News Media,2021-03-22,Netalitica,"Pakistani news website, reportedly blocked on ACT",54800
+https://clarionproject.org/,POLR,Political Criticism,2021-03-22,Netalitica,"North American non-profit on extremism, reportedly blocked on ACT",37197
+http://influence.in/,POLR,Political Criticism,2021-03-22,Netalitica,"Complaints about government action, reportedly blocked on ACT",40350007
+https://kashmirawareness.org/,POLR,Political Criticism,2021-03-22,Netalitica,"Criticism of Indian state from Kashmir, reportedly blocked on ACT",484163
+https://kashmircivitas.com/,POLR,Political Criticism,2021-03-22,Netalitica,"Criticism of Indian state from Kashmir, reportedly blocked on ACT",18965960
+https://kashmirscholarsnetwork.org/,POLR,Political Criticism,2021-03-22,Netalitica,"Criticism of Indian state from Kashmir, reportedly blocked on ACT",5897603
+https://2adultflashgames.com/,PORN,Pornography,2021-03-22,Netalitica,"Pornographic games, reportedly blocked on ACT",12795378
+http://30plusgirls.com/,PORN,Pornography,2021-03-22,Netalitica,Reportedly blocked on ACT,2148535
+https://www.40somethingmag.com/,PORN,Pornography,2021-03-22,Netalitica,Reportedly blocked on ACT,46564713
+http://89.com/,PORN,Pornography,2021-03-22,Netalitica,Reportedly blocked on ACT,4930384
+https://www.antarvasnax.com/,PORN,Pornography,2021-03-22,Netalitica,Erotica in Hindi,37266067
+https://www.comdotgame.com/,PORN,Pornography,2021-03-22,Netalitica,"Pornographic games, reportedly blocked on ACT",9112197
+https://www.nutaku.net/,PORN,Pornography,2021-03-22,Netalitica,"Pornographic games, reportedly blocked on ACT",82873
+https://1escorts.net/,PROV,Provocative Attire,2021-03-22,Netalitica,"Sex work website, reportedly blocked on ACT",9189912
+https://translate.baidu.com/,SRCH,Search Engines,2021-03-22,Netalitica,Chinese app ban order in July 2020,2958879
+https://duckdudckgo.com/,SRCH,Search Engines,2021-03-22,Netalitica,Reportedly blocked across multiple ISPs for a short duration,-1
+https://www.shop101.com/,COMM,E-commerce,2021-03-23,Netalitica,"Reselling website, reportedly blocked on ACT",239876
+https://stdfireworks.com/,COMM,E-commerce,2021-03-23,Netalitica,Buy firecrackers online; reportedly blocked on ISPs,49799797
+https://www.tencent.com/,COMM,E-commerce,2021-03-23,Netalitica,Reportedly blocked on ACT,11934
+https://www.snapdealwinner.org/,COMM,E-commerce,2021-03-23,Netalitica,Possibly blocked for trademark infringement,310085530
+http://problems.in/,CULTR,Culture,2021-03-23,Netalitica,"Benign content, but reportedly blocked on ACT. Related to influence.in",1500179
+https://racaty.net/,FILE,File-sharing,2021-03-23,Netalitica,Reportedly blocked on ACT,1991931
+https://www.pubgmobile.com/,GAME,Gaming,2021-03-23,Netalitica,"Reportedly blocked on ACT, related to Chinese app ban",267484
+http://speed-new.com/,GAME,Gaming,2021-03-23,Netalitica,Game downloading website,4421659
+https://pun2k.org/,MILX,Terrorism and Militants,2021-03-23,Netalitica,"Related to Khalistani movement, reportedly blocked on ACT",-1
+https://rj10.org/,MILX,Terrorism and Militants,2021-03-23,Netalitica,"Related to Khalistani movement, reportedly blocked on ACT",-1
+https://sikhsarenotindian.org/,MILX,Terrorism and Militants,2021-03-23,Netalitica,"Related to Khalistani movement, reportedly blocked on ACT",-1
+https://yesfor2020.org/,MILX,Terrorism and Militants,2021-03-23,Netalitica,"Related to Khalistani movement, reportedly blocked on ACT",-1
+https://www.studycrux.com/,MMED,Media sharing,2021-03-23,Netalitica,"Book sharing website, reportedly blocked on ISPs",39071666
+https://vimple.ru/,MMED,Media sharing,2021-03-23,Netalitica,Reportedly blocked on ACT,11887254
+http://sikhsiyasat.in/,NEWS,News Media,2021-03-23,Netalitica,"News outlet with Khalistani bent, reportedly blocked across multiple ISPs",27920361
+https://sikhsiyasat.net/,NEWS,News Media,2021-03-23,Netalitica,"News outlet with Khalistani bent, reportedly blocked across multiple ISPs",571584
+https://www.abc.net.au/news/,NEWS,News Media,2021-03-23,Netalitica,Australian medium reporting on India as well,412
+https://runforkashmir.org/,POLR,Political Criticism,2021-03-23,Netalitica,"Running campaign, against central government for action in Kashmir ",26066657
+http://standupamericanow.org/,POLR,Political Criticism,2021-03-23,Netalitica,"American issue focused group, reportedly blocked on ACT",2317944
+https://standwithkashmir.org/,POLR,Political Criticism,2021-03-23,Netalitica,"Kashmir related, reportedly blocked on ACT",5829133
+https://livingliquidz.com/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica ,Alcohol delivery in certain states in India,4004437
+http://www.madhuloka.com/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica ,Alcohol outlet in India,21675719
+https://www.hipbar.com/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica ,Alcohol delivery in certain states in India,10570293
+https://itshemp.in/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica ,CBD oil delivery in India,3760715
+https://cbdstore.in/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica ,CBD oil delivery in India,4049597
+https://bohecolife.com/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica ,CBD oil delivery in India,9556869
+https://hemponest.com/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica ,CBD oil delivery in India,10046102
+https://www.amrutdistilleries.com/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica ,Alcohol brand India,475341
+https://sulavineyards.com/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica ,Alcohol brand India,5434288
+https://www.adb.org/,ECON,Economics,2021-04-20,Netalitica ,Asian Development Bank,12930
+https://idronline.org/,ECON,Economics,2021-04-20,Netalitica ,India Development Review,113455
+https://www.in.undp.org/,ECON,Economics,2021-04-20,Netalitica ,UNDP in India,146109
+https://www.dream11.com/,GMB,Gambling,2021-04-20,Netalitica ,Sports betting,62909
+https://mycasino.in/,GMB,Gambling,2021-04-30,Netalitica ,Gambling site aggregator,7919765
+https://dafabet.com/,GMB,Gambling,2022-04-07,sportsgambler,Sports and Casino,1284253
+https://www.dafabet.com/,GMB,Gambling,2022-04-07,sportsgambler,Sports and Casino,1284253
+https://m.dafabet.com/,GMB,Gambling,2022-04-07,sportsgambler,Sports and Casino mobile entry,23929963
+https://www.indiacasinos.com/,GMB,Gambling,2021-04-30,Netalitica ,Gambling site aggregator,6530145
+https://eng.mod.gov.cn/,GOVT,Government,2021-04-30,Netalitica ,China Ministry of Defence,83300
+https://www.gov.cn/english/,GOVT,Government,2021-04-30,Netalitica ,Chinese Government,11030
+https://www.fmprc.gov.cn/mfa_eng/,GOVT,Government,2021-04-30,Netalitica ,Foreign Ministry of China,13842
+https://www.mod.gov.pk/,GOVT,Government,2021-04-30,Netalitica ,"Ministry of Defence, Pakistan",438141
+http://www.mofept.gov.pk/,GOVT,Government,2021-04-30,Netalitica ,"Ministry of Federal Education and Professional Training, Pakistan",3571511
+https://www.covid19india.org/,PUBH,Public Health,2021-04-30,Netalitica ,Covid 19 dashboard India,41182
+https://covid19.india.gov.in/,PUBH,Public Health,2021-04-30,Netalitica ,Updates on government notifications on Covid 19,533922
+https://phfi.org/,PUBH,Public Health,2021-04-30,Netalitica ,Public Health Foundation of India,81818
+https://www.healis.org/,PUBH,Public Health,2021-04-30,Netalitica ,Sekhsaria Institute for Public Health,2883660
+https://sheikhabubakrahmad.com/,REL,Religion,2021-05-25,Netalitica,Grand Mufti of India (Islam),23504510
+https://keralamuslimjamaath.org/,REL,Religion,2021-05-25,Netalitica,Muslim org based in Kerala,61809537
+http://www.aimplboard.in/,REL,Religion,2021-05-25,Netalitica,All India Muslim Personal Law Board,1869567
+https://popularfrontindia.org/,REL,Religion,2021-05-25,Netalitica,"Muslim org, considered extremist",3874137
+http://m.dweepdiary.com/,NEWS,News Media,2021-05-25,Netalitica,"News from Lakshwadeep Islands, reports of blocking",-1
+http://www.macassam.nic.in/,GOVT,Government,2021-05-25,Netalitica,Mising Autonomous Council (Assam),11772584
+https://westjaintiahills.gov.in/,GOVT,Government,2021-05-25,Netalitica,West Jaintia Hills District (autonomous region),2412928
+https://khadc.nic.in/index.htm/,GOVT,Government,2021-05-25,Netalitica,Khasi Hills Autonomous region,4220060
+http://ttaadc.gov.in/,GOVT,Government,2021-05-25,Netalitica,Tripura Tribal Areas Council,8543995
+https://www.shycart.com/,COMM,E-commerce,2021-10-10,workshop india,Adult toys E-commerce,5427307
+https://www.sensualkart.com/,COMM,E-commerce,2021-10-10,workshop india,Adult toys E-commerce,8718787
+https://www.thatspersonal.com/,COMM,E-commerce,2021-10-10,workshop india,Adult toys E-commerce,3590601
+https://www.aliexpress.com/,COMM,E-commerce,2021-10-10,workshop india,Chinese e-commerce website,975
+https://in.imbesharam.com/,COMM,E-commerce,2021-10-10,workshop india,Adult toys E-commerce,3188906
+https://www.banggood.com/,COMM,E-commerce,2021-10-10,workshop india,Chinese e-commerce website,10429
+https://www.banggood.in/,COMM,E-commerce,2021-10-10,workshop india,Chinese e-commerce website,899848
+https://www.dalitcamera.com/,NEWS,News Media,2021-10-10,Nadika,News and current affairs from Dalit perspectives,2349983
+https://www.bbc.com/tamil/,NEWS,News Media,2021-10-10,Nadika,BBC's Tamil News Service,96
+https://www.dailythanthi.com/,NEWS,News Media,2021-10-10,Nadika,Tamil daily newspaper from Chennai,116479
+https://www.dtnext.in/,NEWS,News Media,2021-10-10,Nadika,English language news from DailyThanthi,124944
+https://www.dinamalar.com/,NEWS,News Media,2021-10-10,Nadika,Tamil language news,42558
+https://www.dinamani.com/,NEWS,News Media,2021-10-10,Nadika,Tamil language news,255316
+https://m.dinakaran.com/,NEWS,News Media,2021-10-10,Nadika,Tamil language news,21039894
+https://www.puthiyathalaimurai.com/,NEWS,News Media,2021-10-10,Nadika,Tamil language news + website of TV channel,30469
+https://www.adivasilivesmatter.com/,NEWS,News Media,2021-10-10,workshop india,News and information portal,1716353
+https://ruralindiaonline.org/en/,NEWS,News Media,2021-10-10,Nadika,People's Archive of Rural India - news and reporting from Rural India,43109
+https://thekashmirwalla.com/,NEWS,News Media,2021-10-10,Maansi,kashmir based digital media platform,403821
+https://blrqueerfilmfest.com/,CULTR,Culture,2021-10-10,Nadika,Website of Bangalore Queer Film Festival,467040
+https://www.ciqff.org/,CULTR,Culture,2021-10-10,Nadika,Website of Chennai Internation Queer Film Festival,9104649
+https://neelambooks.com/magazine/,CULTR,Culture,2021-10-10,Nadika,Long form and reportage in Tamil,37021042
+https://indiaink.org/,CULTR,Culture,2021-10-10,workshop india,Simple articles and explainer videos about Indian history that are relevant to today’s debates.,6626031
+https://www.ytamizh.com/thirukuralchapters/,CULTR,Culture,2021-10-10,Nadika,Translation and explanation to Thirukural,26996587
+https://tamilnation.org/index.htm,CULTR,Culture,2021-10-10,Nadika,"A blog/site for Tamils, to discuss culture, news, literature",163360
+https://roundtableindia.co.in/,CULTR,Culture,2021-02-25,Netalitica,Ambedkarite persepectives on current Indian society,316479
+http://www.tamilvu.org/,CULTR,Culture,2021-10-10,Nadika,Tamil Virtual University website,34492
+https://www.indianheritage.gov.sg/,CULTR,Culture,2021-10-10,OONI,Singapore government site on Indian culture,6576147
+https://www.thisismyindia.com/,CULTR,Culture,2021-10-10,OONI,Top tanking Indian culture site,582041
+https://indianculture.gov.in/,CULTR,Culture,2021-10-10,Mythili Srinivasamurthy,"Part of the National Virtual Library of India project, funded by the Ministry of Culture, Government of India.",170919
+http://www.dravidapalli.com/,CULTR,Culture,2021-10-10,Nadika,A virtual classroom to discuss Dravidian and Social Justice ideas and politics,-1
+https://indiaculture.nic.in/,CULTR,Culture,2021-10-10,OONI,Government site,342090
+http://www.iccrindia.net/,CULTR,Culture,2021-10-10,OONI,Top tanking Indian culture site,238674
+http://ccrtindia.gov.in/,CULTR,Culture,2021-10-10,Mythili Srinivasamurthy,Centre for Ceultural Research and Training,261516
+https://www.totalsportek.com/,CULTR,Culture,2021-10-10,workshop in India,"Sports blog, reportedly blocked on ACT",122574
+https://indianculturalforum.in/,CULTR,Culture,2021-10-10,Mythili Srinivasamurthy,,257042
+https://www.bollywoodhungama.com/,CULTR,Culture,2021-10-10,OONI,,34101
+http://bolly-zone.me/,CULTR,Culture,2021-10-10,workshop india,"Bollywood Discussion Forum, reportedly blocked on ACT",-1
+http://orinam.net/,LGBT,LGBT,2021-10-10,Nadika,Chennai based LGBT support group,1814523
+https://www.paalputhumai.com/,LGBT,LGBT,2021-10-10,Nadika,"Tamil and English Resources and support for queer persons, by Queer Chennai Chronicles",1337375
+https://sampoornaindiablog.wordpress.com/,LGBT,LGBT,2021-10-10,Nadika,Blog (stand in for offl website) of Sampoorna Trans & Intersex Group,8000255
+https://nirangal.ngo/,LGBT,LGBT,2021-10-10,Nadika,Website of Chennai based Trans and Queer support NGO,11257288
+https://mhi.org.in/qacp/,LGBT,LGBT,2021-10-10,workshop india,Queer affirmative counselling resources,4862748
+https://www.iglta.org/Country/India,LGBT,LGBT,2021-10-10,workshop india,LGBTQ+ Travel Guide to India,33813
+https://list.ly/list/FAQ-lgbtq-support-groups-and-resources-in-india,LGBT,LGBT,2021-10-10,workshop india,list of LGBTQ+ support groups + resources in India,5825
+https://www.saathi-iitb.org/,LGBT,LGBT,2021-10-10,workshop india,IIT Bombay’s LGBTQ+ resource group,12338035
+https://www.sahodaran.org/,LGBT,LGBT,2021-10-10,Nadika,Chennai based gay men/male sexual health support group,33710462
+https://sahodari.org/,LGBT,LGBT,2021-10-10,Nadika,TN based centre for trans empowerment,1488218
+http://queerala.org/,LGBT,LGBT,2021-10-10,workshop india,Malayali LGBTIQ organization,2812462
+https://lgbtqindiaresource.wordpress.com/,LGBT,LGBT,2021-10-10,workshop india,Resource lists for Indian LGBTQ communities and allies.,102296302
+http://swabhava.org/,LGBT,LGBT,2021-10-10,Nadika,Bangalore based support group for Queer persons,2823564
+http://sangama.org/,LGBT,LGBT,2021-10-10,Nadika,NGO and support group for queer persons,3378468
+https://www.utopia-asia.com/tipsindi.htm,LGBT,LGBT,2021-10-10,workshop india,list of resources,47365
+https://www.goarainbowtrust.com/,LGBT,LGBT,2021-10-10,workshop india,Goa based LGBTQIA+ NGO,23714223
+https://rethinkaadhaar.in/,HUMR,Human Rights Issues,2021-10-15,Maansi,advocacy on Aadhaar issues,2142826
+https://www.docsapp.in/,PUBH,Public Health,2021-10-10,workshop india,health app in india,249190
+https://www.mohfw.gov.in/,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,Official website of the Ministry of Health and Family Welfare,12669
+https://analytics.icmr.org.in/public/dashboard/149a9c89-de6d-4779-9326-5e8fed3323b6,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,India COVID-19 Vaccine Tracker,3246989
+https://www.mohfw.gov.in/covid_vaccination/vaccination/index.html,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,COVID-19 related information released by the Ministry of Health and Family Welfare,12669
+https://www.mygov.in/covid-19/,PUBH,Public Health,2021-10-10,OONI,Government info about COVID-19,15666
+https://hetv.org/india/health-medical-web-sites.htm,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,Directory of official Health and Medical web sites of Government of India,484341
+https://www.aarogyasetu.gov.in/,PUBH,Public Health,2021-10-10,OONI,Government COVID-19 app,52371
+https://dhr.gov.in/,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,Official website of the Ministry of Health and Family Welfare,4369842
+https://coronavirus.app/tracking/india,PUBH,Public Health,2021-10-10,OONI,COVID-19 app blocked in Myanmar and worth testing elsewhere,927045
+https://www.india.gov.in/topics/health-family-welfare,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,"Information pertainin to health programmes, policies, schemes, forms etc. for specific beneficiaries which include women, children, senior citizens etc. ",41328
+https://www.ijph.in/,PUBH,Public Health,2021-10-10,OONI,Indian Journal of Public Health,922647
+https://www.iphaonline.org/,PUBH,Public Health,2021-10-10,OONI,Indian Public Health Association,4690841
+http://rchiips.org/nfhs/about.shtml,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,National Family Health Survey,76761
+https://iiphg.edu.in/,PUBH,Public Health,2021-10-10,OONI,Indian Institute of Public Health,2928756
+http://sandbox.ndhm.gov.in/,PUBH,Public Health,2021-10-10,workshop india,NDHM Sandbox,14320667
+https://ccrhindia.org/,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,Central Council for Research in Ayurvedic Sciences,237722
+"https://ndhm.gov.in/""",PUBH,Public Health,2021-10-10,workshop india,NDHM Website,4013669
+https://gramvaani.org/?p=1629,PUBH,Public Health,2021-10-10,OONI,Rural health care,140284
+"https://nhm.gov.in/""",PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,National Health Mission,163739
+https://cghs.gov.in/,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,Central Government Health Scheme,3965807
+https://ncdc.gov.in/,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,National Center for Disease Control,495560
+https://www.helpageindia.org/covid-19-emergency-response/,PUBH,Public Health,2021-10-10,OONI,Listed as one of NGOs that have revolutionised healthcare in India,2169428
+https://censusindia.gov.in/,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,Office of the Registrar General & Census Commissioner,37735
+https://leprasociety.in/,PUBH,Public Health,2021-10-10,OONI,NGO,28516538
+https://www.ruralhealthcarefoundation.com/,PUBH,Public Health,2021-10-10,OONI,NGO,11033958
+https://www.udaanwelfare.org/,PUBH,Public Health,2021-10-10,OONI,NGO,22282911
+https://poovulagu.org/,ENV,Environment,2021-10-10,Nadika,Poovulagin Nanbargal: Friends of the Environment activism and support group,2376030
+https://www.ncf-india.org/,ENV,Environment,2021-10-10,Nadika,National Conservation Fund,190190
+https://www.thermalwatch.org.in/,ENV,Environment,2021-10-10,Nadika,"From CAG: Watching for climate change, environment etc",3004621
+https://www.cag.org.in/,ENV,Environment,2021-10-10,Nadika,Consumer and Environmental rights activism,4785210
+https://science.thewire.in/environment/wildlife-institute-of-india-environment-ministry/,ENV,Environment,2021-10-10,Workshop India,News article on govt cutting funds for a environmental research institute,31084
+http://envis.nic.in/,ENV,Environment,2021-10-10,Mythili Srinivasamurthy,Environmental Information System (ENVIS) Scheme,457676
+http://parivesh.nic.in/,ENV,Environment,2021-10-10,Mythili Srinivasamurthy,"Online submission and monitoring of the proposals submitted by the proponents for seeking Environment, Forest, Wildlife and CRZ Clearances from Central, State and district level authorities",3701255
+https://www.teriin.org/,ENV,Environment,2021-10-10,workshop india,Energy Institute in India,88826
+https://kalpavriksh.org/,ENV,Environment,2021-10-10,workshop india,environmental & social research & advocacy group,179131
+http://goafoundation.org/,ENV,Environment,2021-10-10,workshop india,environmental litigation & advocacy group,2544088
+https://www.downtoearth.org.in/,ENV,Environment,2021-10-10,OONI,Run by environmentalist Sunita Narain,16766
+http://environicsindia.in/,ENV,Environment,2021-10-10,workshop india,innovatives evidence based solutions to the problems of community development that respond to the diversity and complexity of specific eco-systems and socio-political-cultural environments.,2862110
+http://www.indiaenvironmentportal.org.in/,ENV,Environment,2021-10-10,workshop india,Environment portal run by Centre for Science and Environment,59394
+https://thelifeindia.org.in/,ENV,Environment,2021-10-10,workshop india,environmental litigation & advocacy group,6679305
+https://www.neeri.res.in/#googtrans(en|en),ENV,Environment,2021-10-10,Mythili Srinivasamurthy,CSIR-National Environmental Engineering Research Institute,1444108
+https://equitabletourism.org/,ENV,Environment,2021-10-10,Nadika,"Equations works on tourism, development and impact. Including environmental",512977
+https://moef.gov.in/en/,ENV,Environment,2021-10-10,Mythili Srinivasamurthy,"Ministry of Environment, Forest and Climate Change",188840
+https://www.trdcindia.org/,ENV,Environment,2021-10-10,OONI,Environmental NGO,38881977
+https://sankalptaru.org/,ENV,Environment,2021-10-10,OONI,Environmental NGO,67308
+https://india.mongabay.com/about/,ENV,Environment,2021-10-10,Mythili Srinivasamurthy,Environmental NGO,57673
+https://www.chintan-india.org/,ENV,Environment,2021-10-10,OONI,Environmental NGO,2313723
+http://www.janmitram.org/,ENV,Environment,2021-10-10,OONI,Environmental NGO,21652734
+http://satpuda.org/,ENV,Environment,2021-10-10,OONI,Environmental NGO,5027290
+http://www.wpsi-india.org/wpsi/index.php,ENV,Environment,2021-10-10,OONI,Environmental NGO,260194
+https://www.wwfindia.org/,ENV,Environment,2021-10-10,OONI,Environmental NGO,130604
+https://www.wti.org.in/,ENV,Environment,2021-10-10,OONI,Environmental NGO,260929
+http://cesorissa.org/,ENV,Environment,2021-10-10,OONI,Centre for Environmental Studies,26075649
+https://www.vasundharaodisha.org/,ENV,Environment,2021-10-10,workshop india,"Action Research & Policy Advocacy Organisation working on Natural Resources Governance, Conservation and Sustainable Livelihoods",9947180
+https://www.cprindia.org/environmental-law-governance,ENV,Environment,2021-10-10,workshop india,"Evidence based research on environmental jurisprudence to the construction industry, and they engage directly with domestic and international environmental institutions",86286
+https://hrce.tn.gov.in/hrcehome/index.php,GOVT,Government,2021-10-10,Nadika,TN Hindu Religious Charitable Endowment Department website,788893
+https://dravidianprofessionals.com/,POLR,Political Criticism,2021-10-10,Nadika,A forum of professionals sympathetic to Dravidian Politics and social justice,42154880
+https://swarajindia.org/,POLR,Political Criticism,2021-10-15,Maansi,new political party,6924420
+https://aazadsamajpartyk.org/,POLR,Political Criticism,2021-10-15,Maansi,new political party,86984316
+https://www.trolleytimes.online/,POLR,Political Criticism,2021-10-15,Maansi,newsletter on farmers protest,6821747
+https://indiansexstories.net/,PORN,Pornography,2021-10-10,workshop india,Erotica Blocked (old url permanently blocked),23347577
+https://indiansexstories2.net/,PORN,Pornography,2021-10-10,workshop india,Blocked on certain ISPs (new url),10513544
+https://piratebay.live/,FILE,File-sharing,2022-01-02,community member,Torrent hosting site blocked via DNS,8319446
+http://bannedthought.net/,HUMR,Human Rights Issues,2022-04-04,,,121471
+http://www.videolan.org/,MMED,Media sharing,2022-08-12,community member,VLC media player blocked in India,4806
+https://imap.sinarproject.org/,HUMR,Human Rights Issues,2023-03-24,sinarproject,,17675019
+https://hindi.sputniknews.in/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,,102184646

@@ -1,0 +1,461 @@
+url,category_code,category_description,date_added,source,notes,rank
+https://rachad.org/,NEWS,News Media,2014-04-15,citizenlab,,4456006
+https://www.tsa-algerie.com/,NEWS,News Media,2017-10-31,OONI,Reportedly blocked by TELECOM ALGERIA (AS36947),30631
+https://www.tsa-arabi.com/,NEWS,News Media,2017-10-31,OONI,Reportedly blocked by TELECOM ALGERIA (AS36947),15362416
+https://fr.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,35099
+https://ar.wikisource.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,165746
+https://arz.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,107456
+https://fr.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,48037
+https://fr.m.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,277083
+https://www.algeriepatriotique.com/,NEWS,News Media,2019-09-20,Anonymous,,47256
+https://www.aboutalgeria.com/,CULTR,Culture,2019-09-26,OONI,,4971415
+http://douniamusic.com/,CULTR,Culture,2019-09-26,OONI,,26377260
+http://www.hdmelody.com/,CULTR,Culture,2019-09-26,OONI,,38853282
+http://www.kbmusique.com/,CULTR,Culture,2019-09-26,OONI,,5143916
+http://www.mzaziko.com/,CULTR,Culture,2019-09-26,OONI,,38970859
+https://www.bahdja.com/,CULTR,Culture,2019-09-26,OONI,,11821994
+http://www.dz.ma/,CULTR,Culture,2019-09-26,OONI,,8557403
+https://staifi.com/,CULTR,Culture,2019-09-26,OONI,,53836691
+https://www.inshallah.com/,DATE,Online Dating,2019-09-26,OONI,,26335222
+https://www.anhri.info/,HUMR,Human Rights Issues,2019-09-26,OONI,,1812668
+https://rsf.org/en/algeria/,HUMR,Human Rights Issues,2019-09-26,OONI,,5226
+https://algeria-watch.org/,HUMR,Human Rights Issues,2019-09-26,OONI,,54931
+http://www.droits-laddh.org/,HUMR,Human Rights Issues,2019-09-26,OONI,,6813654
+http://afepec.org/,HUMR,Human Rights Issues,2019-09-26,OONI,,7621182
+https://www.hrw.org/middle-east/n-africa/algeria/,HUMR,Human Rights Issues,2019-09-26,OONI,,2304
+http://www.makabylie.org/,MILX,Terrorism and Militants,2019-09-26,OONI,,4548747
+https://www.djelfa.info/ar/,NEWS,News Media,2019-09-26,OONI,,4389486
+https://www.echoroukonline.com/,NEWS,News Media,2019-09-26,OONI,,110620
+https://www.elkhabar.com/,NEWS,News Media,2019-09-26,OONI,,129709
+https://www.ennaharonline.com/,NEWS,News Media,2019-09-26,OONI,,26234
+http://www.elbilad.net/,NEWS,News Media,2019-09-26,OONI,,1419936
+https://www.algerie-focus.com/,NEWS,News Media,2019-09-26,OONI,,241068
+https://www.elwatan.com/,NEWS,News Media,2019-09-26,OONI,,37850
+https://www.djazairess.com/,NEWS,News Media,2019-09-26,OONI,,168232
+http://www.liberte-algerie.com/,NEWS,News Media,2019-09-26,OONI,,85789
+https://www.lesoirdalgerie.com/,NEWS,News Media,2019-09-26,OONI,,165257
+http://www.aps.dz/,NEWS,News Media,2019-09-26,OONI,,69388
+https://www.lematindz.net/,NEWS,News Media,2019-09-26,OONI,,143702
+http://www.lequotidien-oran.com/,NEWS,News Media,2019-09-26,OONI,,97517
+http://www.akhersaa-dz.com/,NEWS,News Media,2019-09-26,OONI,,1481520
+https://www.algerie1.com/,NEWS,News Media,2019-09-26,OONI,,302408
+http://www.algerie-dz.com/,NEWS,News Media,2019-09-26,OONI,,304628
+https://www.annasronline.com/,NEWS,News Media,2019-09-26,OONI,,1540304
+https://www.el-massa.com/dz/,NEWS,News Media,2019-09-26,OONI,,1521924
+http://www.elmoudjahid.com/,NEWS,News Media,2019-09-26,OONI,,133913
+http://www.akhbarelyoum.dz/,NEWS,News Media,2019-09-26,OONI,,7366998
+http://www.lexpressiondz.com/,NEWS,News Media,2019-09-26,OONI,,106833
+http://www.siwel.info/,NEWS,News Media,2019-09-26,OONI,,419115
+https://www.depechedekabylie.com/accueil/,NEWS,News Media,2019-09-26,OONI,,190995
+http://elmihwar.com/ar/,NEWS,News Media,2019-09-26,OONI,,734522
+http://www.entv.dz/,NEWS,News Media,2019-09-26,OONI,,1835793
+https://tv.ennaharonline.com/,NEWS,News Media,2019-09-26,OONI,,22571709
+https://www.aljazeera.com/topics/country/algeria.html/,NEWS,News Media,2019-09-26,OONI,,1556
+https://tv.echoroukonline.com/,NEWS,News Media,2019-09-26,OONI,,4218669
+https://www.akhbardzair.com/ar/,NEWS,News Media,2019-09-26,OONI,,11969331
+https://aljazair1.com/,NEWS,News Media,2019-09-26,OONI,,12055776
+https://www.aljazairalyoum.com/,NEWS,News Media,2019-09-26,OONI,,4733906
+http://www.algeriapressonline.com/,NEWS,News Media,2019-09-26,OONI,,29975283
+http://www.algeriatimes.net/,NEWS,News Media,2019-09-26,OONI,,5779408
+https://algerie7.com/,NEWS,News Media,2019-09-26,OONI,,4540638
+https://algeriemaintenant.com/,NEWS,News Media,2019-09-26,OONI,,11691727
+https://algeriepart.com/ar/,NEWS,News Media,2019-09-26,OONI,,1720050
+http://algeriesolidaire.net/,NEWS,News Media,2019-09-26,OONI,,2136702
+http://dia-algerie.com/,NEWS,News Media,2019-09-26,OONI,,1525048
+https://www.djazairess.com/fr/,NEWS,News Media,2019-09-26,OONI,,168232
+http://www.dzfoot.com/,NEWS,News Media,2019-09-26,OONI,,196644
+http://dzayerinfo.com/ar/,NEWS,News Media,2019-09-26,OONI,,737634
+https://lavoixdalgerie.com/,NEWS,News Media,2019-09-26,OONI,,17004456
+https://www.lematindalgerie.com/,NEWS,News Media,2019-09-26,OONI,,345931
+https://lequotidienalgerie.org/,NEWS,News Media,2019-09-26,OONI,,2523548
+https://www.express-dz.com/,NEWS,News Media,2019-09-26,OONI,,4048308
+http://www.livenewsalgerie.com/,NEWS,News Media,2019-09-26,OONI,,3733211
+https://www.observalgerie.com/,NEWS,News Media,2019-09-26,OONI,,186107
+http://www.pfalgerie.com/,NEWS,News Media,2019-09-26,OONI,,162921150
+https://www.podium-dz.com/,NEWS,News Media,2019-09-26,OONI,,166538676
+https://www.sabqpress.net/,NEWS,News Media,2019-09-26,OONI,,10339695
+https://www.dzentreprise.net/,NEWS,News Media,2019-09-26,OONI,,5352991
+http://www.eldjazaircom.dz/,NEWS,News Media,2019-09-26,OONI,,4097397
+http://www.ech-chaab.com/ar/,NEWS,News Media,2019-09-26,OONI,,1499811
+http://www.elmoudjahid.com/ar,NEWS,News Media,2019-09-26,OONI,,133913
+https://www.latribune-algerie.com/,NEWS,News Media,2019-09-26,OONI,,76050917
+http://www.alseyassi-dz.com/ara/index.php/,NEWS,News Media,2019-09-26,OONI,,13074523
+http://algerhebdo.net/,NEWS,News Media,2019-09-26,OONI,,166538522
+http://www.alger-republicain.com/,NEWS,News Media,2019-09-26,OONI,,1724332
+http://www.assawt.net/,NEWS,News Media,2019-09-26,OONI,,6727668
+http://www.chebabdjazairi.com/,NEWS,News Media,2019-09-26,OONI,,15545768
+https://www.cresus.dz/,NEWS,News Media,2019-09-26,OONI,,5815160
+http://www.dknews-dz.com/,NEWS,News Media,2019-09-26,OONI,,345658
+https://www.eldjazaireldjadida.com/,NEWS,News Media,2019-09-26,OONI,,18499188
+https://www.elhayatonline.com/,NEWS,News Media,2019-09-26,OONI,,15333495
+http://elraaed.com/ara/,NEWS,News Media,2019-09-26,OONI,,6420251
+https://www.sudhorizons.dz/ar/,NEWS,News Media,2019-09-26,OONI,,6818276
+http://lecourrier-dalgerie.com/,NEWS,News Media,2019-09-26,OONI,,1442292
+http://lechodalgerie-dz.com/,NEWS,News Media,2019-09-26,OONI,,25340494
+http://www.lesechosdalger.com/,NEWS,News Media,2019-09-26,OONI,,5443421
+http://sawtalahrar.net/,NEWS,News Media,2019-09-26,OONI,,13404621
+http://www.tribunelecteurs.com/,NEWS,News Media,2019-09-26,OONI,,4204096
+http://www.transactiondalgerie.com/,NEWS,News Media,2019-09-26,OONI,,1470762
+https://www.wakteldjazair.com/,NEWS,News Media,2019-09-26,OONI,,1543149
+https://lebouzeguenepost.com/,NEWS,News Media,2019-09-26,OONI,,3334598
+https://kabyle.com/,NEWS,News Media,2019-09-26,OONI,,188669
+https://www.echosdesidibelabbes.info/,NEWS,News Media,2019-09-26,OONI,,22983470
+http://ain-oulmene.com/,NEWS,News Media,2019-09-26,OONI,,13449250
+https://al-bab.com/news/algeria/,NEWS,News Media,2019-09-26,OONI,,63216
+http://www.pfln.dz/,POLR,Political Criticism,2019-09-26,OONI,,1708959
+http://www.assabile.com/,REL,Religion,2019-09-26,OONI,,3457306
+http://www.algerieinfo.com/,SRCH,Search Engines,2019-09-26,OONI,,9427058
+http://www.okbob.net/,SRCH,Search Engines,2019-09-26,OONI,,3739160
+https://www.vitaminedz.com/,SRCH,Search Engines,2019-09-26,OONI,,1899048
+http://www.guide-algerie.com/,SRCH,Search Engines,2019-09-26,OONI,,26076045
+http://www.algerie-monde.com/,SRCH,Search Engines,2019-09-26,OONI,,2574582
+http://www.algerlablanche.com/,SRCH,Search Engines,2019-09-26,OONI,,4625279
+https://www.elheddaf.com/,CULTR,Culture,2019-09-26,OONI,,1447980
+http://www.competition.dz/,CULTR,Culture,2019-09-26,OONI,,1412782
+http://www.derbypresse.dz/,CULTR,Culture,2019-09-26,OONI,,8694506
+https://sport.ennaharonline.com/,CULTR,Culture,2019-09-26,OONI,,7662866
+https://www.algerie-eco.com/,ECON,Economics,2019-09-26,OONI,,411585
+https://www.middleeasteye.net/,NEWS,News Media,2019-09-26,OONI,"This is a news websites. Even though it includes reports about human rights practices, its general categorization remains NEWS.",18114
+https://www.zikdalgerie.com/,CULTR,Culture,2019-09-26,OONI,,35583222
+https://www.algerie360.com/,NEWS,News Media,2019-09-26,OONI,,246466
+https://algerienetwork.com/algerie/,NEWS,News Media,2019-09-26,OONI,,2073347
+https://www.algeriescoop.com/,NEWS,News Media,2019-09-26,OONI,,14838250
+https://www.presse-algerie.net/fr/index.html/,NEWS,News Media,2019-09-26,OONI,,4561371
+https://www.actuel-dz.com/,NEWS,News Media,2019-09-26,OONI,,9900578
+https://www.elhiwardz.com/,NEWS,News Media,2019-09-26,OONI,,8603322
+https://www.elikhbaria.com/,NEWS,News Media,2019-09-26,OONI,,15684389
+https://www.lnr-dz.com/,NEWS,News Media,2019-09-26,OONI,,240531
+https://maghrebemergent.info/,NEWS,News Media,2020-04-11,AkramBa,Reportedly blocked by TELECOM ALGERIA (AS36947),439614
+https://www.radiom.info/,NEWS,News Media,2020-04-11,AkramBa,Reportedly blocked by TELECOM ALGERIA (AS36947),3274948
+https://www.inter-lignes.com/,NEWS,News Media,2020-04-19,Anonymous,Reportedly blocked by TELECOM ALGERIA (AS36947),1856123
+https://www.dzvid.com/,NEWS,News Media,2020-04-24,Anonymous,Reportedly blocked by TELECOM ALGERIA (AS36947),503202
+https://www.lavantgarde-algerie.com/,NEWS,News Media,2020-05-22,Anonymous,Reportedly blocked by TELECOM ALGERIA (AS36947),605234
+https://www.africanandeastern.com/,ALDR,Alcohol & Drugs,2020-06-30,Netalitica,,1754319
+https://mashrobi.com/,ALDR,Alcohol & Drugs,2020-06-30,Netalitica,,28247909
+https://www.gbiexpress.com/,ALDR,Alcohol & Drugs,2020-06-30,Netalitica,,50375080
+https://bmmishops.com/,ALDR,Alcohol & Drugs,2020-06-30,Netalitica,,21798362
+https://www.drinkies.net/,ALDR,Alcohol & Drugs,2020-06-30,Netalitica,,10359381
+https://ar.vpnmentor.com/,ANON,Anonymization and circumvention tools,2020-06-30,Netalitica,,13893580
+https://beheard.salamatech.org/ar/,ANON,Anonymization and circumvention tools,2020-06-30,Netalitica,,30001935
+https://mahjooob.com/,ANON,Anonymization and circumvention tools,2020-06-30,Netalitica,,54307328
+https://nottrees.com/,ANON,Anonymization and circumvention tools,2020-06-30,Netalitica,,50735330
+https://salamatechwiki.org/,ANON,Anonymization and circumvention tools,2020-06-30,Netalitica,,12071362
+https://weneedprivacy.com/,ANON,Anonymization and circumvention tools,2020-06-30,Netalitica,,9284895
+https://www.arabichotspotshield.com/,ANON,Anonymization and circumvention tools,2020-06-30,Netalitica,,72706338
+https://www.cyber-arabs.com/,ANON,Anonymization and circumvention tools,2020-06-30,Netalitica,,2589284
+https://www.newtactics.org/ar,ANON,Anonymization and circumvention tools,2020-06-30,Netalitica,,298611
+https://www.openingblockedsite.com/,ANON,Anonymization and circumvention tools,2020-06-30,Netalitica,,38729557
+https://www.salamatech.org/,ANON,Anonymization and circumvention tools,2020-06-30,Netalitica,,18225801
+https://www.toopenblockedsites.com/,ANON,Anonymization and circumvention tools,2020-06-30,Netalitica,,109189240
+https://xn--ngbsg7dyao.xyz/,ANON,Anonymization and circumvention tools,2020-06-30,Netalitica,,103122620
+https://www.lkeria.com/,COMM,E-commerce,2020-06-30,Netalitica,,2377347
+http://www.algerie-immobilier.com/,COMM,E-commerce,2020-06-30,Netalitica,,54257592
+https://batolis.com/ar/,COMM,E-commerce,2020-06-30,Netalitica,,21564572
+https://www.zawwali.com/,COMM,E-commerce,2020-06-30,Netalitica,,25003957
+https://takhail.org/,COMM,E-commerce,2020-06-30,Netalitica,,34393888
+https://www.takhfedaty.com/,COMM,E-commerce,2020-06-30,Netalitica,,36832920
+https://www.mdinjdida.com/,COMM,E-commerce,2020-06-30,Netalitica,,19881370
+https://haylla.com/,COMM,E-commerce,2020-06-30,Netalitica,,25833247
+http://www.enp.edu.dz/,CTRL,Control content,2020-06-30,Netalitica,Local academic website for control purposes,6716407
+https://www.umc.edu.dz/,CTRL,Control content,2020-06-30,Netalitica,Local academic website for control purposes,485456
+http://www.dcwconstantine.gov.dz/,CTRL,Control content,2020-06-30,Netalitica,Government website for control purposes,13182749
+http://www.mae.gov.dz/,CTRL,Control content,2020-06-30,Netalitica,Government website for control purposes,352333
+http://www.education.gov.dz/,CTRL,Control content,2020-06-30,Netalitica,Government website for control purposes,4876759
+https://www.crbt.dz/,CTRL,Control content,2020-06-30,Netalitica,Non-political website for control purposes,10536693
+https://ensh.dz/,CTRL,Control content,2020-06-30,Netalitica,Non-political website for control purposes,4085711
+https://www.marefa.org/,SRCH,Search Engines,2020-06-30,Netalitica,,311554
+https://www.nikahsearch.com/,DATE,Online Dating,2020-06-30,Netalitica,,129270604
+http://www.zawagislamy.com/,DATE,Online Dating,2020-06-30,Netalitica,,37921130
+http://talaki.com/,DATE,Online Dating,2020-06-30,Netalitica,,319553116
+http://www.ekhetba.com/home.ar/,DATE,Online Dating,2020-06-30,Netalitica,,89051296
+http://www.yazawaj.com/,DATE,Online Dating,2020-06-30,Netalitica,,34432457
+http://zawaghalal.com/,DATE,Online Dating,2020-06-30,Netalitica,,-1
+https://msyaronline.com/,DATE,Online Dating,2020-06-30,Netalitica,,22688862
+https://www.muslima.com/ar,DATE,Online Dating,2020-06-30,Netalitica,,2647539
+https://www.qiran.com/,DATE,Online Dating,2020-06-30,Netalitica,,7040764
+https://www.sharekomry.com/#/,DATE,Online Dating,2020-06-30,Netalitica,,120658952
+https://www.zawaj.com/,DATE,Online Dating,2020-06-30,Netalitica,,436608
+https://zwaj-algeria.net/,DATE,Online Dating,2020-06-30,Netalitica,,136310525
+https://zawgaty.com/,DATE,Online Dating,2020-06-30,Netalitica,,22466711
+https://www.lovehabibi.com/,DATE,Online Dating,2020-06-30,Netalitica,,5248459
+http://www.emploialgerie.com/,ECON,Economics,2020-06-30,Netalitica,,4855980
+https://www.emploitic.com/,ECON,Economics,2020-06-30,Netalitica,,2533192
+https://www.arabianbusiness.com/,ECON,Economics,2020-06-30,Netalitica,,17530
+https://www.cnbcarabia.com/,ECON,Economics,2020-06-30,Netalitica,,124724
+https://www.investing.com/,ECON,Economics,2020-06-30,Netalitica,,14409
+https://www.argaam.com/,ECON,Economics,2020-06-30,Netalitica,,22275
+https://www.eco-algeria.com/,ECON,Economics,2020-06-30,Netalitica,,35676726
+https://country.eiu.com/algeria/,ECON,Economics,2020-06-30,Netalitica,,65075
+http://www.ar-economist.com/,ECON,Economics,2020-06-30,Netalitica,,13477964
+https://aleqtisadyelaraby.com/,ECON,Economics,2020-06-30,Netalitica,,136313478
+https://www.iktissadevents.com/,ECON,Economics,2020-06-30,Netalitica,,5939370
+https://www.aleqt.com/,ECON,Economics,2020-06-30,Netalitica,,1161504
+http://www.arabwatercouncil.org/,ENV,Environment,2020-06-30,Netalitica,,2963519
+https://naturemena.com/,ENV,Environment,2020-06-30,Netalitica,,101988333
+https://acwua.org/,ENV,Environment,2020-06-30,Netalitica,,1891830
+http://multkasoft.com/,FILE,File-sharing,2020-06-30,Netalitica,"These are pan-Arab filesharing websites, some of which have been blocked in the region over copyrights concerns",37998265
+http://shamela.ws/index.php,FILE,File-sharing,2020-06-30,Netalitica,"These are pan-Arab filesharing websites, some of which have been blocked in the region over copyrights concerns",143010
+http://www.5-yal.com/,FILE,File-sharing,2020-06-30,Netalitica,"These are pan-Arab filesharing websites, some of which have been blocked in the region over copyrights concerns",11734416
+http://www.arabyarea.com/,FILE,File-sharing,2020-06-30,Netalitica,"These are pan-Arab filesharing websites, some of which have been blocked in the region over copyrights concerns",13376926
+http://www.doniacomputer.com/,FILE,File-sharing,2020-06-30,Netalitica,"These are pan-Arab filesharing websites, some of which have been blocked in the region over copyrights concerns",73827444
+http://www.th3download.com/,FILE,File-sharing,2020-06-30,Netalitica,"These are pan-Arab filesharing websites, some of which have been blocked in the region over copyrights concerns",50631768
+https://ar4up.com/,FILE,File-sharing,2020-06-30,Netalitica,"These are pan-Arab filesharing websites, some of which have been blocked in the region over copyrights concerns",43397957
+https://technoarabi.com/,FILE,File-sharing,2020-06-30,Netalitica,"These are pan-Arab filesharing websites, some of which have been blocked in the region over copyrights concerns",17822780
+https://www.alarabydownloads.com/,FILE,File-sharing,2020-06-30,Netalitica,"These are pan-Arab filesharing websites, some of which have been blocked in the region over copyrights concerns",1186124
+https://www.alsindibad.com/,FILE,File-sharing,2020-06-30,Netalitica,"These are pan-Arab filesharing websites, some of which have been blocked in the region over copyrights concerns",941676
+https://www.androidapps-ar.com/,FILE,File-sharing,2020-06-30,Netalitica,"These are pan-Arab filesharing websites, some of which have been blocked in the region over copyrights concerns",30821822
+https://www.bramjfreee.com/,FILE,File-sharing,2020-06-30,Netalitica,"These are pan-Arab filesharing websites, some of which have been blocked in the region over copyrights concerns",919847
+https://www.bramjzone.com/,FILE,File-sharing,2020-06-30,Netalitica,"These are pan-Arab filesharing websites, some of which have been blocked in the region over copyrights concerns",15965147
+https://www.downloadprogramsline.com/,FILE,File-sharing,2020-06-30,Netalitica,"These are pan-Arab filesharing websites, some of which have been blocked in the region over copyrights concerns",6345891
+https://www.esm3.com/,FILE,File-sharing,2020-06-30,Netalitica,"These are pan-Arab filesharing websites, some of which have been blocked in the region over copyrights concerns",12466955
+https://www.mo7pro.com/,FILE,File-sharing,2020-06-30,Netalitica,"These are pan-Arab filesharing websites, some of which have been blocked in the region over copyrights concerns",16980918
+http://game-game.ma/,GAME,Gaming,2020-06-30,Netalitica,,40335129
+http://www.337.com/ar/minigame/,GAME,Gaming,2020-06-30,Netalitica,,9596961
+http://www.ar.obfog.com/,GAME,Gaming,2020-06-30,Netalitica,,113181692
+https://chessduo.com/ar,GAME,Gaming,2020-06-30,Netalitica,,1331831
+https://viptarneeb.com/,GAME,Gaming,2020-06-30,Netalitica,,43583426
+https://www.gamessakhr.com/,GAME,Gaming,2020-06-30,Netalitica,,52373786
+https://www.gamku.com/,GAME,Gaming,2020-06-30,Netalitica,,5799389
+https://www.gmajid.com/,GAME,Gaming,2020-06-30,Netalitica,,10883439
+https://www.jawaker.com/,GAME,Gaming,2020-06-30,Netalitica,,6407282
+https://www.casinoalgeria.com/,GMB,Gambling,2020-06-30,Netalitica,,-1
+http://arabianbetting.com/,GMB,Gambling,2020-06-30,Netalitica,,3691346
+http://www.onlinearabiccasino.com/,GMB,Gambling,2020-06-30,Netalitica,,149886464
+http://xn--mgbaad5cxb7deyuu.com/,GMB,Gambling,2020-06-30,Netalitica,,116126804
+https://arab-casino.org/,GMB,Gambling,2020-06-30,Netalitica,,6833313
+https://arabcasino.co/,GMB,Gambling,2020-06-30,Netalitica,,99638476
+https://arabcasinohex.com/,GMB,Gambling,2020-06-30,Netalitica,,1746835
+https://arabian-roulette.com/,GMB,Gambling,2020-06-30,Netalitica,,2172284
+https://casinoarabian.com/,GMB,Gambling,2020-06-30,Netalitica,,315341269
+https://online-casino-arabic.com/,GMB,Gambling,2020-06-30,Netalitica,,6279436
+https://www.arabiccasinochoice.com/,GMB,Gambling,2020-06-30,Netalitica,,29081183
+https://www.casinoaraby.com/,GMB,Gambling,2020-06-30,Netalitica,,15946174
+https://www.casinoarbi.com/,GMB,Gambling,2020-06-30,Netalitica,,7914852
+https://www.casinoelarab.com/,GMB,Gambling,2020-06-30,Netalitica,,7428196
+https://www.casinosenarabe.com.ar/,GMB,Gambling,2020-06-30,Netalitica,,88416601
+https://www.elarabcasino.com/,GMB,Gambling,2020-06-30,Netalitica,,9784615
+https://www.finalarab.com/,GMB,Gambling,2020-06-30,Netalitica,,316303084
+https://www.toparabcasinos.com/,GMB,Gambling,2020-06-30,Netalitica,,18375557
+https://xn--888-nze9cufxaqq.com/,GMB,Gambling,2020-06-30,Netalitica,,58071643
+https://www.knesset.gov.il/,GOVT,Government,2020-06-30,Netalitica,Algeria does not officially recognize the state of Israel,57014
+https://www.likud.org.il/,GOVT,Government,2020-06-30,Netalitica,Algeria does not officially recognize the state of Israel,70825
+https://meretz.org.il/,GOVT,Government,2020-06-30,Netalitica,Algeria does not officially recognize the state of Israel,2144989
+https://mfa.gov.il/,GOVT,Government,2020-06-30,Netalitica,Algeria does not officially recognize the state of Israel,21438
+https://www.mod.gov.il/,GOVT,Government,2020-06-30,Netalitica,Algeria does not officially recognize the state of Israel,179908
+https://www.timesofisrael.com/,NEWS,News Media,2020-06-30,Netalitica,,5392
+http://www.saharalibre.es/,GOVT,Government,2020-06-30,Netalitica,Related to the conflict over the sub-Sahara,268237
+http://alhacker.mam9.com/login,HACK,Hacking Tools,2020-06-30,Netalitica,,163367411
+http://abtalealdjazaire.ahlamontada.net/,HACK,Hacking Tools,2020-06-30,Netalitica,,-1
+http://hackerz.ahlamontada.net/,HACK,Hacking Tools,2020-06-30,Netalitica,,48162729
+http://hakers.arabepro.com/,HACK,Hacking Tools,2020-06-30,Netalitica,,145209274
+http://www.aljyyosh.com/vb/,HACK,Hacking Tools,2020-06-30,Netalitica,,21848450
+https://www.alkrsan.net/forum/,HACK,Hacking Tools,2020-06-30,Netalitica,,4051084
+http://hackerr.hooxs.com/forum,HACK,Hacking Tools,2020-06-30,Netalitica,,151640512
+http://hackers.banouta.net/,HACK,Hacking Tools,2020-06-30,Netalitica,,109790262
+https://forums.soqor.net/,HACK,Hacking Tools,2020-06-30,Netalitica,,48241068
+https://www.business.algeria.hsbc.com/ar-dz/cybercrime/,HACK,Hacking Tools,2020-06-30,Netalitica,,15920819
+http://webarabi.com/,HOST,Hosting and Blogging Platforms,2020-06-30,Netalitica,,40826868
+https://hostkda.com/ar/,HOST,Hosting and Blogging Platforms,2020-06-30,Netalitica,,54359653
+https://sahaba.io/reseller-hosting/,HOST,Hosting and Blogging Platforms,2020-06-30,Netalitica,,61764566
+https://www.badrnet.net/,HOST,Hosting and Blogging Platforms,2020-06-30,Netalitica,,81547674
+https://www.lookserv.com/,HOST,Hosting and Blogging Platforms,2020-06-30,Netalitica,,75659952
+https://www.arabhost.com/,HOST,Hosting and Blogging Platforms,2020-06-30,Netalitica,,37726778
+https://www.algeriahost.com/,HOST,Hosting and Blogging Platforms,2020-06-30,Netalitica,,81528479
+https://www.dzsecurity.com/ar/,HOST,Hosting and Blogging Platforms,2020-06-30,Netalitica,,17783720
+https://www.dzmaison.com/,HOST,Hosting and Blogging Platforms,2020-06-30,Netalitica,,81548973
+https://dzsphere.com/,HOST,Hosting and Blogging Platforms,2020-06-30,Netalitica,,61628588
+http://anhri.net/,HUMR,Human Rights Issues,2020-06-30,Netalitica,,169100
+https://euromedrights.org/,HUMR,Human Rights Issues,2020-06-30,Netalitica,,137114
+https://www.socialgerie.net/,HUMR,Human Rights Issues,2020-06-30,Netalitica,,2652597
+https://www.asjp.cerist.dz/,HUMR,Human Rights Issues,2020-06-30,Netalitica,,1294998
+http://www.opemam.org/,HUMR,Human Rights Issues,2020-06-30,Netalitica,,1689835
+https://ar.globalvoices.org/,HUMR,Human Rights Issues,2020-06-30,Netalitica,,3240728
+https://www.gicj.org/,HUMR,Human Rights Issues,2020-06-30,Netalitica,,560239
+http://aohr.net/,HUMR,Human Rights Issues,2020-06-30,Netalitica,,4084429
+https://www.cihrs.org/,HUMR,Human Rights Issues,2020-06-30,Netalitica,,150648
+https://laddh-algerie.org/,HUMR,Human Rights Issues,2020-06-30,Netalitica,,10509930
+https://www.alkarama.org/,HUMR,Human Rights Issues,2020-06-30,Netalitica,,2405024
+http://emhrf.org/,HUMR,Human Rights Issues,2020-06-30,Netalitica,,4911662
+https://www.ibtykar.org/,HUMR,Human Rights Issues,2020-06-30,Netalitica,,15455964
+https://www.algerie-tpp.org/,HUMR,Human Rights Issues,2020-06-30,Netalitica,,387128
+https://cndh.org.dz/,HUMR,Human Rights Issues,2020-06-30,Netalitica,,6228786
+https://www.amnestyalgerie.org/,HUMR,Human Rights Issues,2020-06-30,Netalitica,,3938957
+http://www.amazighworld.org/,HUMR,Human Rights Issues,2020-06-30,Netalitica,,257552
+https://tribusalgeriennes.wordpress.com/,HUMR,Human Rights Issues,2020-06-30,Netalitica,,15011201
+https://www.alawan.org/,HUMR,Human Rights Issues,2020-06-30,Netalitica,,5338983
+http://www.freemuslim.org/,HUMR,Human Rights Issues,2020-06-30,Netalitica,,9677376
+https://ar-ar.facebook.com/pages/category/Artist/Les-gay-de-algeria-658790164155318/,LGBT,LGBT,2020-06-30,Netalitica,To monitor if ISPs manage to block individual pages,263847
+http://www.gayalgerie.net/,LGBT,LGBT,2020-06-30,Netalitica,"Currently offline, but it may come back online",10617440
+https://www.ilgrandecolibri.com/en/,LGBT,LGBT,2020-06-30,Netalitica,,153740
+http://arabiclgbt.blogspot.com/,LGBT,LGBT,2020-06-30,Netalitica,,-1
+https://www.queerrefugeeswelcome.de/ar/,LGBT,LGBT,2020-06-30,Netalitica,,11725727
+http://www.bintelnas.org/,LGBT,LGBT,2020-06-30,Netalitica,,5825391
+https://kifkif.info/,LGBT,LGBT,2020-06-30,Netalitica,,506155
+http://alqaws.org/,LGBT,LGBT,2020-06-30,Netalitica,,199824
+https://www.lgbtasylumproject.org/,LGBT,LGBT,2020-06-30,Netalitica,,881334
+http://www.lgbtnet.dk/countries/middle-east/algeria/,LGBT,LGBT,2020-06-30,Netalitica,,719446
+https://arabsongtop.com/index.php/,MMED,Media sharing,2020-06-30,Netalitica,,88555910
+http://w.cima4u.tv/,MMED,Media sharing,2020-06-30,Netalitica,,37859731
+https://c.cima4up.co/,MMED,Media sharing,2020-06-30,Netalitica,,18492978
+http://melody4arab.com/,MMED,Media sharing,2020-06-30,Netalitica,,4647549
+https://www.movizland.com/,MMED,Media sharing,2020-06-30,Netalitica,,18577595
+https://www.nsaem.net/videos/,MMED,Media sharing,2020-06-30,Netalitica,,15449847
+https://arab.phonezik.net/,MMED,Media sharing,2020-06-30,Netalitica,,117403671
+https://arabseed.me/,MMED,Media sharing,2020-06-30,Netalitica,,56678842
+https://arabseed.net/index.html/,MMED,Media sharing,2020-06-30,Netalitica,,954176
+https://arabtigers.com/,MMED,Media sharing,2020-06-30,Netalitica,,24238619
+https://instaview.me/ar/,MMED,Media sharing,2020-06-30,Netalitica,,1957488
+https://mp3songs.alarab.com/,MMED,Media sharing,2020-06-30,Netalitica,,44389355
+https://www.akoam.net/,MMED,Media sharing,2020-06-30,Netalitica,,15653736
+https://www.mzarita.tv/,MMED,Media sharing,2020-06-30,Netalitica,,38283837
+https://www.4helal.co/,MMED,Media sharing,2020-06-30,Netalitica,,37609600
+https://www.dardarkom.tv/,MMED,Media sharing,2020-06-30,Netalitica,,24351360
+https://www.farfeshplus.com/,MMED,Media sharing,2020-06-30,Netalitica,,6587435
+https://songs.nghmaty.com/,MMED,Media sharing,2020-06-30,Netalitica,,97487424
+https://s4w.tv/,MMED,Media sharing,2020-06-30,Netalitica,,-1
+https://www.youtubeto.com/ar/,MMED,Media sharing,2020-06-30,Netalitica,,7849123
+https://almasdar-dz.com/,NEWS,News Media,2020-06-30,Netalitica,,7662849
+https://seven-dz.com/,NEWS,News Media,2020-06-30,Netalitica,,6211830
+http://www.eldjazaironline.net/,NEWS,News Media,2020-06-30,Netalitica,,7280802
+https://arabi21.com/,NEWS,News Media,2020-06-30,Netalitica,,83299
+https://essalamonline.com/,NEWS,News Media,2020-06-30,Netalitica,,13044815
+https://www.independentarabia.com/,NEWS,News Media,2020-06-30,Netalitica,,286649
+https://www.alaraby.co.uk/,NEWS,News Media,2020-06-30,Netalitica,,18541
+https://www.aa.com.tr/,NEWS,News Media,2020-06-30,Netalitica,,10496
+https://arabic.sputniknews.com/,NEWS,News Media,2020-06-30,Netalitica,,1277566
+https://www.islamist-movements.com/,NEWS,News Media,2020-06-30,Netalitica,,661480
+http://islamion.com/,NEWS,News Media,2020-06-30,Netalitica,,7690422
+https://www.raialyoum.com/,NEWS,News Media,2020-06-30,Netalitica,,175431
+https://www.noonpost.com/,NEWS,News Media,2020-06-30,Netalitica,,899480
+https://alhudood.net/,NEWS,News Media,2020-06-30,Netalitica,,2393346
+https://www.almayadeen.net/,NEWS,News Media,2020-06-30,Netalitica,,117096
+https://www.skynewsarabia.com/,NEWS,News Media,2020-06-30,Netalitica,,31569
+https://ar.qantara.de/,NEWS,News Media,2020-06-30,Netalitica,,1409907
+https://www.france24.com/,NEWS,News Media,2020-06-30,Netalitica,,2192
+https://arabicpost.net/,NEWS,News Media,2020-06-30,Netalitica,,1570720
+https://almanar.com.lb/,NEWS,News Media,2020-06-30,Netalitica,,93070
+https://www.trtarabi.com/,NEWS,News Media,2020-06-30,Netalitica,,1533542
+https://www.alalamtv.net/,NEWS,News Media,2020-06-30,Netalitica,,1554875
+https://www.alhurra.com/,NEWS,News Media,2020-06-30,Netalitica,,97149
+http://casbah-tribune.com/,NEWS,News Media,2020-06-30,Netalitica,,3059664
+https://www.algeriachannel.net/,NEWS,News Media,2020-06-30,Netalitica,,12254825
+https://www.farsnews.ir/,NEWS,News Media,2020-06-30,Netalitica,,42433
+https://www.maghrebvoices.com/,NEWS,News Media,2020-06-30,Netalitica,,2546949
+https://algeriepartplus.com/,NEWS,News Media,2020-06-30,Netalitica,,3325247
+https://algerie48.org/,NEWS,News Media,2020-06-30,Netalitica,,47058365
+https://raseef22.com/,NEWS,News Media,2020-06-30,Netalitica,,302069
+https://www.watanserb.com/,NEWS,News Media,2020-06-30,Netalitica,,3175318
+https://www.dzairdaily.com/,NEWS,News Media,2020-06-30,Netalitica,,1651929
+https://thenewkhalij.news/,NEWS,News Media,2020-06-30,Netalitica,,2171997
+http://hmsalgeria.net/ar/,POLR,Political Criticism,2020-06-30,Netalitica,,5892618
+http://www.ffs-dz.net/,POLR,Political Criticism,2020-06-30,Netalitica,,11955840
+http://islah-dz.com/,POLR,Political Criticism,2020-06-30,Netalitica,,24340005
+http://www.apn.dz/,POLR,Political Criticism,2020-06-30,Netalitica,,1883846
+http://plj.dz/,POLR,Political Criticism,2020-06-30,Netalitica,,-1
+http://fc.dz/,POLR,Political Criticism,2020-06-30,Netalitica,,108258648
+https://jiljadid.org/,POLR,Political Criticism,2020-06-30,Netalitica,,4309201
+http://el-wassit.orgfree.com/,POLR,Political Criticism,2020-06-30,Netalitica,,-1
+https://elbinaa.com/,POLR,Political Criticism,2020-06-30,Netalitica,,15377528
+https://carnegie-mec.org/,HUMR,Human Rights Issues,2020-06-30,Netalitica,,48959
+https://www.facebook.com/PSTDZ/,POLR,Political Criticism,2020-06-30,Netalitica,To monitor if ISPs manage to block individual pages,1
+https://www.facebook.com/pageofficiellept/,POLR,Political Criticism,2020-06-30,Netalitica,To monitor if ISPs manage to block individual pages,1
+https://www.facebook.com/bostan.ikhwan/,POLR,Political Criticism,2020-06-30,Netalitica,To monitor if ISPs manage to block individual pages,1
+http://www.ikhwanonline.com/,POLR,Political Criticism,2020-06-30,Netalitica,,160643
+https://ikhwantube.com/,POLR,Political Criticism,2020-06-30,Netalitica,,5399368
+http://www.marxy.com/,POLR,Political Criticism,2020-06-30,Netalitica,,3635236
+http://aletejahtv.com/,POLR,Political Criticism,2020-06-30,Netalitica,Pro-Hizbullah group,6693854
+https://alwelayah.net/,POLR,Political Criticism,2020-06-30,Netalitica,Pro-Hizbullah group,13284445
+https://www.islamtimes.org/,POLR,Political Criticism,2020-06-30,Netalitica,Pro-Hizbullah group,337872
+https://ikhwanonline.info/,POLR,Political Criticism,2020-06-30,Netalitica,Muslim Brotherhood,6410019
+https://www.ikhwanwiki.com/,POLR,Political Criticism,2020-06-30,Netalitica,Muslim Brotherhood,1346275
+https://ikhwansyria.com/,POLR,Political Criticism,2020-06-30,Netalitica,Muslim Brotherhood,3238528
+http://www.ikhwanpress.com/,POLR,Political Criticism,2020-06-30,Netalitica,Muslim Brotherhood,9262102
+https://www.fj-p.com/,POLR,Political Criticism,2020-06-30,Netalitica,Muslim Brotherhood,1465890
+http://www.al-jamaa.org/,POLR,Political Criticism,2020-06-30,Netalitica,Muslim Brotherhood,8642103
+http://www.alqassam.ps/arabic/index.php/,POLR,Political Criticism,2020-06-30,Netalitica,Muslim Brotherhood,455647
+http://hizb-ut-tahrir.info/,POLR,Political Criticism,2020-06-30,Netalitica,,417050
+https://neswangy.net/,PORN,Pornography,2020-06-30,Netalitica,,1780265
+https://3arabporn.com/,PORN,Pornography,2020-06-30,Netalitica,,52091784
+https://b3boos.com/,PORN,Pornography,2020-06-30,Netalitica,,10809936
+https://sex4arabxxx.com/,PORN,Pornography,2020-06-30,Netalitica,,23167818
+https://sexalarab.com/,PORN,Pornography,2020-06-30,Netalitica,,11566475
+https://sexjk.com/,PORN,Pornography,2020-06-30,Netalitica,,6874295
+https://sexsaoy.com/,PORN,Pornography,2020-06-30,Netalitica,,6849958
+https://www.aflamsexhd.com/,PORN,Pornography,2020-06-30,Netalitica,,43476008
+https://www.arabianchicks.com/,PORN,Pornography,2020-06-30,Netalitica,,60944554
+https://www.tubev.sex/,PORN,Pornography,2020-06-30,Netalitica,,5631407
+https://xnxxx.cc/,PORN,Pornography,2020-06-30,Netalitica,,25315233
+https://xxxnxx.me/,PORN,Pornography,2020-06-30,Netalitica,,19933709
+https://www.xnxx.com/,PORN,Pornography,2020-06-30,Netalitica,,890164
+https://ar.aliexpress.com/,PROV,Provocative Attire,2020-06-30,Netalitica,,1732124
+https://en-ae.namshi.com/,PROV,Provocative Attire,2020-06-30,Netalitica,,2561023
+https://sa.made-in-china.com/co_cnjmint/,PROV,Provocative Attire,2020-06-30,Netalitica,,12243879
+https://www.daloah.com/,PROV,Provocative Attire,2020-06-30,Netalitica,,24106418
+https://www.journelle.com/,PROV,Provocative Attire,2020-06-30,Netalitica,,1129882
+https://www.kiabi.ae/,PROV,Provocative Attire,2020-06-30,Netalitica,,9411507
+https://www.klynn.com/,PROV,Provocative Attire,2020-06-30,Netalitica,,14503648
+https://www.miraclelingerie.ae/,PROV,Provocative Attire,2020-06-30,Netalitica,,123285586
+https://www.nayomi.com/,PROV,Provocative Attire,2020-06-30,Netalitica,,13478393
+https://www.soma.com/,PROV,Provocative Attire,2020-06-30,Netalitica,,78734
+http://www.sehha.com/,PUBH,Public Health,2020-06-30,Netalitica,,8386870
+http://covid19.cipalgerie.com/ar/,PUBH,Public Health,2020-06-30,Netalitica,,6194121
+http://www.hi-mama.com/,PUBH,Public Health,2020-06-30,Netalitica,,34913628
+http://www.mediall1.com/,PUBH,Public Health,2020-06-30,Netalitica,,15309321
+http://www.sehha.com/index.shtml/,PUBH,Public Health,2020-06-30,Netalitica,,8386870
+https://www.3rbdr.net/,PUBH,Public Health,2020-06-30,Netalitica,,10902971
+https://www.altibbi.com/,PUBH,Public Health,2020-06-30,Netalitica,,156218
+https://www.doctoori.net/,PUBH,Public Health,2020-06-30,Netalitica,,10938525
+https://www.se7a4evryone.com/,PUBH,Public Health,2020-06-30,Netalitica,,64832623
+https://www.seha-tok.com/,PUBH,Public Health,2020-06-30,Netalitica,,37935033
+https://www.webteb.com/,PUBH,Public Health,2020-06-30,Netalitica,,1551803
+https://www.meddy.com/ar/,PUBH,Public Health,2020-06-30,Netalitica,,2530703
+https://www.islamweb.net/,REL,Religion,2020-06-30,Netalitica,,20333
+http://binbadis.net/,REL,Religion,2020-06-30,Netalitica,,12907853
+https://elbassair.org/,REL,Religion,2020-06-30,Netalitica,,6304360
+http://www.nouralhuda.com/,REL,Religion,2020-06-30,Netalitica,,26260926
+http://www.binnabi.net/,REL,Religion,2020-06-30,Netalitica,,11769044
+https://saidbouizeri.com/,REL,Religion,2020-06-30,Netalitica,,178939105
+http://www.nebrasselhaq.com/,REL,Religion,2020-06-30,Netalitica,,12177235
+http://algzaeri.com/algzaeri/,REL,Religion,2020-06-30,Netalitica,,167712210
+http://almoslim.net/,REL,Religion,2020-06-30,Netalitica,,3163914
+https://ar.islamway.net/,REL,Religion,2020-06-30,Netalitica,,114211
+https://www.arabicbible.com/,REL,Religion,2020-06-30,Netalitica,,47257
+http://www.bahai-faith.org/,REL,Religion,2020-06-30,Netalitica,,8903720
+https://bahai.com/,REL,Religion,2020-06-30,Netalitica,,136845
+https://www.biblegateway.com/,REL,Religion,2020-06-30,Netalitica,,4724
+http://arabatheistbroadcasting.com/,REL,Religion,2020-06-30,Netalitica,,7871280
+http://www.faithfreedom.org/,REL,Religion,2020-06-30,Netalitica,,1411268
+https://www.il7ad.org/vb/index.php/,REL,Religion,2020-06-30,Netalitica,,6455554
+http://www.islamway.com/,REL,Religion,2020-06-30,Netalitica,,956089
+http://www.light-of-life.com/,REL,Religion,2020-06-30,Netalitica,,3688379
+https://the-good-way.com/,REL,Religion,2020-06-30,Netalitica,,9372023
+https://www.thegrace.com/,REL,Religion,2020-06-30,Netalitica,,573363
+http://www.thequran.com/,REL,Religion,2020-06-30,Netalitica,,7313164
+https://www.thereligionofpeace.com/,REL,Religion,2020-06-30,Netalitica,,874213
+https://www.ccdz.cerist.dz/,SRCH,Search Engines,2020-06-30,Netalitica,,18983047
+http://www.babalweb.net/ar/#/,SRCH,Search Engines,2020-06-30,Netalitica,,11477928
+http://hayatouki.com/,XED,Sex Education,2020-06-30,Netalitica,,1134020
+http://m3loma.com/,XED,Sex Education,2020-06-30,Netalitica,,10523154
+http://www.feedo.net/Default.htm/,XED,Sex Education,2020-06-30,Netalitica,,4724824
+http://www.kalam.co.il/,XED,Sex Education,2020-06-30,Netalitica,,53392110
+https://aljens.info/,XED,Sex Education,2020-06-30,Netalitica,,124433013
+https://jensaneya.org/,XED,Sex Education,2020-06-30,Netalitica,,3942421
+https://lmarabic.com/,XED,Sex Education,2020-06-30,Netalitica,,3574201
+https://www.dailymedicalinfo.com/,XED,Sex Education,2020-06-30,Netalitica,,101534
+https://www.e7kky.com/,XED,Sex Education,2020-06-30,Netalitica,,5123356
+https://www.zanzu.de/ar/,XED,Sex Education,2020-06-30,Netalitica,,1155882
+https://fustany.com/ar/,XED,Sex Education,2020-06-30,Netalitica,,1826679
+https://zanzu.no/ar/,XED,Sex Education,2020-06-30,Netalitica,,13106444
+https://genderiyya.xyz/,XED,Sex Education,2020-06-30,Netalitica,Wiki-like reference that addresses sexuality,3625914
+http://skylineforhuman.org/,HUMR,Human Rights Issues,2020-10-04,Netalitica,,6147229
+https://afrique.lalibre.be/,NEWS,News Media,2020-10-04,Netalitica,,290329
+https://www.ouest-france.fr/,NEWS,News Media,2020-10-04,Netalitica,,13202
+https://www.afrik.com/,NEWS,News Media,2020-10-04,Netalitica,,90832
+http://www.mapexpress.ma/,NEWS,News Media,2020-10-04,Netalitica,,39857
+https://www.h24info.ma/,NEWS,News Media,2020-10-04,Netalitica,,164421
+https://www.voaafrique.com/,NEWS,News Media,2020-10-04,Netalitica,,86741
+https://www.radio-m.net/,NEWS,News Media,2020-10-04,Netalitica,,1900808
+https://www.liberte-algerie.com/,NEWS,News Media,2020-10-04,Netalitica,,85789
+https://ar.hibapress.com/,NEWS,News Media,2020-10-04,Netalitica,,4191194
+https://fr.hibapress.com/,NEWS,News Media,2020-10-04,Netalitica,,4165669
+https://sputnikarabic.ae/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,,4990494

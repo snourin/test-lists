@@ -1,0 +1,5 @@
+url,category_code,category_description,date_added,source,notes,rank
+https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,5510
+https://mishresec.wordpress.com/,HACK,Hacking Tools,2020-03-16,anonymous,,11094426
+https://health.act.gov.au/about-our-health-system/novel-coronavirus-covid-19,PUBH,Public Health,2020-04-01,citizenlab,coronavirus,26520
+https://www.health.nsw.gov.au/news/Pages/20200317_01.aspx,PUBH,Public Health,2020-04-01,citizenlab,coronavirus,12129

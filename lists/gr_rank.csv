@@ -1,0 +1,47 @@
+url,category_code,category_description,date_added,source,notes,rank
+https://el.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,16305
+https://el.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,196212
+https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,5510
+http://www.ekathimerini.com/,NEWS,News Media,2018-09-20,OONI,,22213
+https://greekreporter.com/,NEWS,News Media,2018-09-20,OONI,,34324
+https://www.thenationalherald.com/,NEWS,News Media,2018-09-20,OONI,,44580
+http://www.greeknewsagenda.gr/,NEWS,News Media,2018-09-20,OONI,,164219
+http://www.zougla.gr/,NEWS,News Media,2018-09-20,OONI,,95779
+http://www.makeleio.gr/,NEWS,News Media,2018-09-20,OONI,,388469
+https://www.dikaiologitika.gr/,NEWS,News Media,2018-09-20,OONI,,182697
+https://www.protothema.gr/,NEWS,News Media,2018-09-20,OONI,,56294
+http://www.gazzetta.gr/,NEWS,News Media,2018-09-20,OONI,,30306
+https://www.newsit.gr/,NEWS,News Media,2018-09-20,OONI,,58894
+http://www.iefimerida.gr/,NEWS,News Media,2018-09-20,OONI,,23912
+https://www.news247.gr/,NEWS,News Media,2018-09-20,OONI,,52528
+https://www.pronews.gr/,NEWS,News Media,2018-09-20,OONI,,115822
+https://www.newsbomb.gr/,NEWS,News Media,2018-09-20,OONI,,59606
+http://www.rizopoulospost.com/,NEWS,News Media,2018-09-20,OONI,,2077054
+http://newpost.gr/,NEWS,News Media,2018-09-20,OONI,,399732
+http://www.in.gr/,NEWS,News Media,2018-09-20,OONI,,45100
+https://www.newsbeast.gr/,NEWS,News Media,2018-09-20,OONI,,128186
+https://www.pentapostagma.gr/,NEWS,News Media,2018-09-20,OONI,,343627
+https://www.cretalive.gr/,NEWS,News Media,2018-09-20,OONI,,109355
+http://www.kathimerini.gr/,NEWS,News Media,2018-09-20,OONI,,12731
+http://www.thebest.gr/,NEWS,News Media,2018-09-20,OONI,,388227
+http://www.enikos.gr/,NEWS,News Media,2018-09-20,OONI,,110543
+https://www.naftemporiki.gr/,NEWS,News Media,2018-09-20,OONI,,35849
+https://www.parapolitika.gr/,NEWS,News Media,2018-09-20,OONI,,391915
+https://katohika.gr/,NEWS,News Media,2018-09-20,OONI,,4639223
+http://www.ert.gr/,NEWS,News Media,2018-09-20,OONI,,49523
+https://flashnews.gr/,NEWS,News Media,2018-09-20,OONI,,1301312
+http://www.koutipandoras.gr/,NEWS,News Media,2018-09-20,OONI,,964800
+http://www.thestival.gr/,NEWS,News Media,2018-09-20,OONI,,494217
+https://www.athensvoice.gr/,NEWS,News Media,2018-09-20,OONI,,68263
+http://ethnos.gr/,NEWS,News Media,2018-09-20,OONI,,68096
+http://www.tovima.gr/,NEWS,News Media,2018-09-20,OONI,,29547
+http://www.thetoc.gr/,NEWS,News Media,2018-09-20,OONI,,56014
+https://www.hamogelo.gr/,HUMR,Human Rights Issues,2018-09-20,OONI,,115955
+https://www.migrant.gr/,HUMR,Human Rights Issues,2018-09-20,OONI,,3772588
+http://www.efsyn.gr/,NEWS,News Media,2018-09-20,OONI,,64506
+https://www.amnesty.gr/,HUMR,Human Rights Issues,2018-09-20,OONI,,1497625
+http://www.subtitles.gr/,FILE,File-sharing,2018-11-09,Anonymous,,23566956
+http://www.subztv.club/,FILE,File-sharing,2018-11-09,Anonymous,,17704452
+http://www.yts.am/,FILE,File-sharing,2018-11-09,Anonymous,,3575199
+http://www.loosecannonholdem.com/,CTRL,Control content,2018-11-09,Anonymous,,317682699
+http://www.euro-bet.gr/,GMB,Gambling,2018-11-09,Anonymous,,-1

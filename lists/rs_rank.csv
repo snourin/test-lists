@@ -1,0 +1,9 @@
+url,category_code,category_description,date_added,source,notes,rank
+https://sr.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,20596
+https://sh.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,70792
+https://hr.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,35652
+https://bs.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,118413
+https://hu.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,13480
+https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,5510
+https://rt.rs/,NEWS,News Media,2023-04-21,OONI,russian media,5052949
+https://sputnikportal.rs/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,,7444926

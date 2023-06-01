@@ -1,0 +1,42 @@
+url,category_code,category_description,date_added,source,notes,rank
+http://allpasswords.com/,PORN,Pornography,2014-04-15,citizenlab,,19845693
+http://cyber.law.harvard.edu/,NEWS,News Media,2014-04-15,citizenlab,,2727
+http://groups.msn.com/,GRP,Social Networking,2014-04-15,citizenlab,,17913
+https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,5510
+https://pt.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,4916
+http://live4k.online/,FILE,File-sharing,2020-01-13,citizenlab,Court ordered blocking of this site,82133091
+http://tulip.pctvhd.net/,FILE,File-sharing,2020-01-13,citizenlab,Court ordered blocking of this site,-1
+http://hitron.pctvhd.net/,FILE,File-sharing,2020-01-13,citizenlab,Court ordered blocking of this site,-1
+http://tv-hitron.pctvhd.net/,FILE,File-sharing,2020-01-13,citizenlab,Court ordered blocking of this site,-1
+https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html#a2,PUBH,Public Health,2020-04-01,citizenlab,coronavirus,520
+http://www.bccdc.ca/about/news-stories/stories/2020/information-on-novel-coronavirus,PUBH,Public Health,2020-04-01,citizenlab,coronavirus,40965
+https://www.alberta.ca/coronavirus-info-for-albertans.aspx,PUBH,Public Health,2020-04-01,citizenlab,coronavirus,10333
+https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus,PUBH,Public Health,2020-04-01,citizenlab,coronavirus,16401
+https://www.ontario.ca/page/2019-novel-coronavirus,PUBH,Public Health,2020-04-01,citizenlab,coronavirus,5234
+https://www.msss.gouv.qc.ca/professionnels/maladies-infectieuses/coronavirus-2019-ncov/,PUBH,Public Health,2020-04-01,citizenlab,coronavirus,110109
+https://www2.gnb.ca/content/gnb/en/departments/ocmoh/cdc/content/respiratory_diseases/coronavirus.html,PUBH,Public Health,2020-04-01,citizenlab,coronavirus,18077
+https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19,PUBH,Public Health,2020-04-01,citizenlab,coronavirus,237501
+https://novascotia.ca/coronavirus/#cases,PUBH,Public Health,2020-04-01,citizenlab,coronavirus,25612
+http://gold.myiptvplanet.com/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL,-1
+http://global.myiptvplanet.com/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL,-1
+http://goldtv.ca/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL,9055908
+http://destv.me/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL,-1
+http://4k.new4k.net/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL,-1
+http://app.new4k.net/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL,-1
+http://4k.new4k.cc/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL,-1
+http://app.new4k.cc/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL,-1
+http://z.zcatt.net/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL,-1
+http://app.zcatt.net/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL,-1
+http://zcatt.cc/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL,82084876
+http://z.zcatt.cc/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL,-1
+http://mag7.abctv.me/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL,-1
+http://905iptv.com/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL,-1
+http://new.atntv.cc/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL,-1
+http://app.atntv.cc/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL,-1
+http://app.atntvv.cc/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL,-1
+http://new.atntvv.cc/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL,-1
+http://live.aircell.cc/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL,165053338
+http://6.aircell.cc/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL,-1
+http://live.aircel.me/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL,-1
+http://6.aircel.me/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL,-1
+https://rutube.ru/,MMED,Media sharing,2023-01-20,test-lists.ooni.org contribution,appears  not accessible on desktops,10365

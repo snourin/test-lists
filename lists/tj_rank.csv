@@ -1,0 +1,29 @@
+url,category_code,category_description,date_added,source,notes,rank
+http://fergana.ru/,POLR,Political Criticism,2014-04-15,citizenlab,,3107346
+http://ferghana.ru/,POLR,Political Criticism,2014-04-15,citizenlab,,218093
+http://www.internews.eu/,NEWS,News Media,2014-04-15,citizenlab,,508308
+http://www.iwpr.net/,HUMR,Human Rights Issues,2014-04-15,citizenlab,,25274
+http://www.lenta.ru/,NEWS,News Media,2014-04-15,citizenlab,,14250
+http://www.rusembassy.tajnet.com/,GOVT,Government,2014-04-15,citizenlab,,39204324
+http://www.turajon.com/,REL,Religion,2014-04-15,citizenlab,,38399775
+http://www.voprosik.net/,NEWS,News Media,2014-04-15,citizenlab,,2142807
+http://www.zvezda.ru/,NEWS,News Media,2014-04-15,citizenlab,,1405518
+http://www.bbc.com/kyrgyz/,NEWS,News Media,2017-07-19,BBC,,96
+http://www.bbckyrgyz.com/,NEWS,News Media,2017-07-19,BBC,,22333802
+http://www.bbc.com/uzbek/,NEWS,News Media,2017-07-19,BBC,,96
+https://rus.ozodi.org/,NEWS,News Media,2022-07-26,OONI,,264663
+https://akhbor.com/,NEWS,News Media,2022-07-26,OONI,,4288581
+https://asiaplustj.info/,NEWS,News Media,2022-07-26,OONI,,107732
+https://jumhuriyat.tj/,NEWS,News Media,2022-07-26,OONI,,2084321
+https://khovar.tj/,NEWS,News Media,2022-07-26,OONI,,1407331
+https://payom.net/,POLR,Political Criticism,2022-07-26,OONI,,5999478
+https://www.ozodi.org/,NEWS,News Media,2022-10-26,test-lists.ooni.org contribution,,49291
+https://ozodi.gitlab.io/,ANON,Anonymization and circumvention tools,2022-12-02,rayasharbain,,-1
+https://ozodiozodi.github.io/,ANON,Anonymization and circumvention tools,2022-12-02,rayasharbain,,-1
+https://cabar.asia/,NEWS,News Media,2023-01-30,CIPI,,133830
+http://your.tj/,NEWS,News Media,2023-01-30,CIPI,,6091232
+https://eurasianet.org/,NEWS,News Media,2023-01-30,CIPI,,16389
+https://farazh.tj/,NEWS,News Media,2023-01-30,CIPI,,26126102
+https://kaktus.media/,NEWS,News Media,2023-01-30,CIPI,,161350
+https://24.kg/,NEWS,News Media,2023-01-30,CIPI,,62457
+https://sputnik.tj/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,,35165019

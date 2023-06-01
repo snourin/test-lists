@@ -1,0 +1,8 @@
+url,category_code,category_description,date_added,source,notes,rank
+https://nl.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,4981
+https://fr.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,35099
+https://pl.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,4738
+https://fr.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,48037
+https://fr.m.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,277083
+https://pralido.be/,DATE,Online Dating,2020-04-01,OONI,URL shared by community member,32109246
+https://ipfs.io/,FILE,File-sharing,2021-04-01,magma,Reported as blocked in Belgium https://web.archive.org/web/20210401073940/https://discuss.ipfs.io/t/ipfs-blocked-in-belgium/7930,11652

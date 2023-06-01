@@ -1,0 +1,393 @@
+url,category_code,category_description,date_added,source,notes,rank
+http://www.zela.org/,ENV,Environment,2016-07-22,OONI,url provided by OONI partner,2678413
+http://www.jsc.org.zw/,GOVT,Government,2016-07-22,OONI,url provided by OONI partner,6700013
+http://www.mohcc.gov.zw/,GOVT,Government,2016-07-22,OONI,url provided by OONI partner,1163488
+https://www.parlzim.gov.zw/,GOVT,Government,2016-07-22,OONI,url provided by OONI partner,162654
+http://www.zimra.co.zw/,GOVT,Government,2016-07-22,OONI,url provided by OONI partner,449535
+http://www.zrp.gov.zw/,GOVT,Government,2016-07-22,OONI,url provided by OONI partner,1269173
+http://www.technomag.co.zw/,HACK,Hacking Tools,2016-07-22,OONI,,477503
+https://www.techzim.co.zw/,HACK,Hacking Tools,2016-07-22,OONI,,56983
+https://www.veritaszim.net/,HUMR,Human Rights Issues,2016-07-22,OONI,url provided by OONI partner,412493
+http://www.zwla.co.zw/,HUMR,Human Rights Issues,2016-07-22,OONI,url provided by OONI partner,2067246
+https://galz.org/,LGBT,LGBT,2016-07-22,OONI,url provided by OONI partner,6002709
+http://www.channelzim.net/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner,14498670
+http://www.newsdzezimbabwe.co.uk/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner,122655
+https://www.sundaynews.co.zw/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner,205207
+http://www.zimbabwesituation.com/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner,82393
+https://www.bettingsites.info/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner,11536502
+http://saharareporters.com/2016/07/06/protests-shut-zimbabwe-down-mugabe-government-throttles-social-media-stave-criticism/,POLR,Political Criticism,2016-07-22,OONI,,30457
+https://twitter.com/pastorevanlive/,POLR,Political Criticism,2016-07-22,OONI,keep for control purposes,5
+http://www.aljazeera.com/programmes/countingthecost/2014/02/robert-mugabe-economic-legacy-201422010939634296.html/,POLR,Political Criticism,2016-07-22,OONI,,1556
+http://www.deseretnews.com/article/865658538/How-ThisFlag-pastor-Evan-Mawarire-used-Facebook-to-shut-down-Zimbabwe.html/,POLR,Political Criticism,2016-07-22,OONI,,15785
+http://www.ibtimes.co.uk/zimbabwe-who-pastor-evan-mawarire-man-behind-thisflag-subversive-protest-movement-1569674/,POLR,Political Criticism,2016-07-22,OONI,,4848
+http://www.theatlantic.com/magazine/archive/2003/12/how-to-kill-a-country/302845/,POLR,Political Criticism,2016-07-22,OONI,,170
+http://celebrate.org/,REL,Religion,2016-07-22,OONI,url provided by OONI partner,14212281
+http://www.fifmi.org/,REL,Religion,2016-07-22,OONI,url provided by OONI partner,23783655
+http://www.phdministries.org/,REL,Religion,2016-07-22,OONI,url provided by OONI partner,17107693
+http://www.ufiministries.org/,REL,Religion,2016-07-22,OONI,url provided by OONI partner,6083950
+https://www.classifieds.co.zw/,COMM,E-commerce,2016-07-22,OONI,url provided by OONI partner,4310285
+https://www.econet.co.zw/,COMM,E-commerce,2016-07-22,OONI,url provided by OONI partner,432689
+https://www.netone.co.zw/,COMM,E-commerce,2016-07-22,OONI,url provided by OONI partner,6563000
+https://www.telecel.co.zw/,COMM,E-commerce,2016-07-22,OONI,url provided by OONI partner,5438596
+https://www.3-mob.com/,CULTR,Culture,2016-07-22,OONI,url provided by OONI partner,52943
+https://www.zimbojam.com/,CULTR,Culture,2016-07-22,OONI,url provided by OONI partner,488630
+https://www.potraz.gov.zw/,GOVT,Government,2016-07-22,OONI,url provided by OONI partner,3768690
+https://www.hrforumzim.org/,HUMR,Human Rights Issues,2016-07-22,OONI,url provided by OONI partner,1719524
+https://www.kubatana.net/,HUMR,Human Rights Issues,2016-07-22,OONI,url provided by OONI partner,98035
+https://www.thezimbabwean.co/2016/03/an-update-on-human-rights-violations-in-zimbabwe/,HUMR,Human Rights Issues,2016-07-22,OONI,,188528
+https://www.zesn.org.zw/,HUMR,Human Rights Issues,2016-07-22,OONI,url provided by OONI partner,2363871
+https://www.zhrc.org.zw/,HUMR,Human Rights Issues,2016-07-22,OONI,url provided by OONI partner,5309028
+https://www.263chat.com/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner,1538095
+https://www.bulawayo24.com/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner,116869
+https://www.herald.co.zw/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner,38520
+https://www.hmetro.co.zw/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner,4368673
+https://www.bettingsites.info/kwesesports-com/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner,11536502
+https://www.mg.co.za/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner,14139
+https://www.nehandaradio.com/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner,152232
+https://www.newsday.co.zw/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner,18407
+https://www.newzimbabwe.com/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner,50969
+https://www.southerneye.co.zw/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner,613699
+https://mg.co.za/article/2016-07-12-thisflag-pastor-evan-mawarire-summoned-by-zimbabwean-police/,POLR,Political Criticism,2016-07-22,OONI,,14139
+https://religionnews.com/2016/07/21/how-thisflag-pastor-evan-mawarire-used-facebook-to-shut-down-zimbabwe/,POLR,Political Criticism,2016-07-22,OONI,,15220
+http://www.ictministry.gov.zw/,GOVT,Government,2016-07-22,OONI,Looks like a DDoS attack is currently affecting this site,9673490
+https://www.dszim.org/,HACK,Hacking Tools,2017-05-29,Digital Society of Zimbabwe,,12571367
+http://www.zimrights.co.zw/,HUMR,Human Rights Issues,2017-05-29,Digital Society of Zimbabwe,,8419138
+https://www.bbc.com/afrique/,NEWS,News Media,2017-07-19,BBC,,96
+https://www.bbcafrique.com/,NEWS,News Media,2017-07-19,BBC,,8450738
+https://www.zimbabwetourism.net/,CULTR,Culture,2018-01-27,Community member,,397144
+https://www.sunsafaris.com/safari/zimbabwe/,CULTR,Culture,2018-01-27,Community member,,1821680
+http://www.oakfnd.org/zimbabwe-team.html/,ENV,Environment,2018-01-27,Community member,,1272767
+http://www.zim.gov.zw/index.php/en/,GOVT,Government,2018-01-27,Community member,,139086
+https://www.zimlii.org/,HUMR,Human Rights Issues,2018-01-27,Community member,,1452193
+https://bantwana.org/where-we-work/zimbabwe/,HUMR,Human Rights Issues,2018-01-27,Community member,,10281850
+https://www.fadzayi4mp.com/,POLR,Political Criticism,2018-02-01,Community member,,27302635
+https://twitter.com/nelsonchamisa/,POLR,Political Criticism,2018-02-01,Community member,keep for control purposes,5
+https://www.youtube.com/channel/UCM62CHb1jWuTKbJhbgTq46g/,POLR,Political Criticism,2018-02-01,Community member,YouTube channel with videos on controversial political discourses,4
+https://www.bigsr.co.uk/,POLR,Political Criticism,2018-02-01,Community member,,1936614
+https://twitter.com/bititendai?lang=en/,POLR,Political Criticism,2018-02-01,Community member,keep for control purposes,5
+http://zimfirst.org/,POLR,Political Criticism,2018-02-01,Community member,,22149145
+https://www.youtube.com/channel/UC4a2DkDqH8ZqiGxeJVpueuw/,POLR,Political Criticism,2018-02-01,Community member,YouTube Channel of political party. Keep for control purposes,4
+https://www.hrt.org.zw/,HUMR,Human Rights Issues,2018-02-01,Community member,,7317677
+https://ccjphre.org.zw/,REL,Religion,2018-02-01,Community member,,23558477
+http://www.chathour.com/members/room/Zimbabwe/chat/,COMT,Communication Tools,2018-04-10,OONI,,156535
+https://263chat.com/,COMT,Communication Tools,2018-04-10,OONI,Award-winning platform for conversations in Zimbabwe,1538095
+http://viomakcharitymusic.com/,CULTR,Culture,2018-04-10,OONI,Context: https://en.wikipedia.org/wiki/Viomak,21084456
+https://thomas-mapfumo.com/,CULTR,Culture,2018-04-10,OONI,Banned music,4400443
+https://www.forbes.com/sites/faraigundan/,CULTR,Culture,2018-04-10,OONI,,63
+http://faraitoday.com/,CULTR,Culture,2018-04-10,OONI,,11357303
+http://www.makhondlovu.com/,CULTR,Culture,2018-04-10,OONI,,3262655
+http://mdundo.com/a/34159/,CULTR,Culture,2018-04-10,OONI,,43185
+https://zw.datingbuzz.com/,DATE,Online Dating,2018-04-10,OONI,,102705770
+http://www.zeroregional.com/en/index.php/,ENV,Environment,2018-04-10,OONI,,30067502
+https://www.wezmat.org/,ENV,Environment,2018-04-10,OONI,,5396114
+https://www.ema.co.zw/,ENV,Environment,2018-04-10,OONI,,2587306
+http://www.defence.gov.zw/,GOVT,Government,2018-04-10,OONI,,6153972
+https://zimbabwe.mivasocial.com/,GRP,Social Networking,2018-04-10,OONI,,-1
+https://www.wireclub.com/places/zimbabwe/,GRP,Social Networking,2018-04-10,OONI,,77232
+https://play.google.com/store/apps/details?id=africa.wangu.app/,GRP,Social Networking,2018-04-10,OONI,,17
+https://www.humanrights.dk/place/zimbabwe/,HUMR,Human Rights Issues,2018-04-10,OONI,,167179
+https://www.zlhr.org.zw/,HUMR,Human Rights Issues,2018-04-10,OONI,,2907647
+https://www.cfr.org/blog/matabeleland-massacre-and-contemporary-zimbabwe/,HUMR,Human Rights Issues,2018-04-10,OONI,,11155
+https://www.theguardian.com/world/2015/may/19/mugabe-zimbabwe-gukurahundi-massacre-matabeleland/,HUMR,Human Rights Issues,2018-04-10,OONI,,67
+http://www.healzimbabwetrust.org/,HUMR,Human Rights Issues,2018-04-10,OONI,,19877174
+https://theotherfoundation.org/wp-content/uploads/2017/02/Canaries_Zimbabwe.pdf/,LGBT,LGBT,2018-04-10,OONI,,461521
+http://www.thezimbabwemail.com/,NEWS,News Media,2018-04-10,OONI,,153904
+https://www.dailynews.co.zw/,NEWS,News Media,2018-04-10,OONI,,92937
+https://www.zimeye.net/,NEWS,News Media,2018-04-10,OONI,,343045
+https://www.myzimbabwe.co.zw/,NEWS,News Media,2018-04-10,OONI,,431210
+http://www.thestandard.co.zw/,NEWS,News Media,2018-04-10,OONI,,91754
+https://www.weekendpost.co.zw/,NEWS,News Media,2018-04-10,OONI,,2669058
+https://www.masvingomirror.com/,NEWS,News Media,2018-04-10,OONI,,8772038
+http://www.thebusinessconnect.co.zw/,NEWS,News Media,2018-04-10,OONI,,16021983
+http://www.tellzim.com/,NEWS,News Media,2018-04-10,OONI,,2986948
+http://www.businessdaily.co.zw/,NEWS,News Media,2018-04-10,OONI,,4051492
+https://iharare.com/,NEWS,News Media,2018-04-10,OONI,,1195003
+https://bulawayo24.com/,NEWS,News Media,2018-04-10,OONI,,116869
+http://www.irinnews.org/afrique/afrique-australe/zimbabwe/,NEWS,News Media,2018-04-10,OONI,,21929
+https://www.theindependent.co.zw/,NEWS,News Media,2018-04-10,OONI,,78954
+https://www.news24.com/Tags/Topics/zimbabwe_2018_elections/,POLR,Political Criticism,2018-04-10,OONI,,11491
+http://www.zec.gov.zw/,POLR,Political Criticism,2018-04-10,OONI,,752525
+https://www.eisa.org.za/wep/zimzec.htm/,POLR,Political Criticism,2018-04-10,OONI,,139411
+http://www.mdc.co.zw/,POLR,Political Criticism,2018-04-10,OONI,,1591642
+https://www.facebook.com/Peoples-Democratic-Party-Zimbabwe-PDP-1743291559265230/,POLR,Political Criticism,2018-04-10,OONI,keep for control purposes,1
+http://www.shutdownzim.net/2016/07/23/press-statement-position-platform-concerned-citizens-national-transitional-authority/,POLR,Political Criticism,2018-04-10,OONI,,32141117
+http://www.freezimcongress.com/,POLR,Political Criticism,2018-04-10,OONI,,35995383
+https://www.pindula.co.zw/Linda_Masarira/,POLR,Political Criticism,2018-04-10,OONI,,386256
+http://www.kubatanablogs.net/kubatana/,POLR,Political Criticism,2018-04-10,OONI,Online community of Zimbabwean activists,298318
+https://www.avert.org/professionals/hiv-around-world/sub-saharan-africa/zimbabwe/,PUBH,Public Health,2018-04-10,OONI,,17004
+http://zimbabwe.unfpa.org/topics/hiv-aids-4/,PUBH,Public Health,2018-04-10,OONI,,446281
+https://zimbuzz.co.zw/,CULTR,Culture,2018-04-10,OONI,,10293119
+https://zimbabweweddings.co.zw/,CULTR,Culture,2018-04-10,OONI,,26551646
+https://www.greatzimbabweguide.com/,CULTR,Culture,2018-04-10,OONI,,6641874
+https://rabisonshumba.com/,CULTR,Culture,2018-04-10,OONI,under maintanance,21362899
+https://www.chachaya.co.zw/,DATE,Online Dating,2018-04-10,OONI,,106220829
+https://www.zanupf.org.zw/,GOVT,Government,2018-04-10,OONI,,200877
+https://nehandaradio.com/2012/11/18/gukurahundi-massacres-how-it-all-began-part-1/,HUMR,Human Rights Issues,2018-04-10,OONI,,152232
+https://nehandaradio.com/tag/manzou-farm/,HUMR,Human Rights Issues,2018-04-10,OONI,,152232
+https://www.zimbabwenewsonline.com/,NEWS,News Media,2018-04-10,OONI,,6663157
+https://www.financialgazette.co.zw/,NEWS,News Media,2018-04-10,OONI,,346465
+https://www.sundaymail.co.zw/,NEWS,News Media,2018-04-10,OONI,,123718
+https://kwayedza.co.zw/,NEWS,News Media,2018-04-10,OONI,,7477312
+https://www.thezimbabwean.co/,NEWS,News Media,2018-04-10,OONI,,188528
+https://www.b-metro.co.zw/,NEWS,News Media,2018-04-10,OONI,,13028492
+https://www.harare24.com/,NEWS,News Media,2018-04-10,OONI,,2320934
+https://www.hararenews.co.zw/,NEWS,News Media,2018-04-10,OONI,,640577
+https://www.chronicle.co.zw/,NEWS,News Media,2018-04-10,OONI,,85155
+https://www.thepatriot.co.zw/,NEWS,News Media,2018-04-10,OONI,,71626
+https://manicapost.co.zw/,NEWS,News Media,2018-04-10,OONI,,4696558
+https://allafrica.com/zimbabwe/,NEWS,News Media,2018-04-10,OONI,,11669
+https://www.zimbabwestar.com/,NEWS,News Media,2018-04-10,OONI,,7412332
+https://www.zimdaily.com/,NEWS,News Media,2018-04-10,OONI,,497471
+https://www.bbc.com/news/world-africa-14113511/,NEWS,News Media,2018-04-10,OONI,,96
+https://www.zbcnews.co.zw/,NEWS,News Media,2018-04-10,OONI,,201833
+https://xtra.zifmstereo.co.zw/,NEWS,News Media,2018-04-10,OONI,,77198226
+https://www.radiovop.com/,NEWS,News Media,2018-04-10,OONI,,223576
+https://nehandaradio.com/,NEWS,News Media,2018-04-10,OONI,,152232
+https://tizim.org/,POLR,Political Criticism,2018-04-10,OONI,,5304163
+https://www.mdcallianceparty.org/,POLR,Political Criticism,2018-04-10,OONI,,5012528
+https://www.bbc.com/news/world-africa-23431534/,POLR,Political Criticism,2018-04-10,OONI,,96
+https://www.unaids.org/en/regionscountries/countries/zimbabwe/,PUBH,Public Health,2018-04-10,OONI,,12320
+http://www.environmentafrica.org/,ENV,Environment,2018-04-10,OONI,under maintanance,4939072
+https://www.citizens-manifesto.org/,POLR,Political Criticism,2018-04-17,OONI partner,,9655830
+https://zimelection.com/,POLR,Political Criticism,2018-08-01,OONI community,,72475725
+http://www.votewatch263.org.zw/,POLR,Political Criticism,2018-08-01,OONI community,,-1
+https://www.afroromance.com/,DATE,Online Dating,2020-03-13,Netalitica ,,5566828
+https://www.victoriafalls-guide.net/,CULTR,Culture,2020-03-15,Netalitica ,,168792
+https://zimfact.org/,HUMR,Human Rights Issues,2020-03-15,Netalitica ,,1819059
+http://www.musasa.co.zw/,HUMR,Human Rights Issues,2020-03-16,Netalitica ,,10784552
+http://www.nangozim.org/,HUMR,Human Rights Issues,2020-03-16,Netalitica ,,17759740
+http://www.sos-zimbabwe.org/,HUMR,Human Rights Issues,2020-03-16,Netalitica ,,99999032
+https://borgenproject.org/,HUMR,Human Rights Issues,2020-03-16,Netalitica ,,49284
+https://mavambotrust.org.zw/,HUMR,Human Rights Issues,2020-03-16,Netalitica ,,47267007
+https://www.katswesistahood.net/,HUMR,Human Rights Issues,2020-03-16,Netalitica ,,23264642
+https://www.nnlawpractice.co.zw/,HUMR,Human Rights Issues,2020-03-16,Netalitica ,,37619141
+https://zimbabwe.misa.org/,HUMR,Human Rights Issues,2020-03-16,Netalitica ,,3712204
+https://zimbabwe.savethechildren.net/,HUMR,Human Rights Issues,2020-03-16,Netalitica ,,14888941
+http://www.padare.org.zw/,HUMR,Human Rights Issues,2020-03-16,Netalitica ,,16720407
+http://www.wag.org.zw/,HUMR,Human Rights Issues,2020-03-16,Netalitica ,,9980182
+http://263newsafrica.co.zw/,NEWS,News Media,2020-03-16,Netalitica ,,123051257
+http://capitalkfm.com/,NEWS,News Media,2020-03-16,Netalitica ,,13849441
+http://newsofthesouth.com/,NEWS,News Media,2020-03-16,Netalitica ,,472034
+http://sportbrief.co.zw/,NEWS,News Media,2020-03-16,Netalitica ,,20873728
+http://thesoutherndaily.co.zw/,NEWS,News Media,2020-03-16,Netalitica ,,9287282
+http://www.mygweru.com/,NEWS,News Media,2020-03-16,Netalitica ,,2565173
+http://www.thezimbabwenewslive.com/,NEWS,News Media,2020-03-16,Netalitica ,,2099826
+http://www.zimmetro.net/,NEWS,News Media,2020-03-16,Netalitica ,,32251220
+http://www.zimsentinel.com/,NEWS,News Media,2020-03-16,Netalitica ,,25597694
+http://zimbabwedigitalnews.com/,NEWS,News Media,2020-03-16,Netalitica ,,14529930
+http://zimbabwenews.today/,NEWS,News Media,2020-03-16,Netalitica ,,163314960
+https://gambakwe.com/,NEWS,News Media,2020-03-16,Netalitica ,,4756737
+https://ihararejobs.com/,NEWS,News Media,2020-03-16,Netalitica ,,10729221
+https://khulumaafrika.com/,NEWS,News Media,2020-03-16,Netalitica ,,5401007
+https://mbaretimes.com/,NEWS,News Media,2020-03-16,Netalitica ,,6662496
+https://nehandatv.com/,NEWS,News Media,2020-03-16,Netalitica ,,6540468
+https://spotlight.co.zw/,NEWS,News Media,2020-03-16,Netalitica ,,25875231
+https://technomag.co.zw/,NEWS,News Media,2020-03-16,Netalitica ,,477503
+https://thesunnews.co.zw/,NEWS,News Media,2020-03-16,Netalitica ,,31175273
+https://vacancymail.co.zw/,NEWS,News Media,2020-03-16,Netalitica ,,22688224
+https://victoriafalls24.com/,NEWS,News Media,2020-03-16,Netalitica ,,4882026
+https://vmcz.co.zw/,NEWS,News Media,2020-03-16,Netalitica ,,11627082
+https://www.allinzimbabwe.com/,NEWS,News Media,2020-03-16,Netalitica ,,88359396
+https://www.bmetro.co.zw/,NEWS,News Media,2020-03-16,Netalitica ,,8142790
+https://www.ebusinessweekly.co.zw/,NEWS,News Media,2020-03-16,Netalitica ,,8151648
+https://www.hararepost.co.zw/,NEWS,News Media,2020-03-16,Netalitica ,,5978996
+https://www.iglobal.co/zimbabwe/,NEWS,News Media,2020-03-16,Netalitica ,,245187
+https://www.insiderzim.com/,NEWS,News Media,2020-03-16,Netalitica ,,4031217
+https://www.pazimbabwe.com/,NEWS,News Media,2020-03-16,Netalitica ,,4984030
+https://www.pindula.co.zw/,NEWS,News Media,2020-03-16,Netalitica ,,386256
+https://www.soccer24.co.zw/,NEWS,News Media,2020-03-16,Netalitica ,,420950
+https://www.thehararetimes.com/,NEWS,News Media,2020-03-16,Netalitica ,,18938006
+https://www.thezimbabwedaily.com/,NEWS,News Media,2020-03-16,Netalitica ,,2064213
+https://www.umthunywa.co.zw/,NEWS,News Media,2020-03-16,Netalitica ,,9462975
+https://www.vantunews.com/,NEWS,News Media,2020-03-16,Netalitica ,,5552128
+https://www.voazimbabwe.com/,NEWS,News Media,2020-03-16,Netalitica ,,235584
+https://www.zimbabwenews.net/,NEWS,News Media,2020-03-16,Netalitica ,,9069174
+https://www.zimetro.co.zw/,NEWS,News Media,2020-03-16,Netalitica ,,11318013
+https://www.zimlive.com/,NEWS,News Media,2020-03-16,Netalitica ,,178478
+https://www.zimplaza.co.zw/,NEWS,News Media,2020-03-16,Netalitica ,,9937875
+https://www.zimtimes.com/,NEWS,News Media,2020-03-16,Netalitica ,,50236446
+https://www.zwwebdirectory.com/,NEWS,News Media,2020-03-16,Netalitica ,,53034879
+https://zim24.net/,NEWS,News Media,2020-03-16,Netalitica ,,166538753
+https://zimbabwelatestnews.net/,NEWS,News Media,2020-03-16,Netalitica ,,21457526
+https://zimbabwe-today.com/,NEWS,News Media,2020-03-16,Netalitica ,,543535
+https://zimonlinenews.com/,NEWS,News Media,2020-03-16,Netalitica ,,80834838
+https://zimstarnews.co.zw/,NEWS,News Media,2020-03-16,Netalitica ,,313107537
+https://zwnews.com/,NEWS,News Media,2020-03-16,Netalitica ,,283595
+https://jobszimbabwe.co.zw/,NEWS,News Media,2020-03-16,Netalitica ,,13133341
+https://kanokangalawfirm.net/,NEWS,News Media,2020-03-16,Netalitica ,,18390628
+https://www.mediamonitors.org.zw/,NEWS,News Media,2020-03-16,Netalitica ,,6536351
+https://www.onlinenewspapers.com/,NEWS,News Media,2020-03-16,Netalitica ,,78405
+https://www.thedirectory.co.zw/,NEWS,News Media,2020-03-16,Netalitica ,,9262630
+https://www.facebook.com/openparlyzw/,POLR,Political Criticism,2020-03-16,Netalitica ,,1
+http://diamondfm.co.zw/,NEWS,News Media,2020-03-17,Netalitica ,,12853327
+https://www.zimyellowpage.com/,NEWS,News Media,2020-03-17,Netalitica ,,14029926
+https://www.gamingzion.com/zimbabwe/gambling/gambling-sites/,GMB,Gambling,2020-03-20,Netalitica ,,1478060
+https://zimfeminism.home.blog/,HOST,Hosting and Blogging Platforms,2020-03-20,Netalitica ,,147300682
+http://zphca.org.zw/,HUMR,Human Rights Issues,2020-03-20,Netalitica ,,324703686
+http://www.nascoh.org.zw/,HUMR,Human Rights Issues,2020-03-20,Netalitica ,,6742888
+https://mywage.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica ,,529993
+https://www.fodpz.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica ,,5153287
+https://www.sethuletrust.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica ,,82031113
+https://www.zadhr.org/,PUBH,Public Health,2020-03-20,Netalitica ,,7641321
+http://cancerzimbabwe.org/,PUBH,Public Health,2020-03-20,Netalitica ,,14244315
+http://nac.org.zw/,PUBH,Public Health,2020-03-20,Netalitica ,,2205372
+http://www.childwelfare.gov/,PUBH,Public Health,2020-03-20,Netalitica ,,15018
+http://www.ophid.org/,PUBH,Public Health,2020-03-20,Netalitica ,,9997904
+https://www.zimhealth.org/,PUBH,Public Health,2020-03-20,Netalitica ,,6823684
+http://www.znfpc.org.zw/,PUBH,Public Health,2020-03-20,Netalitica ,,11658962
+https://healthtimes.co.zw/,PUBH,Public Health,2020-03-20,Netalitica ,,2942312
+https://www.kidzcanzimbabwe.org/,PUBH,Public Health,2020-03-20,Netalitica ,,7769707
+https://youthvillage.co.zw/,PUBH,Public Health,2020-03-20,Netalitica ,,5439368
+http://saapa.net/,ALDR,Alcohol & Drugs,2020-03-21,Netalitica ,,17203589
+https://www.saywhat.org.zw/,ALDR,Alcohol & Drugs,2020-03-21,Netalitica ,,21550161
+http://www.findglocal.com/ZW/,COMM,E-commerce,2020-03-21,Netalitica ,,70347
+https://www.bizcommunity.co.zw/,COMM,E-commerce,2020-03-21,Netalitica ,,4024314
+http://www.natartszim.org.zw/,CULTR,Culture,2020-03-21,Netalitica ,,1482354
+https://www.culturefund.org.zw/,CULTR,Culture,2020-03-21,Netalitica ,,7705951
+https://www.everyculture.com/,CULTR,Culture,2020-03-21,Netalitica ,,64898
+https://www.nhimbe.org/,CULTR,Culture,2020-03-21,Netalitica ,,6505078
+https://www.onlinedatingzimbabwe.com/,DATE,Online Dating,2020-03-21,Netalitica ,,-1
+http://www.imbamukadzi.co.zw/,ECON,Economics,2020-03-21,Netalitica ,,-1
+http://www.zeparu.co.zw/,ECON,Economics,2020-03-21,Netalitica ,,8563202
+https://www.adspaces.co.zw/,ECON,Economics,2020-03-21,Netalitica ,,24324080
+https://www.competition.co.zw/,ECON,Economics,2020-03-21,Netalitica ,,3654643
+https://www.tradezimbabwe.com/,ECON,Economics,2020-03-21,Netalitica ,,11808866
+http://www.e-playafrica.com/,GMB,Gambling,2020-03-21,Netalitica ,,7741011
+http://deafzimbabwetrust.org/,HUMR,Human Rights Issues,2020-03-21,Netalitica ,,14897187
+http://www.igniteyouth.co.zw/,HUMR,Human Rights Issues,2020-03-21,Netalitica ,,43849262
+https://techunzipped.com/,NEWS,News Media,2020-03-21,Netalitica ,,2901345
+http://magambanetwork.com/,POLR,Political Criticism,2020-03-21,Netalitica ,,1163374
+http://newziana.co.zw/,POLR,Political Criticism,2020-03-21,Netalitica ,,541556
+http://solidaritypeacetrust.org/,POLR,Political Criticism,2020-03-21,Netalitica ,,574568
+http://spotlight-z.com/,POLR,Political Criticism,2020-03-21,Netalitica ,,6199818
+http://teamzimbabwe.org/,POLR,Political Criticism,2020-03-21,Netalitica ,,11683664
+https://www.cite.org.zw/,POLR,Political Criticism,2020-03-21,Netalitica ,,1283243
+https://www.gemnation.news/,POLR,Political Criticism,2020-03-21,Netalitica ,,10985960
+https://www.theobserverzim.co.zw/,POLR,Political Criticism,2020-03-21,Netalitica ,,21927721
+https://www.zimcitizen.com/,POLR,Political Criticism,2020-03-21,Netalitica ,,16106458
+https://newhopezimbabwe.org/,REL,Religion,2020-03-21,Netalitica ,,102263407
+https://www.zimbomingle.com/,DATE,Online Dating,2020-03-22,Netalitica ,,47046282
+https://zimhookup.co.zw/,DATE,Online Dating,2020-03-22,Netalitica ,,92832215
+http://www.africabet.com/,GMB,Gambling,2020-03-22,Netalitica ,,84305311
+http://www.betpawa.co.zm/,GMB,Gambling,2020-03-22,Netalitica ,,32355142
+http://www.theopc.gov.zw/,GOVT,Government,2020-03-22,Netalitica ,,1889614
+http://www.zim.gov.zw/,GOVT,Government,2020-03-22,Netalitica ,,139086
+http://www.africandistillers.co.zw/,GOVT,Government,2020-03-22,Netalitica ,,38814032
+http://www.agribank.co.zw/,GOVT,Government,2020-03-22,Netalitica ,,9905754
+http://www.zupco.co.zw/,GOVT,Government,2020-03-22,Netalitica ,,19231624
+https://zgc.co.zw/,GOVT,Government,2020-03-22,Netalitica ,,23227385
+https://ourairports.com/airports/FVCP/,GOVT,Government,2020-03-22,Netalitica ,,44495
+http://www.zimstat.co.zw/,GOVT,Government,2020-03-22,Netalitica ,,132107
+http://ehpcz.co.zw/,GOVT,Government,2020-03-22,Netalitica ,,-1
+https://www.zimseza.co.zw/,GOVT,Government,2020-03-22,Netalitica ,,25852987
+http://www.mlg.gov.zw/,GOVT,Government,2020-03-22,Netalitica ,,20652304
+http://www.mcaz.co.zw/,GOVT,Government,2020-03-22,Netalitica ,,8379681
+https://www.zinara.co.zw/,GOVT,Government,2020-03-22,Netalitica ,,18168084
+http://www.transcom.gov.zw/,GOVT,Government,2020-03-22,Netalitica ,,726733
+http://www.mopse.co.zw/,GOVT,Government,2020-03-22,Netalitica ,,6459381
+https://zetdc.co.zw/,GOVT,Government,2020-03-22,Netalitica ,,7968224
+http://www.moa.gov.zw/,GOVT,Government,2020-03-22,Netalitica ,,6477246
+https://www.zol.co.zw/,HOST,Hosting and Blogging Platforms,2020-03-22,Netalitica ,,10011901
+http://www.zimbabwe.cc/,NEWS,News Media,2020-03-22,Netalitica ,,36897497
+https://zimbabwe.actionaid.org/,POLR,Political Criticism,2020-03-22,Netalitica ,,14521110
+http://www.zdhr.uz.ac.zw/,PUBH,Public Health,2020-03-22,Netalitica ,,9632442
+http://www.hackread.com/,ANON,Anonymization and circumvention tools,2020-03-23,Netalitica ,,42195
+https://storefront.co.zw/,COMM,E-commerce,2020-03-23,Netalitica ,,103615538
+http://www.deepleaguehomes.co.zw/,COMM,E-commerce,2020-03-23,Netalitica ,,42230396
+http://www.guesswork.co/research/zw/,COMM,E-commerce,2020-03-23,Netalitica ,,2194088
+https://10ngah.com/,COMM,E-commerce,2020-03-23,Netalitica ,,20761631
+https://artienex.co.zw/,COMM,E-commerce,2020-03-23,Netalitica ,,-1
+https://calmlock.co.zw/,COMM,E-commerce,2020-03-23,Netalitica ,,15746870
+https://cassavasmartech.com/,COMM,E-commerce,2020-03-23,Netalitica ,,11940057
+https://deals.jumia.co.zw/,COMM,E-commerce,2020-03-23,Netalitica ,,81015892
+https://egrossa.co.zw/,COMM,E-commerce,2020-03-23,Netalitica ,,-1
+https://freshinabox.co.zw/#/shop/,COMM,E-commerce,2020-03-23,Netalitica ,,1595066
+https://malaicha.com/,COMM,E-commerce,2020-03-23,Netalitica ,,1786569
+https://mjconsultants.co.zw/,COMM,E-commerce,2020-03-23,Netalitica ,,6369104
+https://ownai.co.zw/,COMM,E-commerce,2020-03-23,Netalitica ,,23774283
+https://posh.co.zw/,COMM,E-commerce,2020-03-23,Netalitica ,,-1
+https://shop.mango.com/zw/,COMM,E-commerce,2020-03-23,Netalitica ,,11623
+https://wintzstyles.com/,COMM,E-commerce,2020-03-23,Netalitica ,,-1
+https://www.cma-cgm.com/,COMM,E-commerce,2020-03-23,Netalitica ,,97560
+https://www.hammerandtongues.com/,COMM,E-commerce,2020-03-23,Netalitica ,,19025847
+https://www.logistics.dhl/zw/,COMM,E-commerce,2020-03-23,Netalitica ,,25879
+https://www.nyuchi.com/,COMM,E-commerce,2020-03-23,Netalitica ,,286223340
+https://www.webdev.co.zw/,COMM,E-commerce,2020-03-23,Netalitica ,,10379477
+https://www.webentangled.com/,COMM,E-commerce,2020-03-23,Netalitica ,,6981946
+https://www.zim.com/,COMM,E-commerce,2020-03-23,Netalitica ,,873003
+https://www.zimall.co.zw/,COMM,E-commerce,2020-03-23,Netalitica ,,17095932
+https://www.zimbabweyp.com/,COMM,E-commerce,2020-03-23,Netalitica ,,7741450
+https://www.zimshoppingmalls.com/,COMM,E-commerce,2020-03-23,Netalitica ,,22084333
+http://www.chipawo.org/,CULTR,Culture,2020-03-23,Netalitica ,,11277492
+http://www.hifa.co.zw/,CULTR,Culture,2020-03-23,Netalitica ,,591213
+http://www.nmmz.co.zw/,CULTR,Culture,2020-03-23,Netalitica ,,716252
+http://zimfieldguide.com/,CULTR,Culture,2020-03-23,Netalitica ,,684712
+https://fidelitygroup8zimbabwe.wordpress.com/,CULTR,Culture,2020-03-23,Netalitica ,,113685708
+https://www.creativeloop.co.zw/,CULTR,Culture,2020-03-23,Netalitica ,,3934461
+https://zimbabwe-names.blogspot.com/,CULTR,Culture,2020-03-23,Netalitica ,,14026541
+https://talkwithstranger.com/zimbabwean-chat/,DATE,Online Dating,2020-03-23,Netalitica ,,152098
+https://www.datememe.com/dating/zimbabwe/,DATE,Online Dating,2020-03-23,Netalitica ,,199060
+https://www.onescene.com/profiles/ZW/,DATE,Online Dating,2020-03-23,Netalitica ,,5427976
+https://zimcupid.com/,DATE,Online Dating,2020-03-23,Netalitica ,,-1
+http://www.zimtreasury.gov.zw/,ECON,Economics,2020-03-23,Netalitica ,,3261658
+https://startupbiz.co.zw/,ECON,Economics,2020-03-23,Netalitica ,,2128680
+https://www.worldbank.org/en/country/zimbabwe/,ECON,Economics,2020-03-23,Netalitica ,,732
+http://www.climatechange.org.zw/,ENV,Environment,2020-03-23,Netalitica ,,12948787
+http://www.helpingzimbabwe.org/,ENV,Environment,2020-03-23,Netalitica ,,95672661
+http://www.zeroregional.com/,ENV,Environment,2020-03-23,Netalitica ,,30067502
+http://www.betting.co.zw/,GMB,Gambling,2020-03-23,Netalitica ,,42312891
+http://www.bettingplanet.com/,GMB,Gambling,2020-03-23,Netalitica ,,626225
+https://ucaz.org.zw/,GOVT,Government,2020-03-23,Netalitica ,,1585748
+http://www.povo.co.zw/,HOST,Hosting and Blogging Platforms,2020-03-23,Netalitica ,,10020471
+http://www.wildzambezi.com/,HOST,Hosting and Blogging Platforms,2020-03-23,Netalitica ,,1833441
+https://ecohosting.co.zw/,HOST,Hosting and Blogging Platforms,2020-03-23,Netalitica ,,167061986
+https://ecowebzim.com/,HOST,Hosting and Blogging Platforms,2020-03-23,Netalitica ,,36192217
+https://elegantquatre.wordpress.com/,CULTR,Culture,2020-03-23,Netalitica ,,-1
+https://gethost.co.zw/,HOST,Hosting and Blogging Platforms,2020-03-23,Netalitica ,,39220155
+https://pnrhost.com/,HOST,Hosting and Blogging Platforms,2020-03-23,Netalitica ,,16754537
+https://strictlychicme.com/,HOST,Hosting and Blogging Platforms,2020-03-23,Netalitica ,,28693629
+https://tatendarobyn.wordpress.com/,CULTR,Culture,2020-03-23,Netalitica ,,34139897
+https://webzim.co.zw/,HOST,Hosting and Blogging Platforms,2020-03-23,Netalitica ,,35551454
+https://www.freewebhosting.co.zw/,HOST,Hosting and Blogging Platforms,2020-03-23,Netalitica ,,42307132
+https://www.freshspot.co.zw/,HOST,Hosting and Blogging Platforms,2020-03-23,Netalitica ,,37531799
+https://www.netcomzw.com/,HOST,Hosting and Blogging Platforms,2020-03-23,Netalitica ,,39416903
+https://www.tremhost.com/,HOST,Hosting and Blogging Platforms,2020-03-23,Netalitica ,,12917550
+https://www.wonderfulzimbabwe.com/blog/,CULTR,Culture,2020-03-23,Netalitica ,,301002088
+https://www.zimbabwewebhosting.co.zw/,HOST,Hosting and Blogging Platforms,2020-03-23,Netalitica ,,70181392
+https://zimbabweland.wordpress.com/,POLR,Political Criticism,2020-03-23,Netalitica ,,1548165
+https://zimhero.com/,HOST,Hosting and Blogging Platforms,2020-03-23,Netalitica ,,30187558
+https://runyamhere.blogspot.com/,CULTR,Culture,2020-03-23,Netalitica ,,53230479
+http://www.zimhosts.com/,HOST,Hosting and Blogging Platforms,2020-03-23,Netalitica ,,23251315
+http://zmyo.org.zw/,HUMR,Human Rights Issues,2020-03-23,Netalitica ,,41394794
+https://jfkapnektrust.org/,HUMR,Human Rights Issues,2020-03-23,Netalitica ,,12693783
+https://www.zane-zimbabweanationalemergency.com/,HUMR,Human Rights Issues,2020-03-23,Netalitica ,,17176782
+https://spiked.co.zw/,NEWS,News Media,2020-03-23,Netalitica ,,1496269
+https://zimbabwe.shafaqna.com/,NEWS,News Media,2020-03-23,Netalitica ,,2343002
+https://zimbolebs.com/,NEWS,News Media,2020-03-23,Netalitica ,,28823875
+https://zimmonitor.wordpress.com/,POLR,Political Criticism,2020-03-23,Netalitica ,,-1
+https://zimbabwevoice.com/,POLR,Political Criticism,2020-03-23,Netalitica ,,8982344
+https://kickingitwithmimi.com/,PROV,Provocative Attire,2020-03-23,Netalitica ,,17762809
+http://ectzim.org/,PUBH,Public Health,2020-03-23,Netalitica ,,47025626
+http://www.africazip.com/,PUBH,Public Health,2020-03-23,Netalitica ,,6316723
+http://www.cancerzimbabwe.org/,PUBH,Public Health,2020-03-23,Netalitica ,,14244315
+http://www.cwgh.co.zw/,PUBH,Public Health,2020-03-23,Netalitica ,,2060707
+http://www.generationhealth.co.zw/,PUBH,Public Health,2020-03-23,Netalitica ,,51634863
+http://www.karanda.org/,PUBH,Public Health,2020-03-23,Netalitica ,,15310919
+http://www.kushinga.org/,PUBH,Public Health,2020-03-23,Netalitica ,,9850672
+http://www.medpages.info/,PUBH,Public Health,2020-03-23,Netalitica ,,601057
+http://www.mpslsw.gov.zw/,PUBH,Public Health,2020-03-23,Netalitica ,,18168476
+http://www.oncocare.co.zw/,PUBH,Public Health,2020-03-23,Netalitica ,,25795188
+http://zimcancerregistry.co.zw/,PUBH,Public Health,2020-03-23,Netalitica ,,28612883
+https://www.zimpatient.com/,PUBH,Public Health,2020-03-23,Netalitica ,,320588798
+https://www.wvi.org/zimbabwe,REL,Religion,2020-04-15,Netalitica ,,27005
+https://relzim.org/,REL,Religion,2020-05-15,Netalitica ,,693214
+https://www.afminzimbabwe.com/about.html/,REL,Religion,2020-05-15,Netalitica ,,38839620
+http://www.zapp.co.zw/,XED,Sex Education,2020-05-15,Netalitica ,,17041136
+https://resourcecentre.savethechildren.net/,XED,Sex Education,2020-05-15,Netalitica ,,30317
+http://www.ceshhar.org/,XED,Sex Education,2020-05-15,Netalitica ,,7793587
+https://www.familyplanning2020.org/zimbabwe/,XED,Sex Education,2020-05-15,Netalitica ,,156453
+https://impakter.com/the-stigmatisation-of-rural-teen-mothers-in-zimbabwe/,XED,Sex Education,2020-05-15,Netalitica ,,87374
+https://www.ucalgary.ca/sw/ramsay/africa/zimbabwe.htm,LGBT,LGBT,2020-09-26,Netalitica ,Links to local LGBT content,17685
+https://www.expertafrica.com/zimbabwe/info/lesbian-gay-bisexual-and-transgender-lgbt-travel-to-zimbabwe,LGBT,LGBT,2020-09-26,Netalitica ,,200602
+https://outrightinternational.org/sites/default/files/559-1.pdf,LGBT,LGBT,2020-09-26,Netalitica ,report on Zimbabwe,41318
+https://www.globalgayz.com/gay-zimbabwe/158/,LGBT,LGBT,2020-09-26,Netalitica ,report on Zimbabwe,130634

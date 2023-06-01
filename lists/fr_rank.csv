@@ -1,0 +1,64 @@
+url,category_code,category_description,date_added,source,notes,rank
+http://casino.bet365.com/,GMB,Gambling,2016-10-13,Citizen Lab,,5494746
+http://copwatchnord-idf.org/,MILX,Terrorism and Militants,2016-10-13,Citizen Lab,,4061254
+http://is0lamanation.blogspot.fr/,HATE,Hate Speech,2016-10-13,Citizen Lab,radical islamism website,-1
+http://t411.me/,FILE,File-sharing,2016-10-13,Citizen Lab,,2065143
+http://www.copwatch.org/,MILX,Terrorism and Militants,2016-10-13,Citizen Lab,,446822
+http://www.t411.ch/,FILE,File-sharing,2016-10-13,Citizen Lab,,15966880
+https://fr.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,35099
+https://pl.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,4738
+https://fr.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,33688
+https://fr.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,48037
+https://fr.m.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,277083
+https://nantes.indymedia.org/,NEWS,News Media,2019-09-27,Community Member,Independent media threatened to be blocked by the police https://nantes.indymedia.org/articles/44313,1409209
+https://grenoble.indymedia.org/,NEWS,News Media,2019-09-27,Community Member,Independent media threatened to be blocked by the police,2720467
+https://democratieparticipative.icu/,POLR,Political Criticism,2021-02-09,,Far-right website - reportedly blocked (see https://francais.rt.com/france/55943-neuf-operateurs-sommes-par-justice-bloquer-acces-site-raciste-democratie-participative),57543906
+https://b-ok.xyz/,FILE,File-sharing,2022-09-26,Community Member,Z-library is going to be blocked by French Justice,5567279
+https://fr.booksc.org/,FILE,File-sharing,2022-09-26,Community Member,Z-library is going to be blocked by French Justice,13896630
+https://booksc.org/,FILE,File-sharing,2022-09-26,Community Member,Z-library is going to be blocked by French Justice,295344
+https://sci-hub.ee/,FILE,File-sharing,2022-11-01,Community Member,New sci-hub domain,4440808
+https://sci-hub.shop/,FILE,File-sharing,2022-11-01,Community Member,New sci-hub domain,9319264
+https://sci-hub.st/,FILE,File-sharing,2022-11-01,Community Member,New sci-hub domain,101991
+https://beinmatch.site/,MMED,Media sharing,2022-09-26,Community Member,blocked streaming website,77043863
+https://beinmatch.tv/,MMED,Media sharing,2022-09-26,Community Member,blocked streaming website,22398037
+https://beinmatchtv.tv/,MMED,Media sharing,2022-09-26,Community Member,blocked streaming website,58334358
+https://kooora4live.net/,MMED,Media sharing,2022-09-26,Community Member,blocked streaming website,62785826
+https://kooora4lives.net/,MMED,Media sharing,2022-09-26,Community Member,blocked streaming website,10700915
+https://kooora4lives.com/,MMED,Media sharing,2022-09-26,Community Member,blocked streaming website,14028569
+https://kora-online.tv/,MMED,Media sharing,2022-11-01,Community Member,blocked streaming website,7970334
+https://tv.kora-star.com/,MMED,Media sharing,2022-09-26,Community Member,blocked streaming website,45214341
+http://livetv.sx/,MMED,Media sharing,2022-09-26,Community Member,blocked streaming website,259103
+http://cdn.livetv491.me/,MMED,Media sharing,2022-09-26,Community Member,blocked streaming website,-1
+https://www.mysports.to/,MMED,Media sharing,2022-09-26,Community Member,blocked streaming website,30058546
+https://sportnews.to/,MMED,Media sharing,2022-09-26,Community Member,blocked streaming website,11690188
+https://fcstream.cc/,MMED,Media sharing,2022-11-01,Community Member,blocked streaming website,36013434
+http://freestreams-live1.com/,MMED,Media sharing,2022-09-26,Community Member,blocked streaming website,6699283
+https://fc.freestreams-live1.com/,MMED,Media sharing,2022-11-01,Community Member,blocked streaming website,24151666
+https://www.aflam4you.net/,MMED,Media sharing,2022-09-26,Community Member,blocked streaming website,35983041
+https://dpstream.tv/,MMED,Media sharing,2022-11-01,Community Member,blocked streaming website,85516946
+https://fifostream.tv/,MMED,Media sharing,2022-11-01,Community Member,blocked streaming website,24060088
+https://allostreaming.com/,MMED,Media sharing,2022-11-01,Community Member,blocked streaming website,12841795
+https://allomovies.com/,MMED,Media sharing,2022-11-01,Community Member,blocked streaming website,19631304
+https://alloshare.com/,MMED,Media sharing,2022-11-01,Community Member,blocked streaming website,15199243
+https://www.voirfilms.io/,MMED,Media sharing,2022-11-01,Community Member,blocked streaming website,41093909
+https://voirfilms.io/,MMED,Media sharing,2022-11-01,Community Member,blocked streaming website,41093909
+https://voirfilms-hd.com/,MMED,Media sharing,2022-11-01,Community Member,blocked streaming website,1029642
+https://voirfilms.bz/,MMED,Media sharing,2022-11-01,Community Member,blocked streaming website,75624783
+https://rojadirectatv.tv/,MMED,Media sharing,2022-11-01,Community Member,blocked streaming website,7608404
+https://rojadirecta.tv/,MMED,Media sharing,2022-11-01,Community Member,blocked streaming website,8460973
+https://www.rojadirecta.watch/,MMED,Media sharing,2022-11-01,Community Member,blocked streaming website,1483610
+https://rojadirecta.watch/,MMED,Media sharing,2022-11-01,Community Member,blocked streaming website,1483610
+https://streamonfoot.xyz/,MMED,Media sharing,2022-11-01,Community Member,blocked streaming website,15817652
+http://www.sportp2p.com/,MMED,Media sharing,2022-11-01,Community Member,blocked streaming website,5264428
+https://wecast.to/,MMED,Media sharing,2022-11-01,Community Member,blocked streaming website,43816220
+https://macron.xyz/,MMED,Media sharing,2022-11-01,Community Member,blocked streaming website,51553908
+https://stake.com/,GMB,Gambling,2022-11-01,Community Member,blocked gambling website,57137
+https://cbet.gg/,GMB,Gambling,2022-11-01,Community Member,blocked gambling website,8332303
+https://francais.rt.com/,NEWS,News Media,2022-11-01,Community Member,blocked russian media,31866
+https://actualidad.rt.com/,NEWS,News Media,2022-11-01,Community Member,blocked russian media,43514
+https://arabic.rt.com/,NEWS,News Media,2022-11-01,Community Member,blocked russian media,67386
+https://russian.rt.com/,NEWS,News Media,2022-11-01,Community Member,blocked russian media,26026
+https://de.rt.com/,NEWS,News Media,2022-11-01,Community Member,blocked russian media,533303
+https://a-russia.ru/,NEWS,News Media,2023-04-20,OONI,,21721431
+https://www.coolstreaming.us/,MMED,Media sharing,2023-04-20,OONI,,2037347
+https://rtde.site/,NEWS,News Media,2023-04-20,OONI,mirror of de.rt.com,1895743

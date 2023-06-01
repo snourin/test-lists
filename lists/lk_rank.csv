@@ -1,0 +1,55 @@
+url,category_code,category_description,date_added,source,notes,rank
+http://www.bbc.com/sinhala,NEWS,News Media,2017-07-19,BBC,,96
+http://www.bbcsinhala.com/,NEWS,News Media,2017-07-19,BBC,,23428055
+http://www.bbc.com/tamil/,NEWS,News Media,2017-07-19,BBC,,96
+http://www.bbctamil.com/,NEWS,News Media,2017-07-19,BBC,,15890288
+http://lankaenews.com/,NEWS,News Media,2017-11-10,citizenlab,Lanka News reported blocked,157345
+http://lankaenews.com/news/2403/en,NEWS,News Media,2017-11-10,citizenlab,,157345
+https://www.yahoo.com/news/dissident-website-blocked-sri-lanka-143729266.html,NEWS,News Media,2017-11-10,citizenlab,,167
+https://www.groundviews.org/,NEWS,News Media,2018-06-21,Community Member,,33798
+http://maatram.org/,NEWS,News Media,2018-06-21,Community Member,,9405021
+http://www.vikalpa.org/,NEWS,News Media,2018-06-21,Community Member,,1670892
+http://www.dailymirror.lk/,NEWS,News Media,2018-06-21,Community Member,,30443
+https://www.facebook.com/OccupyColomboTheOfficial/,POLR,Political Criticism,2018-06-21,Community Member,,1
+http://www.adayaalam.org/,HUMR,Human Rights Issues,2018-06-21,Community Member,,3729803
+http://www.veriteresearch.org/,HUMR,Human Rights Issues,2018-06-21,Community Member,,1296541
+https://www.facebook.com/navamaniofficial/,NEWS,News Media,2018-06-21,Community Member,,1
+https://en.calameo.com/accounts/4438039,HOST,Hosting and Blogging Platforms,2018-06-21,Community Member,Hosting news content for Navamani. ,14858
+http://www.jdslanka.org/,HUMR,Human Rights Issues,2018-06-21,Community Member,,514143
+https://cmev.org/,HUMR,Human Rights Issues,2018-06-21,Community Member,,3104374
+http://www.colombopage.com/,NEWS,News Media,2018-06-21,Community Member,,67053
+http://www.cpalanka.org/,HUMR,Human Rights Issues,2018-06-21,Community Member,,45567
+http://www.ft.lk/,NEWS,News Media,2018-06-21,Community Member,,16110
+https://www.colombotelegraph.com/,NEWS,News Media,2018-06-21,Community Member,,63078
+http://www.lankanewsweb.today/,NEWS,News Media,2018-06-21,Community Member,"Domain is down, from Telecommunications Regulatory Commission blocklist published 12/08/2017",6112636
+http://sinhala.lnwtoday.com/,NEWS,News Media,2018-06-21,Community Member,"Domain is down, from Telecommunications Regulatory Commission blocklist published 12/08/2017",30690433
+http://www.jilhub.com/,PORN,Pornography,2018-06-21,Community Member,From Telecommunications Regulatory Commission blocklist published 12/08/2017,112982436
+http://www.supirikello.com/,DATE,Online Dating,2018-06-21,Community Member,From Telecommunications Regulatory Commission blocklist published 12/08/2017,131178778
+http://www.newjaffna.net/,NEWS,News Media,2018-06-21,Community Member,From Telecommunications Regulatory Commission blocklist published 12/08/2017,12929174
+http://www.vigasapuwath.blogspot.com/2016/08/blog-post_573.html,NEWS,News Media,2018-06-21,Community Member,From Telecommunications Regulatory Commission blocklist published 12/08/2017,27821607
+https://vigasapuwath.blogspot.com/2016/08/blog-post_573.html,NEWS,News Media,2018-06-21,Community Member,,27821607
+http://lankanewsweb.today/archives/12876,NEWS,News Media,2018-06-21,Community Member,From Telecommunications Regulatory Commission blocklist published 12/08/2017,6112636
+http://lankanewsweb.today/archives/5082,NEWS,News Media,2018-06-21,Community Member,From Telecommunications Regulatory Commission blocklist published 12/08/2017,6112636
+http://lankanewsweb.today/archives/8512,NEWS,News Media,2018-06-21,Community Member,From Telecommunications Regulatory Commission blocklist published 12/08/2017,6112636
+http://lankanewsweb.today/archives/8530,NEWS,News Media,2018-06-21,Community Member,From Telecommunications Regulatory Commission blocklist published 12/08/2017,6112636
+https://www.mahinda.info/,POLR,Political Criticism,2018-06-21,Community Member,,6306952
+https://www.tamilnet.com/,MILX,Terrorism and Militants,2018-06-21,Community Member,,55068
+https://roar.media/,CULTR,Culture,2018-06-21,Community Member,,110536
+http://www.roar.lk/,CULTR,Culture,2018-06-21,Community Member,Redirects to roar.media,470446
+http://www.readme.lk/,NEWS,News Media,2018-06-21,Community Member,,647140
+http://www.yamu.lk/,CULTR,Culture,2018-06-21,Community Member,,547194
+http://www.lankanewsweb.info/,NEWS,News Media,2018-06-21,Community Member,,133644357
+https://lankanewsweb.net/,NEWS,News Media,2018-06-21,Community Member,,469790
+http://www.tamilwin.com/,NEWS,News Media,2018-06-21,Community Member,,2665117
+http://www.kaymu.lk/,COMM,E-commerce,2018-06-21,Community Member,,23739569
+https://hirunews.lk/,NEWS,News Media,2018-06-21,Community Member,,293836
+https://ikman.lk/,COMM,E-commerce,2018-06-21,Community Member,,1153930
+http://www.hirufm.lk/,MMED,Media sharing,2018-06-21,Community Member,,172049
+https://www.daraz.lk/,COMM,E-commerce,2018-06-21,Community Member,,969472
+http://www.gossiplankanews.com/,NEWS,News Media,2018-06-21,Community Member,gossip and rumor site,4382860
+http://www.manthri.lk/,HUMR,Human Rights Issues,2018-06-21,Community Member,MP scorecoard,8177137
+https://si.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,138705
+https://ta.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,80999
+https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,5510
+https://en.wikibooks.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,10648
+https://womenandmedia.org/,LGBT,LGBT,2019-11-18,OutRight International,,6267478

@@ -1,0 +1,8 @@
+url,category_code,category_description,date_added,source,notes,rank
+http://kinox.to/,MMED,Media sharing,2016-07-07,Philipp Winter,,1149841
+http://movie4k.to/,MMED,Media sharing,2016-07-07,Philipp Winter,,3084594
+https://de.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,36317
+https://hu.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,13480
+https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html,PUBH,Public Health,2020-04-01,citizenlab,coronavirus,39356
+https://de.rt.com/,NEWS,News Media,2023-04-20,OONI,blocked russian media,533303
+https://rtde.site/,NEWS,News Media,2023-04-20,OONI,mirror of de.rt.com,1895743

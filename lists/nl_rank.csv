@@ -1,0 +1,27 @@
+url,category_code,category_description,date_added,source,notes,rank
+https://nl.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,4981
+https://meta.wikimedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,2782
+https://tr.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,15853
+https://fa.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,13098
+https://www.elkspel.nl/,GAME,Gaming,2022-10-08,test-lists.ooni.org contribution,"web games collection, might be blocked on school networks",9131009
+https://www.spel.nl/,GAME,Gaming,2022-10-08,test-lists.ooni.org contribution,"web games collection, might be blocked on school networks",7203762
+https://poki.be/,GAME,Gaming,2022-10-08,test-lists.ooni.org contribution,"web games collection, might be blocked on school networks",14191472
+https://www.toto.nl/,GMB,Gambling,2022-10-08,test-lists.ooni.org contribution,,1700616
+https://www.betcity.nl/,GMB,Gambling,2022-10-08,test-lists.ooni.org contribution,,8345486
+https://www.jackscasino.nl/,GMB,Gambling,2022-10-08,test-lists.ooni.org contribution,,10067629
+https://www.transgendernetwerk.nl/,LGBT,LGBT,2022-10-08,test-lists.ooni.org contribution,,1487200
+https://iedereenisanders.nl/,LGBT,LGBT,2022-10-08,test-lists.ooni.org contribution,,6525935
+https://nos.nl/,NEWS,News Media,2022-10-08,test-lists.ooni.org contribution,Dutch state-funded news outlet,12101
+https://rtlnieuws.nl/,NEWS,News Media,2022-10-08,test-lists.ooni.org contribution,Dutch commercial news outlet,11659
+https://ongehoordnederland.tv/,NEWS,News Media,2022-10-08,test-lists.ooni.org contribution,Dutch state-funded controversial news outlet,1472706
+https://www.nrc.nl/,NEWS,News Media,2022-10-08,test-lists.ooni.org contribution,Dutch commercial news outlet,10581
+https://genderpraatjes.nl/,LGBT,LGBT,2022-10-08,test-lists.ooni.org contribution,,10291977
+https://vrouwuitdekast.nl/,LGBT,LGBT,2022-10-08,test-lists.ooni.org contribution,,12028158
+https://www.outway.nl/,LGBT,LGBT,2022-10-08,test-lists.ooni.org contribution,,14157615
+https://fvd.nl/,POLR,Political Criticism,2022-10-08,test-lists.ooni.org contribution,Right-wing political party,1272886
+https://groenlinks.nl/,POLR,Political Criticism,2022-10-08,test-lists.ooni.org contribution,Left-wing political party,83008
+https://piratenpartij.nl/,POLR,Political Criticism,2022-10-08,test-lists.ooni.org contribution,Left-wing political party (primarily for internet freedom),265777
+https://www.dumpert.nl/,MMED,Media sharing,2022-10-08,test-lists.ooni.org contribution,Dutch video sharing website,113240
+https://www.amnesty.nl/,HUMR,Human Rights Issues,2022-10-08,test-lists.ooni.org contribution,,26846
+https://www.bitsoffreedom.nl/,HUMR,Human Rights Issues,2022-10-08,test-lists.ooni.org contribution,,1436190
+https://www.buienradar.nl/,CTRL,Control content,2022-10-08,test-lists.ooni.org contribution,Dutch weather site,92432

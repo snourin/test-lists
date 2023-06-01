@@ -1,0 +1,107 @@
+url,category_code,category_description,date_added,source,notes,rank
+http://azeritoday.com/,NEWS,News Media,2014-04-15,citizenlab,,5302306
+http://imgur.com/,MMED,Media sharing,2014-04-15,citizenlab,,197
+https://kavkazcenter.com/,MILX,Terrorism and Militants,2014-04-15,citizenlab,,413658
+https://www.jw.org/,REL,Religion,2014-04-15,citizenlab,,5074
+http://www.onetwotrip.com/,COMM,E-commerce,2014-04-15,citizenlab,,1414257
+https://www.azadliq.info/,NEWS,News Media,2017-04-10,OONI,,499577
+https://www.azadliq.org/,NEWS,News Media,2017-04-10,OONI,,34405
+https://www.meydan.tv/,NEWS,News Media,2017-04-10,OONI,,75408
+http://www.abzas.net/,NEWS,News Media,2017-04-10,OONI,,10198797
+http://www.cumhuriyyet.net/,NEWS,News Media,2017-04-11,OONI,,12368068
+http://www.gununsesi.info/,NEWS,News Media,2017-04-11,OONI,,1700287
+https://www.dosye.org/,NEWS,News Media,2017-04-11,OONI,,12573206
+http://www.24saat.org/,NEWS,News Media,2017-04-11,OONI,,20605568
+https://www.irfs.org/,HUMR,Human Rights Issues,2017-04-11,OONI,,3720816
+http://azerbaycansaati.tv/,NEWS,News Media,2017-06-12,OONI,,9394974
+http://aztoday.az/,NEWS,News Media,2017-01-14,Community member,,4938666
+https://www.24saat.org/,NEWS,News Media,2017-01-16,Community member,,20605568
+http://masallilar.az/,NEWS,News Media,2017-01-23,Community member,,28306124
+http://criminal.az/,NEWS,News Media,2017-01-26,Community member,,8937093
+http://kulis.az/,CULTR,Culture,2017-01-30,Community member,,1827357
+https://axar.az/news/kult/,CULTR,Culture,2017-02-02,Community member,,2080265
+http://bastainfo.com/,NEWS,News Media,2018-03-04,Community member,,5976080
+http://www.turan.az/,NEWS,News Media,2018-03-04,Community member,,107018
+http://www.femida.az/,NEWS,News Media,2018-03-04,Community member,,687520
+http://www.gndem.org/,POLR,Political Criticism,2018-03-04,Community member,,2340181
+http://gozetci.az/,HUMR,Human Rights Issues,2018-03-04,Community member,,7502562
+https://www.humanrightsclub.net/,HUMR,Human Rights Issues,2018-03-04,Community member,,2416475
+https://novator.az/,NEWS,News Media,2018-03-04,Community member,,6472751
+https://www.xural.com/,NEWS,News Media,2018-03-10,Community member,,15466765
+http://smdtaz.org/,NEWS,News Media,2018-03-10,Community member,,6449372
+https://az.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,80673
+https://tr.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,15853
+https://az.wikisource.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,2810403
+https://az.wikiquote.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,2171920
+https://ru.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,24944
+https://az.wikibooks.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,293528
+https://www.rferl.org/,NEWS,News Media,2018-06-27,Community member,,1894
+https://ru.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,92177
+https://ru.m.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,2890796
+https://www.azerbaycanrealligi.com/,NEWS,News Media,2019-11-09,Community member,,6000624
+http://azpolitika.info/,NEWS,News Media,2019-11-09,Community member,This site was reportedly blocked in AZ,173244
+http://www.kanal13.tv/,NEWS,News Media,2019-11-09,Community member,,27943457
+http://arqument.az/,NEWS,News Media,2019-11-09,Community member,,7594398
+http://strateq.az/,NEWS,News Media,2019-11-09,Community member,,1564767
+http://istiqlal.az/,NEWS,News Media,2019-11-09,Community member,,1823061
+http://mia.az/,NEWS,News Media,2019-11-09,Community member,,692665
+https://qaynarinfo.az/,NEWS,News Media,2019-11-09,Community member,,165611
+http://gundeminfo.az/,NEWS,News Media,2019-11-09,Community member,,6839164
+https://qafqazinfo.az/,NEWS,News Media,2019-11-09,Community member,,187419
+http://teref.az/,NEWS,News Media,2019-11-09,Community member,,1517063
+http://7gun.az/,NEWS,News Media,2019-11-09,Community member,,21947426
+http://hefteaz.info/,NEWS,News Media,2019-11-09,Community member,Domain expired but included nonetheless because it was reportedly blocked,6281808
+https://www.gununsesi.org/,NEWS,News Media,2019-12-10,OONI,Reportedly blocked by quirium: https://www.qurium.org/alerts/azerbaijan/gununsesi-org-blocked-in-azerbaijan/,22740331
+https://gay.az/,LGBT,LGBT,2020-01-20,OONI,,6529251
+http://www.azadaz.org/,LGBT,LGBT,2020-01-20,OONI,,21105773
+https://azadliq1.azureedge.net/,NEWS,News Media,2020-07-17,Community member,RFERL,11132503
+https://d6hnm3uzmmstw.cloudfront.net/,NEWS,News Media,2020-07-17,Community member,RFERL,-1
+https://ovqat.com/,NEWS,News Media,2020-07-17,Community member,,20195626
+https://yukselis.info/,NEWS,News Media,2020-07-17,Community member,,54514119
+https://d9mc3ts4czbpr.cloudfront.net/az/,NEWS,News Media,2020-07-17,Community member,Meydan TV,1370484
+http://mtv.re/,NEWS,News Media,2020-07-17,Community member,Meydan TV,1685330
+https://storage.googleapis.com/qurium/gununsesi.org/index.html,NEWS,News Media,2020-07-17,Community member,Gununesesi,58
+https://storage.googleapis.com/qurium/24saat.org/index.html,NEWS,News Media,2020-07-17,Community member,24saat,58
+https://storage.googleapis.com/qurium/azerbaycansaati.tv/index.html,NEWS,News Media,2020-07-17,Community member,Azerbaycan saati,58
+https://storage.googleapis.com/qurium/abzas.net/index.html,NEWS,News Media,2020-07-17,Community member,Abzas,58
+https://storage.googleapis.com/qurium/azadliq.info/index.html,NEWS,News Media,2020-07-17,Community member,azadliq newspaper,58
+https://www.az-netwatch.org/,HUMR,Human Rights Issues,2022-02-01,,,1153993
+https://minval.az/,NEWS,News Media,2022-06-07,OONI,Reportedly blocked in Russia,195472
+https://ru.oxu.az/,NEWS,News Media,2022-06-07,OONI,Reportedly blocked in Russia,278197
+https://oxu.az/,NEWS,News Media,2022-06-07,OONI,Reportedly blocked in Russia,346212
+https://ru.baku.ws/,NEWS,News Media,2022-06-07,OONI,Reportedly blocked in Russia,466366
+https://baku.ws/,NEWS,News Media,2022-06-07,OONI,Reportedly blocked in Russia,477099
+https://haqqin.az/,NEWS,News Media,2022-06-07,OONI,Reportedly blocked in Russia,150641
+https://report.az/,NEWS,News Media,2022-06-07,OONI,,44770
+https://www.turan.az/,NEWS,News Media,2022-07-26,test-lists.ooni.org contribution,,107018
+https://www.meydan.tv/az/,NEWS,News Media,2022-07-26,test-lists.ooni.org contribution,,75408
+https://toplum.tv/,NEWS,News Media,2022-07-26,test-lists.ooni.org contribution,,7109015
+https://smdtaz.org/,HUMR,Human Rights Issues,2022-07-26,test-lists.ooni.org contribution,,6449372
+https://webcast.tiktok.com/webcast/wallet_api/diamond_buy/permission/,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,33718179
+https://vmweb-va.byteoversea.com/robots.txt,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,74298377
+https://v16-webapp.tiktok.com/robots.txt,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,5393403
+https://sf16-short-va.bytedapm.com/slardar/fe/sdk_lite/plugins/sample.1.1.0.maliva.js,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,18699194
+https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.449/webmssdk.js,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,26850326
+https://sf16-scmcdn-va.ibytedtos.com/obj/static-us/secsdk/secsdk-lastest.umd.js,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,1836894
+https://s20.tiktokcdn.com/tiktok/common/init.js,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,1985809
+https://p77-va.tiktokcdn.com/img/tos-useast2a-v-2774/4fcd4d23462548b3a4ca332ddf8bd6bd~c5_100x100.jpeg,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,22053206
+https://p77-sign-va.tiktokcdn.com/robots.txt,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,1840274
+https://p19-sign.tiktokcdn-us.com/robots.txt,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,1191570
+https://p16-sign-va.tiktokcdn.com/robots.txt,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,1433086
+https://mssdk-va.tiktok.com/web/resource,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,-1
+https://mon-va.byteoversea.com/monitor_web/settings/browser-settings?bid=webmssdk&store=1,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,1947325
+https://mcs-va.tiktok.com/robots.txt,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,30858343
+https://lf16-web.tiktokcdn.com/obj/tiktok-web-wp-us/wp-content/uploads/2021/05/accImg4.png,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,1848331
+https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-us/tiktok/webapp/main/webapp-mobile/runtime.55b64d1527fbff92816c.js,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,1768220
+https://lf16-tiktok-common.ibytedtos.com/robots.txt,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,1751629
+https://lf16-tiktok-web.neutral.ttwstatic.com/obj/bd-s3-va-tos-tiktok-web-neutral-us/pns/tiktok-cookie-banner/mali_va/1.0.0.101/web/web.esm.js,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,2055386
+https://lf16-tiktok-common.ttwstatic.com/robots.txt,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,2045027
+https://p16-sign-sg.tiktokcdn.com/robots.txt,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,1711358
+https://sf77-ies-music-sg.tiktokcdn.com/robots.txt,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,43585298
+https://p77-sign-sg-lite.tiktokcdn.com/robots.txt,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,2041139
+https://starling-oversea.byteoversea.com/robots.txt,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,19639114
+https://m.tiktok.com/robots.txt,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today,20746
+https://azadliq.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-14,rayasharbain,,-1
+https://azadli.github.io/,ANON,Anonymization and circumvention tools,2022-10-14,rayasharbain,,-1
+https://news.az/,NEWS,News Media,2022-11-29,test-lists.ooni.org contribution,,99594
+https://sputnik.az/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,,2307843

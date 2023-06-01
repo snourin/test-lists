@@ -1,0 +1,21 @@
+url,category_code,category_description,date_added,source,notes,rank
+https://sl.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,27308
+https://hr.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,35652
+https://sr.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,20596
+https://sl.wikisource.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,1429247
+https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,5510
+https://partis.si/,FILE,File-sharing,2023-05-14,test-lists.ooni.org contribution,P2P site,7832942
+https://www.mladina.si/,NEWS,News Media,2023-05-14,test-lists.ooni.org contribution,,39858
+https://mikstone.si/,POLR,Political Criticism,2023-05-14,test-lists.ooni.org contribution,,22937605
+https://cezvesoljskacerkev.weebly.com/,REL,Religion,2023-05-14,test-lists.ooni.org contribution,Registered religion,16615532
+https://www.24ur.com/,NEWS,News Media,2023-05-14,test-lists.ooni.org contribution,Largest commercial TV,36122
+https://www.rtvslo.si/,NEWS,News Media,2023-05-14,test-lists.ooni.org contribution,National TV,18627
+https://www.had.si/,POLR,Political Criticism,2023-05-14,test-lists.ooni.org contribution,,2292159
+https://prava.si/,POLR,Political Criticism,2023-05-14,test-lists.ooni.org contribution,,16772651
+https://erar.si/,GOVT,Government,2023-05-14,test-lists.ooni.org contribution,Public spending transparency,10378975
+https://www.delo.si/,NEWS,News Media,2023-05-14,test-lists.ooni.org contribution,,36760
+https://vecer.com/,NEWS,News Media,2023-05-14,test-lists.ooni.org contribution,,106882
+https://nova24tv.si/,POLR,Political Criticism,2023-05-14,test-lists.ooni.org contribution,,239639
+https://legebitra.si/,LGBT,LGBT,2023-05-14,test-lists.ooni.org contribution,,4365373
+https://ljubljanapride.org/,LGBT,LGBT,2023-05-14,test-lists.ooni.org contribution,,3724729
+https://lgbtpravice.si/,LGBT,LGBT,2023-05-14,test-lists.ooni.org contribution,,15376312

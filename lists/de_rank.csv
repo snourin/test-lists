@@ -1,0 +1,36 @@
+url,category_code,category_description,date_added,source,notes,rank
+https://kinox.to/,MMED,Media sharing,2018-02-26,Anonymous,EuGH,1149841
+https://tr.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,15853
+https://de.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,36317
+https://de.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country,32864
+https://s.to/,MMED,Media sharing,2019-04-25,Anonymous,Blocked URL,877482
+https://bs.to/,MMED,Media sharing,2019-04-25,Anonymous,Blocked URL,256341
+https://boerse.to/,MMED,Media sharing,2019-04-25,Anonymous,Blocked URL,7706353
+https://gen.lib.rus.ec/,CULTR,Culture,2019-04-25,Anonymous,Blocked URL,77918
+https://pr0gramm.com/,GRP,Social Networking,2019-05-08,Community member,Controversial german imageboard,1465980
+https://verbot-aufheben.de/,POLR,Political Criticism,2021-11-17,,Website of a campaign to end the prosecution of the PKK through the german state,47143078
+https://civaka-azad.org/,HUMR,Human Rights Issues,2021-11-17,,Providing news and background information about the suppression of kurdish people,2086965
+https://anfdeutsch.com/,NEWS,News Media,2021-11-17,,kurdish news agency publishing in german language,242653
+https://systemli.org/,HOST,Hosting and Blogging Platforms,2021-11-18,,Non-commercial provider of privacy friendly communication,4775102
+https://nadir.org/,HOST,Hosting and Blogging Platforms,2021-11-18,,"A publications platform, a communication network and an information system",82362
+https://blackblogs.org/,HOST,Hosting and Blogging Platforms,2021-11-18,,"Non-commercial, antifascist, antisexist, antiracist, privacy-oriented blog platform for radical activists",16063475
+https://de.indymedia.org/,POLR,Political Criticism,2021-11-18,,"Independent, non-commercial media network",60229
+https://netzpolitik.org/,NEWS,News Media,2021-11-20,,media for digital freedoms and rights,11697
+http://luetzerathlebt.info/,ENV,Environment,2021-11-20,,a village in the Rhineland region fighting against being destroyed for brown coal mining,1315413
+https://www.nd-aktuell.de/,NEWS,News Media,2021-11-20,,socialist german newspaper,73633
+https://www.jungewelt.de/,NEWS,News Media,2021-11-20,,left and marxist german newspaper,43985
+https://www.der-postillon.com/,CULTR,Culture,2021-11-20,,parody news organization,164034
+https://www.free.de/,HOST,Hosting and Blogging Platforms,2021-11-20,,association providing free and uncensored communication services,3226150
+https://so36.net/,HOST,Hosting and Blogging Platforms,2021-11-20,,providing volunteer-run self-hosted digital infrastructure,738770
+https://linksunten.indymedia.org/,POLR,Political Criticism,2021-11-20,,archive of the banned leftist media website linksunten indymedia,1140493
+https://blog.fefe.de/,POLR,Political Criticism,2021-11-20,,watchblog focused on IT security and nerd subjects,95583
+http://www.mate1.com/,DATE,Online Dating,2022-02-16,citizenlab,,300439
+https://de.xhamster.com/,PORN,Pornography,2022-04-19,Kommission für Jugendmedienschutz,,1437344
+https://francais.rt.com/,NEWS,News Media,2023-04-20,OONI,blocked russian media,31866
+https://de.rt.com/,NEWS,News Media,2023-04-20,OONI,blocked russian media,533303
+https://actualidad.rt.com/,NEWS,News Media,2023-04-20,OONI,blocked russian media,43514
+https://a-russia.ru/,NEWS,News Media,2023-04-20,OONI,,21721431
+https://www.coolstreaming.us/,MMED,Media sharing,2023-04-20,OONI,,2037347
+https://rtde.site/,NEWS,News Media,2023-04-20,OONI,mirror of de.rt.com,1895743
+https://esrt.online/,NEWS,News Media,2023-04-20,OONI,mirror of actualidad.rt.com,16648865
+https://snanews.de/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,,51545
